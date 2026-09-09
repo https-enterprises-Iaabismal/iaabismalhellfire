@@ -1,0 +1,81 @@
+name = "stripe-landing-page"
+main = "worker-final.js"
+compatibility_date = "2026-06-01"
+
+[[r2_buckets]]
+binding = "ABYSSAL_APKS"
+bucket_name = "abyssal-apks-bucket"
+name = "stripe-landing-page"
+main = "worker-final.js"
+compatibility_date = "2026-06-01"
+
+[[r2_buckets]]
+binding = "ABYSSAL_APKS"
+bucket_name = "abyssal-apks-bucket" # Cambia esto por el nombre real de tu bucket en R2
+export default {
+  async fetch(request, env, ctx) {
+    const url = new URL(request.url);
+
+    // 1. Ruta para despachar la APK directo desde el Bucket R2 a máxima velocidad
+    if (url.pathname === "/download/apk" || url.pathname === "/apk") {
+      const fileName = "abyssal-player.apk"; // Asegúrate de que coincida con el nombre en tu R2
+      const object = await env.ABYSSAL_APKS.get(fileName);
+
+      if (!object) {
+        return new Response("APK no encontrada en el abismo (R2)", { status: 404 });
+      }
+
+      const headers = new Headers();
+      object.writeHttpMetadata(headers);
+      headers.set("etag", object.httpEtag);
+      headers.set("Content-Disposition", `attachment; filename="${fileName}"`);
+
+      return new Response(object.body, {
+        headers,
+      });
+    }
+
+    // 2. Ruta para el motor de IA / Lógica general de la landing
+    if (url.pathname === "/api/chat" && request.method === "POST") {
+      try {
+        const body = await request.json();
+        // Aquí conectas tu binding de IA (por ejemplo, Workers AI)
+        const aiResponse = await env.AI.run("@cf/meta/llama-3-8b-instruct", {
+          prompt: body.prompt || "Mantén la esencia extrema del abismo.",
+        });
+
+        return new Response(JSON.stringify(aiResponse), {
+          headers: { "Content-Type": "application/json" },
+        });
+      } catch (err) {
+        return new Response(JSON.stringify({ error: err.message }), { status: 500, headers: { "Content-Type": "application/json" } });
+      }
+    }
+
+    // 3. Respuesta por defecto para la Landing Principal
+    return new Response(
+      `<!DOCTYPE html>
+      <html lang="es">
+      <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>IA Abismal Hellfire - El Poder del Sonido Extremo</title>
+          <style>
+              body { background: #0a0a0a; color: #f0f0f0; font-family: monospace; text-align: center; padding-top: 50px; }
+              .btn { background: #ff0055; color: #fff; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 5px; display: inline-block; margin-top: 20px; }
+              .btn:hover { background: #ff3377; }
+          </style>
+      </head>
+      <body>
+          <h1>IA ABYSSAL HELLFIRE</h1>
+          <p>El motor definitivo para el sonido extremo y la automatización total.</p>
+          <a href="/download/apk" class="btn">DESCARGAR APK MÁXIMA VELOCIDAD</a>
+      </body>
+      </html>`,
+      {
+        headers: { "Content-Type": "text/html;charset=UTF-8" },
+      }
+    );
+  },
+};
+
