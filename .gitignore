@@ -1,0 +1,4 @@
+.env
+qdrant_storage/
+abyssal_engine
+__pycache__/

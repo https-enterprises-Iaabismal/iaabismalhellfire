@@ -1,22 +1,32 @@
+import os, subprocess, stripe
 from flask import Flask, jsonify, request
-import subprocess, os
 
 app = Flask(__name__)
-MODEL = os.getenv("MODEL_PATH", "abyssal_model.pte")
+stripe.api_key = os.getenv("STRIPE_SECRET_KEY", "sk_test_dummy")
 
 @app.get("/")
-def home():
-    return jsonify({"engine": "AbyssalEngine AeroCore-X", "status": "online", "model": MODEL})
+def health():
+    return jsonify({"engine": "AeroCore-X", "status": "online", "arch": "x86-64-v3"})
 
 @app.post("/predict")
 def predict():
-    result = subprocess.run(["./abyssal_engine", MODEL], capture_output=True, text=True, timeout=10)
-    return jsonify({"output": result.stdout, "error": result.stderr})
+    try:
+        res = subprocess.run(["./abyssal_engine"], capture_output=True, text=True, timeout=5)
+        return jsonify({"telemetry": res.stdout.strip()})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
-@app.get("/bench")
-def bench():
-    result = subprocess.run(["./abyssal_engine", MODEL], capture_output=True, text=True, timeout=15)
-    return jsonify({"telemetria": result.stdout})
+@app.post("/webhook/stripe")
+def stripe_webhook():
+    payload = request.data
+    sig = request.headers.get("Stripe-Signature")
+    try:
+        event = stripe.Webhook.construct_event(payload, sig, os.getenv("STRIPE_WEBHOOK_SECRET", ""))
+        if event["type"] == "checkout.session.completed":
+            print(f"[STRIPE OK] Pago: {event['data']['object']['id']}")
+        return jsonify({"ok": True})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 400
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
+    app.run(host="0.0.0.0", port=8080)

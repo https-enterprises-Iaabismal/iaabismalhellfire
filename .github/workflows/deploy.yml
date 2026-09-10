@@ -1,4 +1,4 @@
-name: Abismal Enterprise Deploy
+name: Abyssal Deploy
 on:
   push:
     branches: ["main"]

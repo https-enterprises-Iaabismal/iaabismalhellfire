@@ -1,0 +1,20 @@
+version: '3.8'
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    ports: ["6333:6333"]
+    volumes: ["./qdrant_storage:/qdrant/storage"]
+    restart: always
+
+  abyssal-api:
+    build: .
+    ports: ["8080:8080"]
+    env_file: .env
+    depends_on: [qdrant]
+    restart: always
+
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    command: tunnel --no-autoupdate run --token ${CLOUDFLARE_TUNNEL_TOKEN}
+    depends_on: [abyssal-api]
+    restart: always
