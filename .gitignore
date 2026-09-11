@@ -1,5 +1,6 @@
-.env
-qdrant_storage/
-abyssal_engine
-__pycache__/
+node_modules
+.next
 .vercel
+.env
+.env.local
+_bak
