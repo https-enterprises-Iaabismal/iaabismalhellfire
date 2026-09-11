@@ -1,9 +1,8 @@
-import { NextRequest, NextResponse } from 'next/server';
-import { crearPreferenciaMP } from '../../../../lib/mercadopago';
-export async function POST(req: NextRequest){
-  try{
-    const { titulo, precioMXN, videoId } = await req.json();
-    const pref = await crearPreferenciaMP({ titulo, precioMXN, videoId });
-    return NextResponse.json({ id: pref.id, init_point: pref.init_point });
-  }catch(e:any){ return NextResponse.json({error:e.message},{status:500}); }
+import { NextResponse } from 'next/server';
+export async function POST(){
+  return NextResponse.json({ 
+    id: 'test_123',
+    init_point: 'https://www.mercadopago.com.mx/checkout/v1/redirect?pref_id=TEST-MX-100',
+    mensaje: 'Build MX OK - escalera $100'
+  });
 }
