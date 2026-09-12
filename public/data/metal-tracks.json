@@ -1,26 +1,7 @@
 [
-  {
-    "id": "zJq7j2D6F1M",
-    "title": "Mayhem - Freezing Moon",
-    "band": "Mayhem",
-    "sub": "black",
-    "year": 1994,
-    "yt": "zJq7j2D6F1M"
-  },
-  {
-    "id": "b8m9zhNAgKs",
-    "title": "Pantera - Cowboys From Hell",
-    "band": "Pantera",
-    "sub": "thrash",
-    "year": 1990,
-    "yt": "b8m9zhNAgKs"
-  },
-  {
-    "id": "p6q7r8s9t0u",
-    "title": "Black Sabbath - War Pigs",
-    "band": "Black Sabbath",
-    "sub": "doom",
-    "year": 1970,
-    "yt": "p6q7r8s9t0u"
-  }
+  {"id":"6QGlnm6lIZM","title":"Mayhem - Freezing Moon","band":"Mayhem","sub":"black","year":1994,"yt":"6QGlnm6lIZM"},
+  {"id":"i97OkCXwotE","title":"Pantera - Cowboys From Hell","band":"Pantera","sub":"thrash","year":1990,"yt":"i97OkCXwotE"},
+  {"id":"K3b6SGoN6dA","title":"Black Sabbath - War Pigs","band":"Black Sabbath","sub":"doom","year":1970,"yt":"K3b6SGoN6dA"},
+  {"id":"xnKhsTXoKCI","title":"Metallica - Master Of Puppets","band":"Metallica","sub":"thrash","year":1986,"yt":"xnKhsTXoKCI"},
+  {"id":"zY5nYmTUfnQ","title":"Black Sabbath - Paranoid","band":"Black Sabbath","sub":"doom","year":1970,"yt":"zY5nYmTUfnQ"}
 ]
