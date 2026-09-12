@@ -1,7 +1,6 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 export function middleware(req: NextRequest) {
-  // Tu email = acceso total sin pagar
   const email = req.cookies.get('user_email')?.value || '';
   const isOwner = email.toLowerCase().includes('armando');
   if(isOwner){
