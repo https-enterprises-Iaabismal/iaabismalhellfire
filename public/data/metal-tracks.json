@@ -1,7 +1,3602 @@
 [
-  {"id":"6QGlnm6lIZM","title":"Mayhem - Freezing Moon","band":"Mayhem","sub":"black","year":1994,"yt":"6QGlnm6lIZM"},
-  {"id":"i97OkCXwotE","title":"Pantera - Cowboys From Hell","band":"Pantera","sub":"thrash","year":1990,"yt":"i97OkCXwotE"},
-  {"id":"K3b6SGoN6dA","title":"Black Sabbath - War Pigs","band":"Black Sabbath","sub":"doom","year":1970,"yt":"K3b6SGoN6dA"},
-  {"id":"xnKhsTXoKCI","title":"Metallica - Master Of Puppets","band":"Metallica","sub":"thrash","year":1986,"yt":"xnKhsTXoKCI"},
-  {"id":"zY5nYmTUfnQ","title":"Black Sabbath - Paranoid","band":"Black Sabbath","sub":"doom","year":1970,"yt":"zY5nYmTUfnQ"}
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Kampfar - Tornekratt - Kampfar",
+    "band": "Kampfar",
+    "sub": "VIKINGOS",
+    "year": 2015,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "VIKINGOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Morbid Angel - Dawn - Morbid Angel",
+    "band": "Morbid Angel",
+    "sub": "MUERTE",
+    "year": 1993,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Bloodbath - Eaten - Bloodbath",
+    "band": "Bloodbath",
+    "sub": "SANGRE",
+    "year": 2004,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "SANGRE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 3 SOCIEDADES",
+    "band": "Underground 3",
+    "sub": "SOCIEDADES",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "SOCIEDADES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 4 SOCIEDADES",
+    "band": "Underground 4",
+    "sub": "SOCIEDADES",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "SOCIEDADES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 5 SANGRE",
+    "band": "Underground 5",
+    "sub": "SANGRE",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "SANGRE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 6 PLACER",
+    "band": "Underground 6",
+    "sub": "PLACER",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "PLACER",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 7 RITUALES",
+    "band": "Underground 7",
+    "sub": "RITUALES",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "RITUALES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 8 SANGRE",
+    "band": "Underground 8",
+    "sub": "SANGRE",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "SANGRE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 9 MENTIRA",
+    "band": "Underground 9",
+    "sub": "MENTIRA",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "MENTIRA",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 10 OCULTISMO",
+    "band": "Underground 10",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 11 MENTIRA",
+    "band": "Underground 11",
+    "sub": "MENTIRA",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "MENTIRA",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 12 ASESINOS",
+    "band": "Underground 12",
+    "sub": "ASESINOS",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "ASESINOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 13 PROFECIAS",
+    "band": "Underground 13",
+    "sub": "PROFECIAS",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "PROFECIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 14 EPICOS",
+    "band": "Underground 14",
+    "sub": "EPICOS",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "EPICOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 15 SINFONICO",
+    "band": "Underground 15",
+    "sub": "SINFONICO",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "SINFONICO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 16 ESPIRITU",
+    "band": "Underground 16",
+    "sub": "ESPIRITU",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "ESPIRITU",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 17 CONSPIRACIONES",
+    "band": "Underground 17",
+    "sub": "CONSPIRACIONES",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "CONSPIRACIONES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 18 AMOR",
+    "band": "Underground 18",
+    "sub": "AMOR",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "AMOR",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 19 INFIERNO",
+    "band": "Underground 19",
+    "sub": "INFIERNO",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "INFIERNO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 20 OCULTISMO",
+    "band": "Underground 20",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 21 MENTIRA",
+    "band": "Underground 21",
+    "sub": "MENTIRA",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "MENTIRA",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 22 RELIGION",
+    "band": "Underground 22",
+    "sub": "RELIGION",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "RELIGION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 23 DEPRESION",
+    "band": "Underground 23",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 24 AMOR",
+    "band": "Underground 24",
+    "sub": "AMOR",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "AMOR",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 25 ESPIRITU",
+    "band": "Underground 25",
+    "sub": "ESPIRITU",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "ESPIRITU",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 26 INFIERNO",
+    "band": "Underground 26",
+    "sub": "INFIERNO",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "INFIERNO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 27 DEPRESION",
+    "band": "Underground 27",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 28 MUERTE",
+    "band": "Underground 28",
+    "sub": "MUERTE",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 29 CONTROL",
+    "band": "Underground 29",
+    "sub": "CONTROL",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "CONTROL",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 30 SOCIEDADES",
+    "band": "Underground 30",
+    "sub": "SOCIEDADES",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "SOCIEDADES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 31 CONSPIRACIONES",
+    "band": "Underground 31",
+    "sub": "CONSPIRACIONES",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "CONSPIRACIONES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 32 EPICOS",
+    "band": "Underground 32",
+    "sub": "EPICOS",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "EPICOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 33 PLACER",
+    "band": "Underground 33",
+    "sub": "PLACER",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "PLACER",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 34 HISTORIAS",
+    "band": "Underground 34",
+    "sub": "HISTORIAS",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "HISTORIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 35 VIKINGOS",
+    "band": "Underground 35",
+    "sub": "VIKINGOS",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "VIKINGOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 36 MENTALISMO",
+    "band": "Underground 36",
+    "sub": "MENTALISMO",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "MENTALISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 37 MACHIN",
+    "band": "Underground 37",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 38 DIOS",
+    "band": "Underground 38",
+    "sub": "DIOS",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "DIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 39 DEPRESION",
+    "band": "Underground 39",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 40 DIABLO",
+    "band": "Underground 40",
+    "sub": "DIABLO",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "DIABLO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 41 ASESINOS",
+    "band": "Underground 41",
+    "sub": "ASESINOS",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "ASESINOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 42 SINFONICO",
+    "band": "Underground 42",
+    "sub": "SINFONICO",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "SINFONICO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 43 MUERTE",
+    "band": "Underground 43",
+    "sub": "MUERTE",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 44 OCULTISMO",
+    "band": "Underground 44",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 45 CEMENTERIOS",
+    "band": "Underground 45",
+    "sub": "CEMENTERIOS",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "CEMENTERIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 46 VIKINGOS",
+    "band": "Underground 46",
+    "sub": "VIKINGOS",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "VIKINGOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 47 EPICOS",
+    "band": "Underground 47",
+    "sub": "EPICOS",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "EPICOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 48 CEMENTERIOS",
+    "band": "Underground 48",
+    "sub": "CEMENTERIOS",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "CEMENTERIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 49 SOCIEDADES",
+    "band": "Underground 49",
+    "sub": "SOCIEDADES",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "SOCIEDADES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 50 RITUALES",
+    "band": "Underground 50",
+    "sub": "RITUALES",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "RITUALES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 51 OCULTISMO",
+    "band": "Underground 51",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 52 PROFECIAS",
+    "band": "Underground 52",
+    "sub": "PROFECIAS",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "PROFECIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 53 DIABLO",
+    "band": "Underground 53",
+    "sub": "DIABLO",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "DIABLO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 54 MENTALIDAD",
+    "band": "Underground 54",
+    "sub": "MENTALIDAD",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "MENTALIDAD",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 55 VIKINGOS",
+    "band": "Underground 55",
+    "sub": "VIKINGOS",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "VIKINGOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 56 MUERTE",
+    "band": "Underground 56",
+    "sub": "MUERTE",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 57 INFIERNO",
+    "band": "Underground 57",
+    "sub": "INFIERNO",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "INFIERNO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 58 LOBOS",
+    "band": "Underground 58",
+    "sub": "LOBOS",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "LOBOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 59 MENTALIDAD",
+    "band": "Underground 59",
+    "sub": "MENTALIDAD",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "MENTALIDAD",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 60 MUERTE",
+    "band": "Underground 60",
+    "sub": "MUERTE",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 61 LOBOS",
+    "band": "Underground 61",
+    "sub": "LOBOS",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "LOBOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 62 MENTIRA",
+    "band": "Underground 62",
+    "sub": "MENTIRA",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "MENTIRA",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 63 PLACER",
+    "band": "Underground 63",
+    "sub": "PLACER",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "PLACER",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 64 CONSPIRACIONES",
+    "band": "Underground 64",
+    "sub": "CONSPIRACIONES",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "CONSPIRACIONES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 65 ASESINOS",
+    "band": "Underground 65",
+    "sub": "ASESINOS",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "ASESINOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 66 MACHIN",
+    "band": "Underground 66",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 67 SANGRE",
+    "band": "Underground 67",
+    "sub": "SANGRE",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "SANGRE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 68 CONTROL",
+    "band": "Underground 68",
+    "sub": "CONTROL",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "CONTROL",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 69 VIKINGOS",
+    "band": "Underground 69",
+    "sub": "VIKINGOS",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "VIKINGOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 70 DEPRESION",
+    "band": "Underground 70",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 71 SANGRE",
+    "band": "Underground 71",
+    "sub": "SANGRE",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "SANGRE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 72 EPICOS",
+    "band": "Underground 72",
+    "sub": "EPICOS",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "EPICOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 73 MACHIN",
+    "band": "Underground 73",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 74 PLACER",
+    "band": "Underground 74",
+    "sub": "PLACER",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "PLACER",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 75 CONSPIRACIONES",
+    "band": "Underground 75",
+    "sub": "CONSPIRACIONES",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "CONSPIRACIONES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 76 SANGRE",
+    "band": "Underground 76",
+    "sub": "SANGRE",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "SANGRE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 77 VIKINGOS",
+    "band": "Underground 77",
+    "sub": "VIKINGOS",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "VIKINGOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 78 DIABLO",
+    "band": "Underground 78",
+    "sub": "DIABLO",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "DIABLO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 79 MENTALIDAD",
+    "band": "Underground 79",
+    "sub": "MENTALIDAD",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "MENTALIDAD",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 80 CONTROL",
+    "band": "Underground 80",
+    "sub": "CONTROL",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "CONTROL",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 81 EPICOS",
+    "band": "Underground 81",
+    "sub": "EPICOS",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "EPICOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 82 RELIGION",
+    "band": "Underground 82",
+    "sub": "RELIGION",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "RELIGION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 83 MENTALIDAD",
+    "band": "Underground 83",
+    "sub": "MENTALIDAD",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "MENTALIDAD",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 84 MUERTE",
+    "band": "Underground 84",
+    "sub": "MUERTE",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 85 ASESINOS",
+    "band": "Underground 85",
+    "sub": "ASESINOS",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "ASESINOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 86 MACHIN",
+    "band": "Underground 86",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 87 AMOR",
+    "band": "Underground 87",
+    "sub": "AMOR",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "AMOR",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 88 VIKINGOS",
+    "band": "Underground 88",
+    "sub": "VIKINGOS",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "VIKINGOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 89 DIABLO",
+    "band": "Underground 89",
+    "sub": "DIABLO",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "DIABLO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 90 MACHIN",
+    "band": "Underground 90",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 91 INFIERNO",
+    "band": "Underground 91",
+    "sub": "INFIERNO",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "INFIERNO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 92 SOCIEDADES",
+    "band": "Underground 92",
+    "sub": "SOCIEDADES",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "SOCIEDADES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 93 SATANISMO",
+    "band": "Underground 93",
+    "sub": "SATANISMO",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "SATANISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 94 DEPRESION",
+    "band": "Underground 94",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 95 MUERTE",
+    "band": "Underground 95",
+    "sub": "MUERTE",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 96 AMOR",
+    "band": "Underground 96",
+    "sub": "AMOR",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "AMOR",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 97 CEMENTERIOS",
+    "band": "Underground 97",
+    "sub": "CEMENTERIOS",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "CEMENTERIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 98 AMOR",
+    "band": "Underground 98",
+    "sub": "AMOR",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "AMOR",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 99 AMOR",
+    "band": "Underground 99",
+    "sub": "AMOR",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "AMOR",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 100 CONSPIRACIONES",
+    "band": "Underground 100",
+    "sub": "CONSPIRACIONES",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "CONSPIRACIONES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 101 DIOS",
+    "band": "Underground 101",
+    "sub": "DIOS",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "DIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 102 CONTROL",
+    "band": "Underground 102",
+    "sub": "CONTROL",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "CONTROL",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 103 OCULTISMO",
+    "band": "Underground 103",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 104 ASESINOS",
+    "band": "Underground 104",
+    "sub": "ASESINOS",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "ASESINOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 105 PLACER",
+    "band": "Underground 105",
+    "sub": "PLACER",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "PLACER",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 106 SATANISMO",
+    "band": "Underground 106",
+    "sub": "SATANISMO",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "SATANISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 107 DEPRESION",
+    "band": "Underground 107",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 108 AMOR",
+    "band": "Underground 108",
+    "sub": "AMOR",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "AMOR",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 109 MACHIN",
+    "band": "Underground 109",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 110 PROFECIAS",
+    "band": "Underground 110",
+    "sub": "PROFECIAS",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "PROFECIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 111 CONSPIRACIONES",
+    "band": "Underground 111",
+    "sub": "CONSPIRACIONES",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "CONSPIRACIONES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 112 SATANISMO",
+    "band": "Underground 112",
+    "sub": "SATANISMO",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "SATANISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 113 ASESINOS",
+    "band": "Underground 113",
+    "sub": "ASESINOS",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "ASESINOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 114 DEPRESION",
+    "band": "Underground 114",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 115 CEMENTERIOS",
+    "band": "Underground 115",
+    "sub": "CEMENTERIOS",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "CEMENTERIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 116 EPICOS",
+    "band": "Underground 116",
+    "sub": "EPICOS",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "EPICOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 117 RITUALES",
+    "band": "Underground 117",
+    "sub": "RITUALES",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "RITUALES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 118 OCULTISMO",
+    "band": "Underground 118",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 119 HISTORIAS",
+    "band": "Underground 119",
+    "sub": "HISTORIAS",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "HISTORIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 120 ESPIRITU",
+    "band": "Underground 120",
+    "sub": "ESPIRITU",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "ESPIRITU",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 121 CEMENTERIOS",
+    "band": "Underground 121",
+    "sub": "CEMENTERIOS",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "CEMENTERIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 122 MACHIN",
+    "band": "Underground 122",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 123 CEMENTERIOS",
+    "band": "Underground 123",
+    "sub": "CEMENTERIOS",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "CEMENTERIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 124 PROFECIAS",
+    "band": "Underground 124",
+    "sub": "PROFECIAS",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "PROFECIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 125 ESPIRITU",
+    "band": "Underground 125",
+    "sub": "ESPIRITU",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "ESPIRITU",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 126 SOCIEDADES",
+    "band": "Underground 126",
+    "sub": "SOCIEDADES",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "SOCIEDADES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 127 OCULTISMO",
+    "band": "Underground 127",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 128 CONSPIRACIONES",
+    "band": "Underground 128",
+    "sub": "CONSPIRACIONES",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "CONSPIRACIONES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 129 MENTALISMO",
+    "band": "Underground 129",
+    "sub": "MENTALISMO",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "MENTALISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 130 ASESINOS",
+    "band": "Underground 130",
+    "sub": "ASESINOS",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "ASESINOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 131 CEMENTERIOS",
+    "band": "Underground 131",
+    "sub": "CEMENTERIOS",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "CEMENTERIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 132 MACHIN",
+    "band": "Underground 132",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 133 ASESINOS",
+    "band": "Underground 133",
+    "sub": "ASESINOS",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "ASESINOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 134 CEMENTERIOS",
+    "band": "Underground 134",
+    "sub": "CEMENTERIOS",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "CEMENTERIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 135 OCULTISMO",
+    "band": "Underground 135",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 136 CONTROL",
+    "band": "Underground 136",
+    "sub": "CONTROL",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "CONTROL",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 137 INFIERNO",
+    "band": "Underground 137",
+    "sub": "INFIERNO",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "INFIERNO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 138 EPICOS",
+    "band": "Underground 138",
+    "sub": "EPICOS",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "EPICOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 139 SOCIEDADES",
+    "band": "Underground 139",
+    "sub": "SOCIEDADES",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "SOCIEDADES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 140 SINFONICO",
+    "band": "Underground 140",
+    "sub": "SINFONICO",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "SINFONICO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 141 CONSPIRACIONES",
+    "band": "Underground 141",
+    "sub": "CONSPIRACIONES",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "CONSPIRACIONES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 142 DIOS",
+    "band": "Underground 142",
+    "sub": "DIOS",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "DIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 143 MACHIN",
+    "band": "Underground 143",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 144 MENTALISMO",
+    "band": "Underground 144",
+    "sub": "MENTALISMO",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "MENTALISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 145 MENTIRA",
+    "band": "Underground 145",
+    "sub": "MENTIRA",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "MENTIRA",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 146 CEMENTERIOS",
+    "band": "Underground 146",
+    "sub": "CEMENTERIOS",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "CEMENTERIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 147 EPICOS",
+    "band": "Underground 147",
+    "sub": "EPICOS",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "EPICOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 148 DIOS",
+    "band": "Underground 148",
+    "sub": "DIOS",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "DIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 149 PROFECIAS",
+    "band": "Underground 149",
+    "sub": "PROFECIAS",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "PROFECIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 150 EPICOS",
+    "band": "Underground 150",
+    "sub": "EPICOS",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "EPICOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 151 CONTROL",
+    "band": "Underground 151",
+    "sub": "CONTROL",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "CONTROL",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 152 INFIERNO",
+    "band": "Underground 152",
+    "sub": "INFIERNO",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "INFIERNO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 153 VIKINGOS",
+    "band": "Underground 153",
+    "sub": "VIKINGOS",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "VIKINGOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 154 MUERTE",
+    "band": "Underground 154",
+    "sub": "MUERTE",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 155 INFIERNO",
+    "band": "Underground 155",
+    "sub": "INFIERNO",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "INFIERNO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 156 SATANISMO",
+    "band": "Underground 156",
+    "sub": "SATANISMO",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "SATANISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 157 CONTROL",
+    "band": "Underground 157",
+    "sub": "CONTROL",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "CONTROL",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 158 RELIGION",
+    "band": "Underground 158",
+    "sub": "RELIGION",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "RELIGION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 159 DIABLO",
+    "band": "Underground 159",
+    "sub": "DIABLO",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "DIABLO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 160 PROFECIAS",
+    "band": "Underground 160",
+    "sub": "PROFECIAS",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "PROFECIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 161 SANGRE",
+    "band": "Underground 161",
+    "sub": "SANGRE",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "SANGRE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 162 AMOR",
+    "band": "Underground 162",
+    "sub": "AMOR",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "AMOR",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 163 DIABLO",
+    "band": "Underground 163",
+    "sub": "DIABLO",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "DIABLO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 164 MENTALISMO",
+    "band": "Underground 164",
+    "sub": "MENTALISMO",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "MENTALISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 165 DEPRESION",
+    "band": "Underground 165",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 166 VIKINGOS",
+    "band": "Underground 166",
+    "sub": "VIKINGOS",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "VIKINGOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 167 LOBOS",
+    "band": "Underground 167",
+    "sub": "LOBOS",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "LOBOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 168 SATANISMO",
+    "band": "Underground 168",
+    "sub": "SATANISMO",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "SATANISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 169 MENTALIDAD",
+    "band": "Underground 169",
+    "sub": "MENTALIDAD",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "MENTALIDAD",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 170 ESPIRITU",
+    "band": "Underground 170",
+    "sub": "ESPIRITU",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "ESPIRITU",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 171 MUERTE",
+    "band": "Underground 171",
+    "sub": "MUERTE",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 172 DIABLO",
+    "band": "Underground 172",
+    "sub": "DIABLO",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "DIABLO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 173 INFIERNO",
+    "band": "Underground 173",
+    "sub": "INFIERNO",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "INFIERNO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 174 SANGRE",
+    "band": "Underground 174",
+    "sub": "SANGRE",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "SANGRE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 175 HISTORIAS",
+    "band": "Underground 175",
+    "sub": "HISTORIAS",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "HISTORIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 176 OCULTISMO",
+    "band": "Underground 176",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 177 MUERTE",
+    "band": "Underground 177",
+    "sub": "MUERTE",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 178 CONSPIRACIONES",
+    "band": "Underground 178",
+    "sub": "CONSPIRACIONES",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "CONSPIRACIONES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 179 PROFECIAS",
+    "band": "Underground 179",
+    "sub": "PROFECIAS",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "PROFECIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 180 MENTIRA",
+    "band": "Underground 180",
+    "sub": "MENTIRA",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "MENTIRA",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 181 MUERTE",
+    "band": "Underground 181",
+    "sub": "MUERTE",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 182 RITUALES",
+    "band": "Underground 182",
+    "sub": "RITUALES",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "RITUALES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 183 DEPRESION",
+    "band": "Underground 183",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 184 MUERTE",
+    "band": "Underground 184",
+    "sub": "MUERTE",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 185 LOBOS",
+    "band": "Underground 185",
+    "sub": "LOBOS",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "LOBOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 186 ESPIRITU",
+    "band": "Underground 186",
+    "sub": "ESPIRITU",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "ESPIRITU",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 187 RITUALES",
+    "band": "Underground 187",
+    "sub": "RITUALES",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "RITUALES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 188 CONTROL",
+    "band": "Underground 188",
+    "sub": "CONTROL",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "CONTROL",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 189 PROFECIAS",
+    "band": "Underground 189",
+    "sub": "PROFECIAS",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "PROFECIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 190 MUERTE",
+    "band": "Underground 190",
+    "sub": "MUERTE",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 191 VIKINGOS",
+    "band": "Underground 191",
+    "sub": "VIKINGOS",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "VIKINGOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 192 CEMENTERIOS",
+    "band": "Underground 192",
+    "sub": "CEMENTERIOS",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "CEMENTERIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 193 OCULTISMO",
+    "band": "Underground 193",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 194 DIOS",
+    "band": "Underground 194",
+    "sub": "DIOS",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "DIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 195 DIOS",
+    "band": "Underground 195",
+    "sub": "DIOS",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "DIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 196 SANGRE",
+    "band": "Underground 196",
+    "sub": "SANGRE",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "SANGRE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 197 PROFECIAS",
+    "band": "Underground 197",
+    "sub": "PROFECIAS",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "PROFECIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 198 CONTROL",
+    "band": "Underground 198",
+    "sub": "CONTROL",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "CONTROL",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 199 OCULTISMO",
+    "band": "Underground 199",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 200 HISTORIAS",
+    "band": "Underground 200",
+    "sub": "HISTORIAS",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "HISTORIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 201 MACHIN",
+    "band": "Underground 201",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 202 DIOS",
+    "band": "Underground 202",
+    "sub": "DIOS",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "DIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 203 DEPRESION",
+    "band": "Underground 203",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 204 LOBOS",
+    "band": "Underground 204",
+    "sub": "LOBOS",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "LOBOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 205 MENTIRA",
+    "band": "Underground 205",
+    "sub": "MENTIRA",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "MENTIRA",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 206 LOBOS",
+    "band": "Underground 206",
+    "sub": "LOBOS",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "LOBOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 207 SATANISMO",
+    "band": "Underground 207",
+    "sub": "SATANISMO",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "SATANISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 208 EPICOS",
+    "band": "Underground 208",
+    "sub": "EPICOS",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "EPICOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 209 MACHIN",
+    "band": "Underground 209",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 210 SINFONICO",
+    "band": "Underground 210",
+    "sub": "SINFONICO",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "SINFONICO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 211 LOBOS",
+    "band": "Underground 211",
+    "sub": "LOBOS",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "LOBOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 212 SANGRE",
+    "band": "Underground 212",
+    "sub": "SANGRE",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "SANGRE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 213 AMOR",
+    "band": "Underground 213",
+    "sub": "AMOR",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "AMOR",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 214 MENTALIDAD",
+    "band": "Underground 214",
+    "sub": "MENTALIDAD",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "MENTALIDAD",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 215 RELIGION",
+    "band": "Underground 215",
+    "sub": "RELIGION",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "RELIGION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 216 DIABLO",
+    "band": "Underground 216",
+    "sub": "DIABLO",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "DIABLO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 217 CONTROL",
+    "band": "Underground 217",
+    "sub": "CONTROL",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "CONTROL",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 218 PROFECIAS",
+    "band": "Underground 218",
+    "sub": "PROFECIAS",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "PROFECIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 219 RELIGION",
+    "band": "Underground 219",
+    "sub": "RELIGION",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "RELIGION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 220 RITUALES",
+    "band": "Underground 220",
+    "sub": "RITUALES",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "RITUALES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 221 MENTALISMO",
+    "band": "Underground 221",
+    "sub": "MENTALISMO",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "MENTALISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 222 MUERTE",
+    "band": "Underground 222",
+    "sub": "MUERTE",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 223 SINFONICO",
+    "band": "Underground 223",
+    "sub": "SINFONICO",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "SINFONICO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 224 RITUALES",
+    "band": "Underground 224",
+    "sub": "RITUALES",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "RITUALES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 225 INFIERNO",
+    "band": "Underground 225",
+    "sub": "INFIERNO",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "INFIERNO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 226 CEMENTERIOS",
+    "band": "Underground 226",
+    "sub": "CEMENTERIOS",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "CEMENTERIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 227 MACHIN",
+    "band": "Underground 227",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 228 MENTALISMO",
+    "band": "Underground 228",
+    "sub": "MENTALISMO",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "MENTALISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 229 PLACER",
+    "band": "Underground 229",
+    "sub": "PLACER",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "PLACER",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 230 MUERTE",
+    "band": "Underground 230",
+    "sub": "MUERTE",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 231 DEPRESION",
+    "band": "Underground 231",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 232 SOCIEDADES",
+    "band": "Underground 232",
+    "sub": "SOCIEDADES",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "SOCIEDADES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 233 LOBOS",
+    "band": "Underground 233",
+    "sub": "LOBOS",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "LOBOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 234 RITUALES",
+    "band": "Underground 234",
+    "sub": "RITUALES",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "RITUALES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 235 MACHIN",
+    "band": "Underground 235",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 236 CONTROL",
+    "band": "Underground 236",
+    "sub": "CONTROL",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "CONTROL",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 237 ASESINOS",
+    "band": "Underground 237",
+    "sub": "ASESINOS",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "ASESINOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 238 DIABLO",
+    "band": "Underground 238",
+    "sub": "DIABLO",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "DIABLO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 239 DIOS",
+    "band": "Underground 239",
+    "sub": "DIOS",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "DIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 240 MACHIN",
+    "band": "Underground 240",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 241 MENTALIDAD",
+    "band": "Underground 241",
+    "sub": "MENTALIDAD",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "MENTALIDAD",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 242 DIOS",
+    "band": "Underground 242",
+    "sub": "DIOS",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "DIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 243 VIKINGOS",
+    "band": "Underground 243",
+    "sub": "VIKINGOS",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "VIKINGOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 244 EPICOS",
+    "band": "Underground 244",
+    "sub": "EPICOS",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "EPICOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 245 OCULTISMO",
+    "band": "Underground 245",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 246 OCULTISMO",
+    "band": "Underground 246",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 247 VIKINGOS",
+    "band": "Underground 247",
+    "sub": "VIKINGOS",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "VIKINGOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 248 RELIGION",
+    "band": "Underground 248",
+    "sub": "RELIGION",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "RELIGION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 249 MENTALIDAD",
+    "band": "Underground 249",
+    "sub": "MENTALIDAD",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "MENTALIDAD",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 250 MUERTE",
+    "band": "Underground 250",
+    "sub": "MUERTE",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "MUERTE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 251 SANGRE",
+    "band": "Underground 251",
+    "sub": "SANGRE",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "SANGRE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 252 MENTIRA",
+    "band": "Underground 252",
+    "sub": "MENTIRA",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "MENTIRA",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 253 SANGRE",
+    "band": "Underground 253",
+    "sub": "SANGRE",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "SANGRE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 254 RITUALES",
+    "band": "Underground 254",
+    "sub": "RITUALES",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "RITUALES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 255 MACHIN",
+    "band": "Underground 255",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 256 RELIGION",
+    "band": "Underground 256",
+    "sub": "RELIGION",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "RELIGION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 257 RELIGION",
+    "band": "Underground 257",
+    "sub": "RELIGION",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "RELIGION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 258 PROFECIAS",
+    "band": "Underground 258",
+    "sub": "PROFECIAS",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "PROFECIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 259 EPICOS",
+    "band": "Underground 259",
+    "sub": "EPICOS",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "EPICOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 260 RITUALES",
+    "band": "Underground 260",
+    "sub": "RITUALES",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "RITUALES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 261 MENTALIDAD",
+    "band": "Underground 261",
+    "sub": "MENTALIDAD",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "MENTALIDAD",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 262 DIOS",
+    "band": "Underground 262",
+    "sub": "DIOS",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "DIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 263 LOBOS",
+    "band": "Underground 263",
+    "sub": "LOBOS",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "LOBOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 264 SANGRE",
+    "band": "Underground 264",
+    "sub": "SANGRE",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "SANGRE",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 265 SATANISMO",
+    "band": "Underground 265",
+    "sub": "SATANISMO",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "SATANISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 266 DEPRESION",
+    "band": "Underground 266",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 267 DEPRESION",
+    "band": "Underground 267",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 268 PROFECIAS",
+    "band": "Underground 268",
+    "sub": "PROFECIAS",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "PROFECIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 269 OCULTISMO",
+    "band": "Underground 269",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 270 DIOS",
+    "band": "Underground 270",
+    "sub": "DIOS",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "DIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 271 ESPIRITU",
+    "band": "Underground 271",
+    "sub": "ESPIRITU",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "ESPIRITU",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 272 CONTROL",
+    "band": "Underground 272",
+    "sub": "CONTROL",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "CONTROL",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 273 DEPRESION",
+    "band": "Underground 273",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 274 SATANISMO",
+    "band": "Underground 274",
+    "sub": "SATANISMO",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "SATANISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 275 VIKINGOS",
+    "band": "Underground 275",
+    "sub": "VIKINGOS",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "VIKINGOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 276 RITUALES",
+    "band": "Underground 276",
+    "sub": "RITUALES",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "RITUALES",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 277 HISTORIAS",
+    "band": "Underground 277",
+    "sub": "HISTORIAS",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "HISTORIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 278 DEPRESION",
+    "band": "Underground 278",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 279 DIABLO",
+    "band": "Underground 279",
+    "sub": "DIABLO",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "DIABLO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 280 SINFONICO",
+    "band": "Underground 280",
+    "sub": "SINFONICO",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "SINFONICO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 281 HISTORIAS",
+    "band": "Underground 281",
+    "sub": "HISTORIAS",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "HISTORIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 282 DIOS",
+    "band": "Underground 282",
+    "sub": "DIOS",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "DIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 283 DEPRESION",
+    "band": "Underground 283",
+    "sub": "DEPRESION",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "DEPRESION",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 284 CONTROL",
+    "band": "Underground 284",
+    "sub": "CONTROL",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "CONTROL",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "tFSQMtHNE18",
+    "title": "Joya 285 HISTORIAS",
+    "band": "Underground 285",
+    "sub": "HISTORIAS",
+    "year": 2024,
+    "yt": "tFSQMtHNE18",
+    "themes": [
+      "HISTORIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 286 ESPIRITU",
+    "band": "Underground 286",
+    "sub": "ESPIRITU",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "ESPIRITU",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "VRUnc0xvSf8",
+    "title": "Joya 287 PLACER",
+    "band": "Underground 287",
+    "sub": "PLACER",
+    "year": 2024,
+    "yt": "VRUnc0xvSf8",
+    "themes": [
+      "PLACER",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 288 DIABLO",
+    "band": "Underground 288",
+    "sub": "DIABLO",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "DIABLO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "JGYnx2m09pQ",
+    "title": "Joya 289 MACHIN",
+    "band": "Underground 289",
+    "sub": "MACHIN",
+    "year": 2024,
+    "yt": "JGYnx2m09pQ",
+    "themes": [
+      "MACHIN",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "xgdUlhnuz18",
+    "title": "Joya 290 INFIERNO",
+    "band": "Underground 290",
+    "sub": "INFIERNO",
+    "year": 2024,
+    "yt": "xgdUlhnuz18",
+    "themes": [
+      "INFIERNO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 291 PROFECIAS",
+    "band": "Underground 291",
+    "sub": "PROFECIAS",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "PROFECIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 292 PROFECIAS",
+    "band": "Underground 292",
+    "sub": "PROFECIAS",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "PROFECIAS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "E6UOwBZKmXg",
+    "title": "Joya 293 OCULTISMO",
+    "band": "Underground 293",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "E6UOwBZKmXg",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 294 ESPIRITU",
+    "band": "Underground 294",
+    "sub": "ESPIRITU",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "ESPIRITU",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "6QGlnm6lIZM",
+    "title": "Joya 295 EPICOS",
+    "band": "Underground 295",
+    "sub": "EPICOS",
+    "year": 2024,
+    "yt": "6QGlnm6lIZM",
+    "themes": [
+      "EPICOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "CODmtogsZSk",
+    "title": "Joya 296 SINFONICO",
+    "band": "Underground 296",
+    "sub": "SINFONICO",
+    "year": 2024,
+    "yt": "CODmtogsZSk",
+    "themes": [
+      "SINFONICO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "s2EJ1AqPIPg",
+    "title": "Joya 297 DIOS",
+    "band": "Underground 297",
+    "sub": "DIOS",
+    "year": 2024,
+    "yt": "s2EJ1AqPIPg",
+    "themes": [
+      "DIOS",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "AIeVnN9cFmw",
+    "title": "Joya 298 OCULTISMO",
+    "band": "Underground 298",
+    "sub": "OCULTISMO",
+    "year": 2024,
+    "yt": "AIeVnN9cFmw",
+    "themes": [
+      "OCULTISMO",
+      "INFIERNO"
+    ]
+  },
+  {
+    "id": "J5yta7KG4Rg",
+    "title": "Joya 299 SATANISMO",
+    "band": "Underground 299",
+    "sub": "SATANISMO",
+    "year": 2024,
+    "yt": "J5yta7KG4Rg",
+    "themes": [
+      "SATANISMO",
+      "INFIERNO"
+    ]
+  }
 ]
