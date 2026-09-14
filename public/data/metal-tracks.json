@@ -1,3604 +1,3907 @@
 {
+  "version": "2.0.0",
+  "engine": "AeroCore-X / Abyssal Hellfire",
+  "total": 300,
   "tracks": [
     {
       "id": "J5yta7KG4Rg",
-      "title": "Tornekratt",
       "band": "Kampfar",
+      "title": "Tornekratt",
       "sub": "VIKINGOS",
       "year": 2015,
       "yt": "J5yta7KG4Rg",
       "themes": [
         "VIKINGOS",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
       "id": "E6UOwBZKmXg",
-      "title": "Dawn of the Angry",
       "band": "Morbid Angel",
+      "title": "Dawn of the Angry",
       "sub": "MUERTE",
       "year": 1993,
       "yt": "E6UOwBZKmXg",
       "themes": [
         "MUERTE",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
       "id": "AIeVnN9cFmw",
-      "title": "Eaten",
       "band": "Bloodbath",
+      "title": "Eaten",
       "sub": "SANGRE",
       "year": 2004,
       "yt": "AIeVnN9cFmw",
       "themes": [
         "SANGRE",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "s2EJ1AqPIPg",
-      "title": "Voice of the Soul",
-      "band": "Death",
-      "sub": "MUERTE",
-      "year": 1998,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "MUERTE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ",
-      "title": "Freezing Moon",
-      "band": "Mayhem",
-      "sub": "NEGRO",
-      "year": 1994,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "NEGRO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18",
-      "title": "Dunkelheit",
-      "band": "Burzum",
-      "sub": "NEGRO",
-      "year": 1996,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "NEGRO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk",
-      "title": "Heartwork",
-      "band": "Carcass",
-      "sub": "MUERTE",
-      "year": 1993,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "MUERTE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8",
-      "title": "Blackwater Park",
-      "band": "Opeth",
-      "sub": "DOOM",
-      "year": 2001,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "DOOM",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM",
-      "title": "Incipit Satan",
-      "band": "Gorgoroth",
-      "sub": "SATANISMO",
-      "year": 2000,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "SATANISMO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_10",
-      "title": "Sinfonía Abismal #10",
-      "band": "Legión Subterránea 10",
-      "sub": "ASESINOS",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "ASESINOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_11",
-      "title": "Sinfonía Abismal #11",
-      "band": "Legión Subterránea 11",
-      "sub": "SINFONICO",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "SINFONICO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_12",
-      "title": "Sinfonía Abismal #12",
-      "band": "Legión Subterránea 12",
-      "sub": "HISTORIAS",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "HISTORIAS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_13",
-      "title": "Sinfonía Abismal #13",
-      "band": "Legión Subterránea 13",
-      "sub": "DIOS",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "DIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_14",
-      "title": "Sinfonía Abismal #14",
-      "band": "Legión Subterránea 14",
-      "sub": "ASESINOS",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "ASESINOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_15",
-      "title": "Sinfonía Abismal #15",
-      "band": "Legión Subterránea 15",
-      "sub": "EPICOS",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "EPICOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_16",
-      "title": "Sinfonía Abismal #16",
-      "band": "Legión Subterránea 16",
+      "id": "s2EJ1AqPIPg_004",
+      "band": "Legion 4",
+      "title": "Sinfonia Abismal #004",
       "sub": "INFIERNO",
       "year": 2024,
-      "yt": "VRUnc0xvSf8",
+      "yt": "s2EJ1AqPIPg",
       "themes": [
         "INFIERNO",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "J5yta7KG4Rg_17",
-      "title": "Sinfonía Abismal #17",
-      "band": "Legión Subterránea 17",
+      "id": "E6UOwBZKmXg_005",
+      "band": "Legion 5",
+      "title": "Sinfonia Abismal #005",
+      "sub": "PROFECIAS",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "PROFECIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_006",
+      "band": "Legion 6",
+      "title": "Sinfonia Abismal #006",
       "sub": "INFIERNO",
       "year": 2024,
-      "yt": "J5yta7KG4Rg",
+      "yt": "E6UOwBZKmXg",
       "themes": [
         "INFIERNO",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "CODmtogsZSk_18",
-      "title": "Sinfonía Abismal #18",
-      "band": "Legión Subterránea 18",
-      "sub": "ASESINOS",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "ASESINOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_19",
-      "title": "Sinfonía Abismal #19",
-      "band": "Legión Subterránea 19",
-      "sub": "VIKINGOS",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "VIKINGOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_20",
-      "title": "Sinfonía Abismal #20",
-      "band": "Legión Subterránea 20",
-      "sub": "DEPRESION",
+      "id": "s2EJ1AqPIPg_007",
+      "band": "Legion 7",
+      "title": "Sinfonia Abismal #007",
+      "sub": "RELIGION",
       "year": 2024,
       "yt": "s2EJ1AqPIPg",
       "themes": [
-        "DEPRESION",
+        "RELIGION",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "VRUnc0xvSf8_21",
-      "title": "Sinfonía Abismal #21",
-      "band": "Legión Subterránea 21",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_22",
-      "title": "Sinfonía Abismal #22",
-      "band": "Legión Subterránea 22",
-      "sub": "SOCIEDADES",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "SOCIEDADES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_23",
-      "title": "Sinfonía Abismal #23",
-      "band": "Legión Subterránea 23",
-      "sub": "MENTALIDAD",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "MENTALIDAD",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_24",
-      "title": "Sinfonía Abismal #24",
-      "band": "Legión Subterránea 24",
-      "sub": "ESPIRITU",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "ESPIRITU",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_25",
-      "title": "Sinfonía Abismal #25",
-      "band": "Legión Subterránea 25",
-      "sub": "EPICOS",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "EPICOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_26",
-      "title": "Sinfonía Abismal #26",
-      "band": "Legión Subterránea 26",
-      "sub": "RITUALES",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "RITUALES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_27",
-      "title": "Sinfonía Abismal #27",
-      "band": "Legión Subterránea 27",
-      "sub": "CEMENTERIOS",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "CEMENTERIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_28",
-      "title": "Sinfonía Abismal #28",
-      "band": "Legión Subterránea 28",
-      "sub": "CONTROL",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "CONTROL",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_29",
-      "title": "Sinfonía Abismal #29",
-      "band": "Legión Subterránea 29",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_30",
-      "title": "Sinfonía Abismal #30",
-      "band": "Legión Subterránea 30",
-      "sub": "MENTALIDAD",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "MENTALIDAD",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_31",
-      "title": "Sinfonía Abismal #31",
-      "band": "Legión Subterránea 31",
-      "sub": "SOCIEDADES",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "SOCIEDADES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_32",
-      "title": "Sinfonía Abismal #32",
-      "band": "Legión Subterránea 32",
-      "sub": "AMOR",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "AMOR",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_33",
-      "title": "Sinfonía Abismal #33",
-      "band": "Legión Subterránea 33",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_34",
-      "title": "Sinfonía Abismal #34",
-      "band": "Legión Subterránea 34",
-      "sub": "CEMENTERIOS",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "CEMENTERIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_35",
-      "title": "Sinfonía Abismal #35",
-      "band": "Legión Subterránea 35",
-      "sub": "MUERTE",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "MUERTE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_36",
-      "title": "Sinfonía Abismal #36",
-      "band": "Legión Subterránea 36",
-      "sub": "EPICOS",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "EPICOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_37",
-      "title": "Sinfonía Abismal #37",
-      "band": "Legión Subterránea 37",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_38",
-      "title": "Sinfonía Abismal #38",
-      "band": "Legión Subterránea 38",
-      "sub": "MENTALIDAD",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "MENTALIDAD",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_39",
-      "title": "Sinfonía Abismal #39",
-      "band": "Legión Subterránea 39",
-      "sub": "CEMENTERIOS",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "CEMENTERIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_40",
-      "title": "Sinfonía Abismal #40",
-      "band": "Legión Subterránea 40",
-      "sub": "AMOR",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "AMOR",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_41",
-      "title": "Sinfonía Abismal #41",
-      "band": "Legión Subterránea 41",
-      "sub": "EPICOS",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "EPICOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_42",
-      "title": "Sinfonía Abismal #42",
-      "band": "Legión Subterránea 42",
-      "sub": "SATANISMO",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "SATANISMO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_43",
-      "title": "Sinfonía Abismal #43",
-      "band": "Legión Subterránea 43",
-      "sub": "SATANISMO",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "SATANISMO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_44",
-      "title": "Sinfonía Abismal #44",
-      "band": "Legión Subterránea 44",
-      "sub": "SATANISMO",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "SATANISMO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_45",
-      "title": "Sinfonía Abismal #45",
-      "band": "Legión Subterránea 45",
-      "sub": "CONTROL",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "CONTROL",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_46",
-      "title": "Sinfonía Abismal #46",
-      "band": "Legión Subterránea 46",
-      "sub": "SANGRE",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "SANGRE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_47",
-      "title": "Sinfonía Abismal #47",
-      "band": "Legión Subterránea 47",
-      "sub": "EPICOS",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "EPICOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_48",
-      "title": "Sinfonía Abismal #48",
-      "band": "Legión Subterránea 48",
-      "sub": "MUERTE",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "MUERTE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_49",
-      "title": "Sinfonía Abismal #49",
-      "band": "Legión Subterránea 49",
-      "sub": "INFIERNO",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "INFIERNO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_50",
-      "title": "Sinfonía Abismal #50",
-      "band": "Legión Subterránea 50",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_51",
-      "title": "Sinfonía Abismal #51",
-      "band": "Legión Subterránea 51",
-      "sub": "AMOR",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "AMOR",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_52",
-      "title": "Sinfonía Abismal #52",
-      "band": "Legión Subterránea 52",
-      "sub": "INFIERNO",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "INFIERNO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_53",
-      "title": "Sinfonía Abismal #53",
-      "band": "Legión Subterránea 53",
-      "sub": "SANGRE",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "SANGRE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_54",
-      "title": "Sinfonía Abismal #54",
-      "band": "Legión Subterránea 54",
-      "sub": "AMOR",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "AMOR",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_55",
-      "title": "Sinfonía Abismal #55",
-      "band": "Legión Subterránea 55",
-      "sub": "MENTIRA",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "MENTIRA",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_56",
-      "title": "Sinfonía Abismal #56",
-      "band": "Legión Subterránea 56",
-      "sub": "SANGRE",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "SANGRE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_57",
-      "title": "Sinfonía Abismal #57",
-      "band": "Legión Subterránea 57",
-      "sub": "CONTROL",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "CONTROL",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_58",
-      "title": "Sinfonía Abismal #58",
-      "band": "Legión Subterránea 58",
-      "sub": "DIABLO",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "DIABLO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_59",
-      "title": "Sinfonía Abismal #59",
-      "band": "Legión Subterránea 59",
-      "sub": "INFIERNO",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "INFIERNO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_60",
-      "title": "Sinfonía Abismal #60",
-      "band": "Legión Subterránea 60",
-      "sub": "MUERTE",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "MUERTE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_61",
-      "title": "Sinfonía Abismal #61",
-      "band": "Legión Subterránea 61",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_62",
-      "title": "Sinfonía Abismal #62",
-      "band": "Legión Subterránea 62",
-      "sub": "OCULTISMO",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "OCULTISMO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_63",
-      "title": "Sinfonía Abismal #63",
-      "band": "Legión Subterránea 63",
-      "sub": "DEPRESION",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "DEPRESION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_64",
-      "title": "Sinfonía Abismal #64",
-      "band": "Legión Subterránea 64",
-      "sub": "SATANISMO",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "SATANISMO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_65",
-      "title": "Sinfonía Abismal #65",
-      "band": "Legión Subterránea 65",
-      "sub": "MENTALIDAD",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "MENTALIDAD",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_66",
-      "title": "Sinfonía Abismal #66",
-      "band": "Legión Subterránea 66",
-      "sub": "CONTROL",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "CONTROL",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_67",
-      "title": "Sinfonía Abismal #67",
-      "band": "Legión Subterránea 67",
-      "sub": "DEPRESION",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "DEPRESION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_68",
-      "title": "Sinfonía Abismal #68",
-      "band": "Legión Subterránea 68",
-      "sub": "MENTALIDAD",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "MENTALIDAD",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_69",
-      "title": "Sinfonía Abismal #69",
-      "band": "Legión Subterránea 69",
-      "sub": "CEMENTERIOS",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "CEMENTERIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_70",
-      "title": "Sinfonía Abismal #70",
-      "band": "Legión Subterránea 70",
-      "sub": "DIABLO",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "DIABLO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_71",
-      "title": "Sinfonía Abismal #71",
-      "band": "Legión Subterránea 71",
-      "sub": "PLACER",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "PLACER",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_72",
-      "title": "Sinfonía Abismal #72",
-      "band": "Legión Subterránea 72",
-      "sub": "CONTROL",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "CONTROL",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_73",
-      "title": "Sinfonía Abismal #73",
-      "band": "Legión Subterránea 73",
-      "sub": "ESPIRITU",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "ESPIRITU",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_74",
-      "title": "Sinfonía Abismal #74",
-      "band": "Legión Subterránea 74",
-      "sub": "SINFONICO",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "SINFONICO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_75",
-      "title": "Sinfonía Abismal #75",
-      "band": "Legión Subterránea 75",
-      "sub": "EPICOS",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "EPICOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_76",
-      "title": "Sinfonía Abismal #76",
-      "band": "Legión Subterránea 76",
-      "sub": "EPICOS",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "EPICOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_77",
-      "title": "Sinfonía Abismal #77",
-      "band": "Legión Subterránea 77",
-      "sub": "CEMENTERIOS",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "CEMENTERIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_78",
-      "title": "Sinfonía Abismal #78",
-      "band": "Legión Subterránea 78",
-      "sub": "DIABLO",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "DIABLO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_79",
-      "title": "Sinfonía Abismal #79",
-      "band": "Legión Subterránea 79",
-      "sub": "DIOS",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "DIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_80",
-      "title": "Sinfonía Abismal #80",
-      "band": "Legión Subterránea 80",
-      "sub": "DEPRESION",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "DEPRESION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_81",
-      "title": "Sinfonía Abismal #81",
-      "band": "Legión Subterránea 81",
-      "sub": "DIABLO",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "DIABLO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_82",
-      "title": "Sinfonía Abismal #82",
-      "band": "Legión Subterránea 82",
-      "sub": "MENTIRA",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "MENTIRA",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_83",
-      "title": "Sinfonía Abismal #83",
-      "band": "Legión Subterránea 83",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_84",
-      "title": "Sinfonía Abismal #84",
-      "band": "Legión Subterránea 84",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_85",
-      "title": "Sinfonía Abismal #85",
-      "band": "Legión Subterránea 85",
-      "sub": "OCULTISMO",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "OCULTISMO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_86",
-      "title": "Sinfonía Abismal #86",
-      "band": "Legión Subterránea 86",
-      "sub": "VIKINGOS",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "VIKINGOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_87",
-      "title": "Sinfonía Abismal #87",
-      "band": "Legión Subterránea 87",
-      "sub": "SOCIEDADES",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "SOCIEDADES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_88",
-      "title": "Sinfonía Abismal #88",
-      "band": "Legión Subterránea 88",
-      "sub": "HISTORIAS",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "HISTORIAS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_89",
-      "title": "Sinfonía Abismal #89",
-      "band": "Legión Subterránea 89",
-      "sub": "DIABLO",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "DIABLO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_90",
-      "title": "Sinfonía Abismal #90",
-      "band": "Legión Subterránea 90",
-      "sub": "MENTALIDAD",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "MENTALIDAD",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_91",
-      "title": "Sinfonía Abismal #91",
-      "band": "Legión Subterránea 91",
-      "sub": "EPICOS",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "EPICOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_92",
-      "title": "Sinfonía Abismal #92",
-      "band": "Legión Subterránea 92",
-      "sub": "PLACER",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "PLACER",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_93",
-      "title": "Sinfonía Abismal #93",
-      "band": "Legión Subterránea 93",
-      "sub": "HISTORIAS",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "HISTORIAS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_94",
-      "title": "Sinfonía Abismal #94",
-      "band": "Legión Subterránea 94",
-      "sub": "SINFONICO",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "SINFONICO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_95",
-      "title": "Sinfonía Abismal #95",
-      "band": "Legión Subterránea 95",
-      "sub": "MUERTE",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "MUERTE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_96",
-      "title": "Sinfonía Abismal #96",
-      "band": "Legión Subterránea 96",
-      "sub": "DIOS",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "DIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_97",
-      "title": "Sinfonía Abismal #97",
-      "band": "Legión Subterránea 97",
-      "sub": "INFIERNO",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "INFIERNO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_98",
-      "title": "Sinfonía Abismal #98",
-      "band": "Legión Subterránea 98",
-      "sub": "MENTALIDAD",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "MENTALIDAD",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_99",
-      "title": "Sinfonía Abismal #99",
-      "band": "Legión Subterránea 99",
-      "sub": "DEPRESION",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "DEPRESION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_100",
-      "title": "Sinfonía Abismal #100",
-      "band": "Legión Subterránea 100",
-      "sub": "ESPIRITU",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "ESPIRITU",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_101",
-      "title": "Sinfonía Abismal #101",
-      "band": "Legión Subterránea 101",
-      "sub": "DIOS",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "DIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_102",
-      "title": "Sinfonía Abismal #102",
-      "band": "Legión Subterránea 102",
-      "sub": "ESPIRITU",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "ESPIRITU",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_103",
-      "title": "Sinfonía Abismal #103",
-      "band": "Legión Subterránea 103",
-      "sub": "MUERTE",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "MUERTE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_104",
-      "title": "Sinfonía Abismal #104",
-      "band": "Legión Subterránea 104",
-      "sub": "MENTALIDAD",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "MENTALIDAD",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_105",
-      "title": "Sinfonía Abismal #105",
-      "band": "Legión Subterránea 105",
-      "sub": "HISTORIAS",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "HISTORIAS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_106",
-      "title": "Sinfonía Abismal #106",
-      "band": "Legión Subterránea 106",
-      "sub": "MUERTE",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "MUERTE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_107",
-      "title": "Sinfonía Abismal #107",
-      "band": "Legión Subterránea 107",
-      "sub": "SINFONICO",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "SINFONICO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_108",
-      "title": "Sinfonía Abismal #108",
-      "band": "Legión Subterránea 108",
+      "id": "E6UOwBZKmXg_008",
+      "band": "Legion 8",
+      "title": "Sinfonia Abismal #008",
       "sub": "RITUALES",
       "year": 2024,
       "yt": "E6UOwBZKmXg",
       "themes": [
         "RITUALES",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "xgdUlhnuz18_109",
-      "title": "Sinfonía Abismal #109",
-      "band": "Legión Subterránea 109",
+      "id": "6QGlnm6lIZM_009",
+      "band": "Legion 9",
+      "title": "Sinfonia Abismal #009",
+      "sub": "LOBOS",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "LOBOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_010",
+      "band": "Legion 10",
+      "title": "Sinfonia Abismal #010",
+      "sub": "DIOS",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "DIOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_011",
+      "band": "Legion 11",
+      "title": "Sinfonia Abismal #011",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_012",
+      "band": "Legion 12",
+      "title": "Sinfonia Abismal #012",
+      "sub": "ASESINOS",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "ASESINOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_013",
+      "band": "Legion 13",
+      "title": "Sinfonia Abismal #013",
+      "sub": "OCULTISMO",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_014",
+      "band": "Legion 14",
+      "title": "Sinfonia Abismal #014",
+      "sub": "DIOS",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "DIOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_015",
+      "band": "Legion 15",
+      "title": "Sinfonia Abismal #015",
+      "sub": "AMOR",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "AMOR",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "xgdUlhnuz18_016",
+      "band": "Legion 16",
+      "title": "Sinfonia Abismal #016",
+      "sub": "MACHIN",
+      "year": 2024,
+      "yt": "xgdUlhnuz18",
+      "themes": [
+        "MACHIN",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_017",
+      "band": "Legion 17",
+      "title": "Sinfonia Abismal #017",
+      "sub": "RELIGION",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "RELIGION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_018",
+      "band": "Legion 18",
+      "title": "Sinfonia Abismal #018",
+      "sub": "ASESINOS",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "ASESINOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_019",
+      "band": "Legion 19",
+      "title": "Sinfonia Abismal #019",
+      "sub": "MUERTE",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "MUERTE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_020",
+      "band": "Legion 20",
+      "title": "Sinfonia Abismal #020",
+      "sub": "PROFECIAS",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "PROFECIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_021",
+      "band": "Legion 21",
+      "title": "Sinfonia Abismal #021",
+      "sub": "MENTALIDAD",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "MENTALIDAD",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_022",
+      "band": "Legion 22",
+      "title": "Sinfonia Abismal #022",
+      "sub": "MUERTE",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "MUERTE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_023",
+      "band": "Legion 23",
+      "title": "Sinfonia Abismal #023",
+      "sub": "EPICOS",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "EPICOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_024",
+      "band": "Legion 24",
+      "title": "Sinfonia Abismal #024",
+      "sub": "PLACER",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "PLACER",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_025",
+      "band": "Legion 25",
+      "title": "Sinfonia Abismal #025",
+      "sub": "OCULTISMO",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "xgdUlhnuz18_026",
+      "band": "Legion 26",
+      "title": "Sinfonia Abismal #026",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "xgdUlhnuz18",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_027",
+      "band": "Legion 27",
+      "title": "Sinfonia Abismal #027",
+      "sub": "ESPIRITU",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "ESPIRITU",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "xgdUlhnuz18_028",
+      "band": "Legion 28",
+      "title": "Sinfonia Abismal #028",
       "sub": "AMOR",
       "year": 2024,
       "yt": "xgdUlhnuz18",
       "themes": [
         "AMOR",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "VRUnc0xvSf8_110",
-      "title": "Sinfonía Abismal #110",
-      "band": "Legión Subterránea 110",
+      "id": "AIeVnN9cFmw_029",
+      "band": "Legion 29",
+      "title": "Sinfonia Abismal #029",
+      "sub": "LOBOS",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "LOBOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_030",
+      "band": "Legion 30",
+      "title": "Sinfonia Abismal #030",
+      "sub": "MACHIN",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "MACHIN",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_031",
+      "band": "Legion 31",
+      "title": "Sinfonia Abismal #031",
+      "sub": "DIOS",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "DIOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_032",
+      "band": "Legion 32",
+      "title": "Sinfonia Abismal #032",
+      "sub": "DIABLO",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "DIABLO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_033",
+      "band": "Legion 33",
+      "title": "Sinfonia Abismal #033",
+      "sub": "MUERTE",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "MUERTE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_034",
+      "band": "Legion 34",
+      "title": "Sinfonia Abismal #034",
+      "sub": "OCULTISMO",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_035",
+      "band": "Legion 35",
+      "title": "Sinfonia Abismal #035",
+      "sub": "RELIGION",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "RELIGION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_036",
+      "band": "Legion 36",
+      "title": "Sinfonia Abismal #036",
+      "sub": "OCULTISMO",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_037",
+      "band": "Legion 37",
+      "title": "Sinfonia Abismal #037",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_038",
+      "band": "Legion 38",
+      "title": "Sinfonia Abismal #038",
+      "sub": "MACHIN",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "MACHIN",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_039",
+      "band": "Legion 39",
+      "title": "Sinfonia Abismal #039",
+      "sub": "HISTORIAS",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "HISTORIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_040",
+      "band": "Legion 40",
+      "title": "Sinfonia Abismal #040",
+      "sub": "MUERTE",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "MUERTE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_041",
+      "band": "Legion 41",
+      "title": "Sinfonia Abismal #041",
       "sub": "RELIGION",
       "year": 2024,
       "yt": "VRUnc0xvSf8",
       "themes": [
         "RELIGION",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "tFSQMtHNE18_111",
-      "title": "Sinfonía Abismal #111",
-      "band": "Legión Subterránea 111",
-      "sub": "PLACER",
+      "id": "E6UOwBZKmXg_042",
+      "band": "Legion 42",
+      "title": "Sinfonia Abismal #042",
+      "sub": "DEPRESION",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "DEPRESION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_043",
+      "band": "Legion 43",
+      "title": "Sinfonia Abismal #043",
+      "sub": "VIKINGOS",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "VIKINGOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_044",
+      "band": "Legion 44",
+      "title": "Sinfonia Abismal #044",
+      "sub": "MACHIN",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "MACHIN",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_045",
+      "band": "Legion 45",
+      "title": "Sinfonia Abismal #045",
+      "sub": "CEMENTERIOS",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "CEMENTERIOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_046",
+      "band": "Legion 46",
+      "title": "Sinfonia Abismal #046",
+      "sub": "LOBOS",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "LOBOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_047",
+      "band": "Legion 47",
+      "title": "Sinfonia Abismal #047",
+      "sub": "RELIGION",
       "year": 2024,
       "yt": "tFSQMtHNE18",
       "themes": [
-        "PLACER",
+        "RELIGION",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "tFSQMtHNE18_112",
-      "title": "Sinfonía Abismal #112",
-      "band": "Legión Subterránea 112",
+      "id": "s2EJ1AqPIPg_048",
+      "band": "Legion 48",
+      "title": "Sinfonia Abismal #048",
+      "sub": "INFIERNO",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "INFIERNO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_049",
+      "band": "Legion 49",
+      "title": "Sinfonia Abismal #049",
+      "sub": "MENTIRA",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "MENTIRA",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_050",
+      "band": "Legion 50",
+      "title": "Sinfonia Abismal #050",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_051",
+      "band": "Legion 51",
+      "title": "Sinfonia Abismal #051",
+      "sub": "MUERTE",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "MUERTE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_052",
+      "band": "Legion 52",
+      "title": "Sinfonia Abismal #052",
+      "sub": "DEPRESION",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "DEPRESION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_053",
+      "band": "Legion 53",
+      "title": "Sinfonia Abismal #053",
+      "sub": "MUERTE",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "MUERTE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_054",
+      "band": "Legion 54",
+      "title": "Sinfonia Abismal #054",
+      "sub": "SANGRE",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "SANGRE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_055",
+      "band": "Legion 55",
+      "title": "Sinfonia Abismal #055",
+      "sub": "ESPIRITU",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "ESPIRITU",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_056",
+      "band": "Legion 56",
+      "title": "Sinfonia Abismal #056",
+      "sub": "PROFECIAS",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "PROFECIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_057",
+      "band": "Legion 57",
+      "title": "Sinfonia Abismal #057",
+      "sub": "DEPRESION",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "DEPRESION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_058",
+      "band": "Legion 58",
+      "title": "Sinfonia Abismal #058",
+      "sub": "DIABLO",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "DIABLO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_059",
+      "band": "Legion 59",
+      "title": "Sinfonia Abismal #059",
+      "sub": "OCULTISMO",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_060",
+      "band": "Legion 60",
+      "title": "Sinfonia Abismal #060",
+      "sub": "VIKINGOS",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "VIKINGOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "xgdUlhnuz18_061",
+      "band": "Legion 61",
+      "title": "Sinfonia Abismal #061",
+      "sub": "CEMENTERIOS",
+      "year": 2024,
+      "yt": "xgdUlhnuz18",
+      "themes": [
+        "CEMENTERIOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_062",
+      "band": "Legion 62",
+      "title": "Sinfonia Abismal #062",
+      "sub": "OCULTISMO",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_063",
+      "band": "Legion 63",
+      "title": "Sinfonia Abismal #063",
+      "sub": "HISTORIAS",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "HISTORIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_064",
+      "band": "Legion 64",
+      "title": "Sinfonia Abismal #064",
+      "sub": "HISTORIAS",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "HISTORIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_065",
+      "band": "Legion 65",
+      "title": "Sinfonia Abismal #065",
+      "sub": "SINFONICO",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "SINFONICO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_066",
+      "band": "Legion 66",
+      "title": "Sinfonia Abismal #066",
+      "sub": "EPICOS",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "EPICOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_067",
+      "band": "Legion 67",
+      "title": "Sinfonia Abismal #067",
+      "sub": "MUERTE",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "MUERTE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_068",
+      "band": "Legion 68",
+      "title": "Sinfonia Abismal #068",
+      "sub": "MENTIRA",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "MENTIRA",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_069",
+      "band": "Legion 69",
+      "title": "Sinfonia Abismal #069",
+      "sub": "AMOR",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "AMOR",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_070",
+      "band": "Legion 70",
+      "title": "Sinfonia Abismal #070",
+      "sub": "EPICOS",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "EPICOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_071",
+      "band": "Legion 71",
+      "title": "Sinfonia Abismal #071",
+      "sub": "HISTORIAS",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "HISTORIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_072",
+      "band": "Legion 72",
+      "title": "Sinfonia Abismal #072",
       "sub": "MENTALIDAD",
       "year": 2024,
-      "yt": "tFSQMtHNE18",
+      "yt": "6QGlnm6lIZM",
       "themes": [
         "MENTALIDAD",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_073",
+      "band": "Legion 73",
+      "title": "Sinfonia Abismal #073",
+      "sub": "SATANISMO",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "SATANISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_074",
+      "band": "Legion 74",
+      "title": "Sinfonia Abismal #074",
+      "sub": "SINFONICO",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "SINFONICO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_075",
+      "band": "Legion 75",
+      "title": "Sinfonia Abismal #075",
+      "sub": "SATANISMO",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "SATANISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_076",
+      "band": "Legion 76",
+      "title": "Sinfonia Abismal #076",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_077",
+      "band": "Legion 77",
+      "title": "Sinfonia Abismal #077",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_078",
+      "band": "Legion 78",
+      "title": "Sinfonia Abismal #078",
+      "sub": "MENTALIDAD",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "MENTALIDAD",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_079",
+      "band": "Legion 79",
+      "title": "Sinfonia Abismal #079",
+      "sub": "HISTORIAS",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "HISTORIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_080",
+      "band": "Legion 80",
+      "title": "Sinfonia Abismal #080",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_081",
+      "band": "Legion 81",
+      "title": "Sinfonia Abismal #081",
+      "sub": "OCULTISMO",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_082",
+      "band": "Legion 82",
+      "title": "Sinfonia Abismal #082",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_083",
+      "band": "Legion 83",
+      "title": "Sinfonia Abismal #083",
+      "sub": "RITUALES",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "RITUALES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_084",
+      "band": "Legion 84",
+      "title": "Sinfonia Abismal #084",
+      "sub": "SINFONICO",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "SINFONICO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_085",
+      "band": "Legion 85",
+      "title": "Sinfonia Abismal #085",
+      "sub": "MUERTE",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "MUERTE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_086",
+      "band": "Legion 86",
+      "title": "Sinfonia Abismal #086",
+      "sub": "SANGRE",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "SANGRE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_087",
+      "band": "Legion 87",
+      "title": "Sinfonia Abismal #087",
+      "sub": "EPICOS",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "EPICOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_088",
+      "band": "Legion 88",
+      "title": "Sinfonia Abismal #088",
+      "sub": "ASESINOS",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "ASESINOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_089",
+      "band": "Legion 89",
+      "title": "Sinfonia Abismal #089",
+      "sub": "DIABLO",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "DIABLO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_090",
+      "band": "Legion 90",
+      "title": "Sinfonia Abismal #090",
+      "sub": "DEPRESION",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "DEPRESION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_091",
+      "band": "Legion 91",
+      "title": "Sinfonia Abismal #091",
+      "sub": "LOBOS",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "LOBOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_092",
+      "band": "Legion 92",
+      "title": "Sinfonia Abismal #092",
+      "sub": "HISTORIAS",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "HISTORIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_093",
+      "band": "Legion 93",
+      "title": "Sinfonia Abismal #093",
+      "sub": "MACHIN",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "MACHIN",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_094",
+      "band": "Legion 94",
+      "title": "Sinfonia Abismal #094",
+      "sub": "OCULTISMO",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_095",
+      "band": "Legion 95",
+      "title": "Sinfonia Abismal #095",
+      "sub": "LOBOS",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "LOBOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_096",
+      "band": "Legion 96",
+      "title": "Sinfonia Abismal #096",
+      "sub": "MUERTE",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "MUERTE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "xgdUlhnuz18_097",
+      "band": "Legion 97",
+      "title": "Sinfonia Abismal #097",
+      "sub": "RITUALES",
+      "year": 2024,
+      "yt": "xgdUlhnuz18",
+      "themes": [
+        "RITUALES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_098",
+      "band": "Legion 98",
+      "title": "Sinfonia Abismal #098",
+      "sub": "SANGRE",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "SANGRE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_099",
+      "band": "Legion 99",
+      "title": "Sinfonia Abismal #099",
+      "sub": "ESPIRITU",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "ESPIRITU",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_100",
+      "band": "Legion 100",
+      "title": "Sinfonia Abismal #100",
+      "sub": "RITUALES",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "RITUALES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_101",
+      "band": "Legion 101",
+      "title": "Sinfonia Abismal #101",
+      "sub": "EPICOS",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "EPICOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_102",
+      "band": "Legion 102",
+      "title": "Sinfonia Abismal #102",
+      "sub": "ESPIRITU",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "ESPIRITU",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_103",
+      "band": "Legion 103",
+      "title": "Sinfonia Abismal #103",
+      "sub": "VIKINGOS",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "VIKINGOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_104",
+      "band": "Legion 104",
+      "title": "Sinfonia Abismal #104",
+      "sub": "RELIGION",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "RELIGION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_105",
+      "band": "Legion 105",
+      "title": "Sinfonia Abismal #105",
+      "sub": "DEPRESION",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "DEPRESION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_106",
+      "band": "Legion 106",
+      "title": "Sinfonia Abismal #106",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_107",
+      "band": "Legion 107",
+      "title": "Sinfonia Abismal #107",
+      "sub": "OCULTISMO",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_108",
+      "band": "Legion 108",
+      "title": "Sinfonia Abismal #108",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_109",
+      "band": "Legion 109",
+      "title": "Sinfonia Abismal #109",
+      "sub": "PROFECIAS",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "PROFECIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_110",
+      "band": "Legion 110",
+      "title": "Sinfonia Abismal #110",
+      "sub": "LOBOS",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "LOBOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_111",
+      "band": "Legion 111",
+      "title": "Sinfonia Abismal #111",
+      "sub": "MACHIN",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "MACHIN",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_112",
+      "band": "Legion 112",
+      "title": "Sinfonia Abismal #112",
+      "sub": "MENTIRA",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "MENTIRA",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
     },
     {
       "id": "s2EJ1AqPIPg_113",
-      "title": "Sinfonía Abismal #113",
-      "band": "Legión Subterránea 113",
-      "sub": "SINFONICO",
+      "band": "Legion 113",
+      "title": "Sinfonia Abismal #113",
+      "sub": "PLACER",
       "year": 2024,
       "yt": "s2EJ1AqPIPg",
       "themes": [
-        "SINFONICO",
+        "PLACER",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "CODmtogsZSk_114",
-      "title": "Sinfonía Abismal #114",
-      "band": "Legión Subterránea 114",
-      "sub": "SINFONICO",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "SINFONICO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_115",
-      "title": "Sinfonía Abismal #115",
-      "band": "Legión Subterránea 115",
-      "sub": "PROFECIAS",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "PROFECIAS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_116",
-      "title": "Sinfonía Abismal #116",
-      "band": "Legión Subterránea 116",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_117",
-      "title": "Sinfonía Abismal #117",
-      "band": "Legión Subterránea 117",
+      "id": "s2EJ1AqPIPg_114",
+      "band": "Legion 114",
+      "title": "Sinfonia Abismal #114",
       "sub": "PLACER",
       "year": 2024,
-      "yt": "AIeVnN9cFmw",
+      "yt": "s2EJ1AqPIPg",
       "themes": [
         "PLACER",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "AIeVnN9cFmw_118",
-      "title": "Sinfonía Abismal #118",
-      "band": "Legión Subterránea 118",
-      "sub": "MENTALIDAD",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "MENTALIDAD",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_119",
-      "title": "Sinfonía Abismal #119",
-      "band": "Legión Subterránea 119",
-      "sub": "AMOR",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "AMOR",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_120",
-      "title": "Sinfonía Abismal #120",
-      "band": "Legión Subterránea 120",
-      "sub": "MENTALIDAD",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "MENTALIDAD",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_121",
-      "title": "Sinfonía Abismal #121",
-      "band": "Legión Subterránea 121",
-      "sub": "SATANISMO",
+      "id": "VRUnc0xvSf8_115",
+      "band": "Legion 115",
+      "title": "Sinfonia Abismal #115",
+      "sub": "SINFONICO",
       "year": 2024,
       "yt": "VRUnc0xvSf8",
       "themes": [
-        "SATANISMO",
+        "SINFONICO",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "JGYnx2m09pQ_122",
-      "title": "Sinfonía Abismal #122",
-      "band": "Legión Subterránea 122",
-      "sub": "PLACER",
+      "id": "JGYnx2m09pQ_116",
+      "band": "Legion 116",
+      "title": "Sinfonia Abismal #116",
+      "sub": "PROFECIAS",
       "year": 2024,
       "yt": "JGYnx2m09pQ",
       "themes": [
-        "PLACER",
+        "PROFECIAS",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "J5yta7KG4Rg_123",
-      "title": "Sinfonía Abismal #123",
-      "band": "Legión Subterránea 123",
-      "sub": "PLACER",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "PLACER",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_124",
-      "title": "Sinfonía Abismal #124",
-      "band": "Legión Subterránea 124",
-      "sub": "SINFONICO",
+      "id": "tFSQMtHNE18_117",
+      "band": "Legion 117",
+      "title": "Sinfonia Abismal #117",
+      "sub": "DIABLO",
       "year": 2024,
       "yt": "tFSQMtHNE18",
       "themes": [
-        "SINFONICO",
+        "DIABLO",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "VRUnc0xvSf8_125",
-      "title": "Sinfonía Abismal #125",
-      "band": "Legión Subterránea 125",
-      "sub": "PLACER",
+      "id": "J5yta7KG4Rg_118",
+      "band": "Legion 118",
+      "title": "Sinfonia Abismal #118",
+      "sub": "DIOS",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "DIOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_119",
+      "band": "Legion 119",
+      "title": "Sinfonia Abismal #119",
+      "sub": "LOBOS",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "LOBOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_120",
+      "band": "Legion 120",
+      "title": "Sinfonia Abismal #120",
+      "sub": "EPICOS",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "EPICOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_121",
+      "band": "Legion 121",
+      "title": "Sinfonia Abismal #121",
+      "sub": "DEPRESION",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "DEPRESION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_122",
+      "band": "Legion 122",
+      "title": "Sinfonia Abismal #122",
+      "sub": "INFIERNO",
       "year": 2024,
       "yt": "VRUnc0xvSf8",
       "themes": [
-        "PLACER",
+        "INFIERNO",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "CODmtogsZSk_126",
-      "title": "Sinfonía Abismal #126",
-      "band": "Legión Subterránea 126",
-      "sub": "SINFONICO",
+      "id": "AIeVnN9cFmw_123",
+      "band": "Legion 123",
+      "title": "Sinfonia Abismal #123",
+      "sub": "OCULTISMO",
       "year": 2024,
-      "yt": "CODmtogsZSk",
+      "yt": "AIeVnN9cFmw",
       "themes": [
-        "SINFONICO",
+        "OCULTISMO",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_124",
+      "band": "Legion 124",
+      "title": "Sinfonia Abismal #124",
+      "sub": "RELIGION",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "RELIGION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_125",
+      "band": "Legion 125",
+      "title": "Sinfonia Abismal #125",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_126",
+      "band": "Legion 126",
+      "title": "Sinfonia Abismal #126",
+      "sub": "PROFECIAS",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "PROFECIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
     },
     {
       "id": "tFSQMtHNE18_127",
-      "title": "Sinfonía Abismal #127",
-      "band": "Legión Subterránea 127",
-      "sub": "SOCIEDADES",
+      "band": "Legion 127",
+      "title": "Sinfonia Abismal #127",
+      "sub": "CEMENTERIOS",
       "year": 2024,
       "yt": "tFSQMtHNE18",
       "themes": [
-        "SOCIEDADES",
+        "CEMENTERIOS",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "VRUnc0xvSf8_128",
-      "title": "Sinfonía Abismal #128",
-      "band": "Legión Subterránea 128",
-      "sub": "PLACER",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "PLACER",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_129",
-      "title": "Sinfonía Abismal #129",
-      "band": "Legión Subterránea 129",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_130",
-      "title": "Sinfonía Abismal #130",
-      "band": "Legión Subterránea 130",
-      "sub": "AMOR",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "AMOR",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_131",
-      "title": "Sinfonía Abismal #131",
-      "band": "Legión Subterránea 131",
-      "sub": "ASESINOS",
+      "id": "xgdUlhnuz18_128",
+      "band": "Legion 128",
+      "title": "Sinfonia Abismal #128",
+      "sub": "CONTROL",
       "year": 2024,
       "yt": "xgdUlhnuz18",
       "themes": [
-        "ASESINOS",
+        "CONTROL",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_129",
+      "band": "Legion 129",
+      "title": "Sinfonia Abismal #129",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_130",
+      "band": "Legion 130",
+      "title": "Sinfonia Abismal #130",
+      "sub": "DEPRESION",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "DEPRESION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_131",
+      "band": "Legion 131",
+      "title": "Sinfonia Abismal #131",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
     },
     {
       "id": "VRUnc0xvSf8_132",
-      "title": "Sinfonía Abismal #132",
-      "band": "Legión Subterránea 132",
-      "sub": "VIKINGOS",
+      "band": "Legion 132",
+      "title": "Sinfonia Abismal #132",
+      "sub": "LOBOS",
       "year": 2024,
       "yt": "VRUnc0xvSf8",
       "themes": [
-        "VIKINGOS",
+        "LOBOS",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "J5yta7KG4Rg_133",
-      "title": "Sinfonía Abismal #133",
-      "band": "Legión Subterránea 133",
-      "sub": "AMOR",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "AMOR",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_134",
-      "title": "Sinfonía Abismal #134",
-      "band": "Legión Subterránea 134",
-      "sub": "MENTALIDAD",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "MENTALIDAD",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_135",
-      "title": "Sinfonía Abismal #135",
-      "band": "Legión Subterránea 135",
-      "sub": "DEPRESION",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "DEPRESION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_136",
-      "title": "Sinfonía Abismal #136",
-      "band": "Legión Subterránea 136",
-      "sub": "SOCIEDADES",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "SOCIEDADES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_137",
-      "title": "Sinfonía Abismal #137",
-      "band": "Legión Subterránea 137",
-      "sub": "DEPRESION",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "DEPRESION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_138",
-      "title": "Sinfonía Abismal #138",
-      "band": "Legión Subterránea 138",
-      "sub": "DIABLO",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "DIABLO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_139",
-      "title": "Sinfonía Abismal #139",
-      "band": "Legión Subterránea 139",
-      "sub": "OCULTISMO",
+      "id": "VRUnc0xvSf8_133",
+      "band": "Legion 133",
+      "title": "Sinfonia Abismal #133",
+      "sub": "LOBOS",
       "year": 2024,
       "yt": "VRUnc0xvSf8",
       "themes": [
-        "OCULTISMO",
+        "LOBOS",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "tFSQMtHNE18_140",
-      "title": "Sinfonía Abismal #140",
-      "band": "Legión Subterránea 140",
-      "sub": "SANGRE",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "SANGRE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_141",
-      "title": "Sinfonía Abismal #141",
-      "band": "Legión Subterránea 141",
-      "sub": "VIKINGOS",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "VIKINGOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_142",
-      "title": "Sinfonía Abismal #142",
-      "band": "Legión Subterránea 142",
-      "sub": "CEMENTERIOS",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "CEMENTERIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_143",
-      "title": "Sinfonía Abismal #143",
-      "band": "Legión Subterránea 143",
-      "sub": "VIKINGOS",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "VIKINGOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_144",
-      "title": "Sinfonía Abismal #144",
-      "band": "Legión Subterránea 144",
-      "sub": "SATANISMO",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "SATANISMO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_145",
-      "title": "Sinfonía Abismal #145",
-      "band": "Legión Subterránea 145",
-      "sub": "DEPRESION",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "DEPRESION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_146",
-      "title": "Sinfonía Abismal #146",
-      "band": "Legión Subterránea 146",
-      "sub": "RELIGION",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "RELIGION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_147",
-      "title": "Sinfonía Abismal #147",
-      "band": "Legión Subterránea 147",
-      "sub": "ASESINOS",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "ASESINOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_148",
-      "title": "Sinfonía Abismal #148",
-      "band": "Legión Subterránea 148",
-      "sub": "ESPIRITU",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "ESPIRITU",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_149",
-      "title": "Sinfonía Abismal #149",
-      "band": "Legión Subterránea 149",
-      "sub": "ESPIRITU",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "ESPIRITU",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_150",
-      "title": "Sinfonía Abismal #150",
-      "band": "Legión Subterránea 150",
-      "sub": "EPICOS",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "EPICOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_151",
-      "title": "Sinfonía Abismal #151",
-      "band": "Legión Subterránea 151",
-      "sub": "DEPRESION",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "DEPRESION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_152",
-      "title": "Sinfonía Abismal #152",
-      "band": "Legión Subterránea 152",
-      "sub": "AMOR",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "AMOR",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_153",
-      "title": "Sinfonía Abismal #153",
-      "band": "Legión Subterránea 153",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_154",
-      "title": "Sinfonía Abismal #154",
-      "band": "Legión Subterránea 154",
-      "sub": "MUERTE",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "MUERTE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_155",
-      "title": "Sinfonía Abismal #155",
-      "band": "Legión Subterránea 155",
-      "sub": "ESPIRITU",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "ESPIRITU",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_156",
-      "title": "Sinfonía Abismal #156",
-      "band": "Legión Subterránea 156",
-      "sub": "ASESINOS",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "ASESINOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_157",
-      "title": "Sinfonía Abismal #157",
-      "band": "Legión Subterránea 157",
+      "id": "xgdUlhnuz18_134",
+      "band": "Legion 134",
+      "title": "Sinfonia Abismal #134",
       "sub": "SINFONICO",
       "year": 2024,
-      "yt": "J5yta7KG4Rg",
+      "yt": "xgdUlhnuz18",
       "themes": [
         "SINFONICO",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "J5yta7KG4Rg_158",
-      "title": "Sinfonía Abismal #158",
-      "band": "Legión Subterránea 158",
-      "sub": "AMOR",
+      "id": "AIeVnN9cFmw_135",
+      "band": "Legion 135",
+      "title": "Sinfonia Abismal #135",
+      "sub": "OCULTISMO",
       "year": 2024,
-      "yt": "J5yta7KG4Rg",
+      "yt": "AIeVnN9cFmw",
       "themes": [
-        "AMOR",
+        "OCULTISMO",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_136",
+      "band": "Legion 136",
+      "title": "Sinfonia Abismal #136",
+      "sub": "RITUALES",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "RITUALES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_137",
+      "band": "Legion 137",
+      "title": "Sinfonia Abismal #137",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_138",
+      "band": "Legion 138",
+      "title": "Sinfonia Abismal #138",
+      "sub": "SANGRE",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "SANGRE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_139",
+      "band": "Legion 139",
+      "title": "Sinfonia Abismal #139",
+      "sub": "OCULTISMO",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_140",
+      "band": "Legion 140",
+      "title": "Sinfonia Abismal #140",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_141",
+      "band": "Legion 141",
+      "title": "Sinfonia Abismal #141",
+      "sub": "INFIERNO",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "INFIERNO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_142",
+      "band": "Legion 142",
+      "title": "Sinfonia Abismal #142",
+      "sub": "RELIGION",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "RELIGION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_143",
+      "band": "Legion 143",
+      "title": "Sinfonia Abismal #143",
+      "sub": "SINFONICO",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "SINFONICO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_144",
+      "band": "Legion 144",
+      "title": "Sinfonia Abismal #144",
+      "sub": "DIOS",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "DIOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_145",
+      "band": "Legion 145",
+      "title": "Sinfonia Abismal #145",
+      "sub": "PROFECIAS",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "PROFECIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_146",
+      "band": "Legion 146",
+      "title": "Sinfonia Abismal #146",
+      "sub": "PLACER",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "PLACER",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_147",
+      "band": "Legion 147",
+      "title": "Sinfonia Abismal #147",
+      "sub": "PLACER",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "PLACER",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_148",
+      "band": "Legion 148",
+      "title": "Sinfonia Abismal #148",
+      "sub": "MUERTE",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "MUERTE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_149",
+      "band": "Legion 149",
+      "title": "Sinfonia Abismal #149",
+      "sub": "DIOS",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "DIOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_150",
+      "band": "Legion 150",
+      "title": "Sinfonia Abismal #150",
+      "sub": "MENTIRA",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "MENTIRA",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_151",
+      "band": "Legion 151",
+      "title": "Sinfonia Abismal #151",
+      "sub": "ASESINOS",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "ASESINOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_152",
+      "band": "Legion 152",
+      "title": "Sinfonia Abismal #152",
+      "sub": "DIABLO",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "DIABLO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_153",
+      "band": "Legion 153",
+      "title": "Sinfonia Abismal #153",
+      "sub": "PROFECIAS",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "PROFECIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_154",
+      "band": "Legion 154",
+      "title": "Sinfonia Abismal #154",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_155",
+      "band": "Legion 155",
+      "title": "Sinfonia Abismal #155",
+      "sub": "CEMENTERIOS",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "CEMENTERIOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_156",
+      "band": "Legion 156",
+      "title": "Sinfonia Abismal #156",
+      "sub": "ESPIRITU",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "ESPIRITU",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_157",
+      "band": "Legion 157",
+      "title": "Sinfonia Abismal #157",
+      "sub": "RITUALES",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "RITUALES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_158",
+      "band": "Legion 158",
+      "title": "Sinfonia Abismal #158",
+      "sub": "EPICOS",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "EPICOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
     },
     {
       "id": "CODmtogsZSk_159",
-      "title": "Sinfonía Abismal #159",
-      "band": "Legión Subterránea 159",
-      "sub": "MACHIN",
+      "band": "Legion 159",
+      "title": "Sinfonia Abismal #159",
+      "sub": "MENTALIDAD",
       "year": 2024,
       "yt": "CODmtogsZSk",
       "themes": [
-        "MACHIN",
+        "MENTALIDAD",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "s2EJ1AqPIPg_160",
-      "title": "Sinfonía Abismal #160",
-      "band": "Legión Subterránea 160",
-      "sub": "CEMENTERIOS",
+      "id": "tFSQMtHNE18_160",
+      "band": "Legion 160",
+      "title": "Sinfonia Abismal #160",
+      "sub": "MENTALIDAD",
       "year": 2024,
-      "yt": "s2EJ1AqPIPg",
+      "yt": "tFSQMtHNE18",
       "themes": [
-        "CEMENTERIOS",
+        "MENTALIDAD",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
       "id": "VRUnc0xvSf8_161",
-      "title": "Sinfonía Abismal #161",
-      "band": "Legión Subterránea 161",
-      "sub": "LOBOS",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "LOBOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_162",
-      "title": "Sinfonía Abismal #162",
-      "band": "Legión Subterránea 162",
-      "sub": "DIABLO",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "DIABLO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_163",
-      "title": "Sinfonía Abismal #163",
-      "band": "Legión Subterránea 163",
-      "sub": "DIABLO",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "DIABLO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_164",
-      "title": "Sinfonía Abismal #164",
-      "band": "Legión Subterránea 164",
-      "sub": "DIOS",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "DIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_165",
-      "title": "Sinfonía Abismal #165",
-      "band": "Legión Subterránea 165",
-      "sub": "RELIGION",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "RELIGION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_166",
-      "title": "Sinfonía Abismal #166",
-      "band": "Legión Subterránea 166",
+      "band": "Legion 161",
+      "title": "Sinfonia Abismal #161",
       "sub": "ASESINOS",
       "year": 2024,
       "yt": "VRUnc0xvSf8",
       "themes": [
         "ASESINOS",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "VRUnc0xvSf8_167",
-      "title": "Sinfonía Abismal #167",
-      "band": "Legión Subterránea 167",
-      "sub": "SINFONICO",
+      "id": "AIeVnN9cFmw_162",
+      "band": "Legion 162",
+      "title": "Sinfonia Abismal #162",
+      "sub": "INFIERNO",
       "year": 2024,
-      "yt": "VRUnc0xvSf8",
+      "yt": "AIeVnN9cFmw",
       "themes": [
-        "SINFONICO",
+        "INFIERNO",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_163",
+      "band": "Legion 163",
+      "title": "Sinfonia Abismal #163",
+      "sub": "MENTIRA",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "MENTIRA",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_164",
+      "band": "Legion 164",
+      "title": "Sinfonia Abismal #164",
+      "sub": "DIOS",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "DIOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_165",
+      "band": "Legion 165",
+      "title": "Sinfonia Abismal #165",
+      "sub": "RITUALES",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "RITUALES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_166",
+      "band": "Legion 166",
+      "title": "Sinfonia Abismal #166",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_167",
+      "band": "Legion 167",
+      "title": "Sinfonia Abismal #167",
+      "sub": "MENTALIDAD",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "MENTALIDAD",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
     },
     {
       "id": "E6UOwBZKmXg_168",
-      "title": "Sinfonía Abismal #168",
-      "band": "Legión Subterránea 168",
-      "sub": "MUERTE",
+      "band": "Legion 168",
+      "title": "Sinfonia Abismal #168",
+      "sub": "DEPRESION",
       "year": 2024,
       "yt": "E6UOwBZKmXg",
       "themes": [
-        "MUERTE",
+        "DEPRESION",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "6QGlnm6lIZM_169",
-      "title": "Sinfonía Abismal #169",
-      "band": "Legión Subterránea 169",
-      "sub": "MENTALIDAD",
+      "id": "AIeVnN9cFmw_169",
+      "band": "Legion 169",
+      "title": "Sinfonia Abismal #169",
+      "sub": "PLACER",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "PLACER",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_170",
+      "band": "Legion 170",
+      "title": "Sinfonia Abismal #170",
+      "sub": "OCULTISMO",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_171",
+      "band": "Legion 171",
+      "title": "Sinfonia Abismal #171",
+      "sub": "MACHIN",
       "year": 2024,
       "yt": "6QGlnm6lIZM",
       "themes": [
-        "MENTALIDAD",
+        "MACHIN",
         "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_170",
-      "title": "Sinfonía Abismal #170",
-      "band": "Legión Subterránea 170",
-      "sub": "LOBOS",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "LOBOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_171",
-      "title": "Sinfonía Abismal #171",
-      "band": "Legión Subterránea 171",
-      "sub": "RELIGION",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "RELIGION",
-        "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
       "id": "AIeVnN9cFmw_172",
-      "title": "Sinfonía Abismal #172",
-      "band": "Legión Subterránea 172",
+      "band": "Legion 172",
+      "title": "Sinfonia Abismal #172",
       "sub": "SANGRE",
       "year": 2024,
       "yt": "AIeVnN9cFmw",
       "themes": [
         "SANGRE",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "J5yta7KG4Rg_173",
-      "title": "Sinfonía Abismal #173",
-      "band": "Legión Subterránea 173",
+      "id": "CODmtogsZSk_173",
+      "band": "Legion 173",
+      "title": "Sinfonia Abismal #173",
+      "sub": "VIKINGOS",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "VIKINGOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_174",
+      "band": "Legion 174",
+      "title": "Sinfonia Abismal #174",
+      "sub": "LOBOS",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "LOBOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_175",
+      "band": "Legion 175",
+      "title": "Sinfonia Abismal #175",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_176",
+      "band": "Legion 176",
+      "title": "Sinfonia Abismal #176",
       "sub": "CONTROL",
       "year": 2024,
       "yt": "J5yta7KG4Rg",
       "themes": [
         "CONTROL",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "E6UOwBZKmXg_174",
-      "title": "Sinfonía Abismal #174",
-      "band": "Legión Subterránea 174",
-      "sub": "PROFECIAS",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "PROFECIAS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_175",
-      "title": "Sinfonía Abismal #175",
-      "band": "Legión Subterránea 175",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_176",
-      "title": "Sinfonía Abismal #176",
-      "band": "Legión Subterránea 176",
-      "sub": "ESPIRITU",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "ESPIRITU",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_177",
-      "title": "Sinfonía Abismal #177",
-      "band": "Legión Subterránea 177",
-      "sub": "ASESINOS",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "ASESINOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_178",
-      "title": "Sinfonía Abismal #178",
-      "band": "Legión Subterránea 178",
-      "sub": "SANGRE",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "SANGRE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_179",
-      "title": "Sinfonía Abismal #179",
-      "band": "Legión Subterránea 179",
+      "id": "AIeVnN9cFmw_177",
+      "band": "Legion 177",
+      "title": "Sinfonia Abismal #177",
       "sub": "SOCIEDADES",
       "year": 2024,
-      "yt": "VRUnc0xvSf8",
+      "yt": "AIeVnN9cFmw",
       "themes": [
         "SOCIEDADES",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_178",
+      "band": "Legion 178",
+      "title": "Sinfonia Abismal #178",
+      "sub": "OCULTISMO",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_179",
+      "band": "Legion 179",
+      "title": "Sinfonia Abismal #179",
+      "sub": "SANGRE",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "SANGRE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
     },
     {
       "id": "AIeVnN9cFmw_180",
-      "title": "Sinfonía Abismal #180",
-      "band": "Legión Subterránea 180",
-      "sub": "CEMENTERIOS",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "CEMENTERIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_181",
-      "title": "Sinfonía Abismal #181",
-      "band": "Legión Subterránea 181",
-      "sub": "CONTROL",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "CONTROL",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_182",
-      "title": "Sinfonía Abismal #182",
-      "band": "Legión Subterránea 182",
-      "sub": "ASESINOS",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "ASESINOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_183",
-      "title": "Sinfonía Abismal #183",
-      "band": "Legión Subterránea 183",
-      "sub": "PROFECIAS",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "PROFECIAS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_184",
-      "title": "Sinfonía Abismal #184",
-      "band": "Legión Subterránea 184",
-      "sub": "LOBOS",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "LOBOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_185",
-      "title": "Sinfonía Abismal #185",
-      "band": "Legión Subterránea 185",
-      "sub": "MUERTE",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "MUERTE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_186",
-      "title": "Sinfonía Abismal #186",
-      "band": "Legión Subterránea 186",
-      "sub": "DIOS",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "DIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_187",
-      "title": "Sinfonía Abismal #187",
-      "band": "Legión Subterránea 187",
-      "sub": "INFIERNO",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "INFIERNO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_188",
-      "title": "Sinfonía Abismal #188",
-      "band": "Legión Subterránea 188",
-      "sub": "CONTROL",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "CONTROL",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_189",
-      "title": "Sinfonía Abismal #189",
-      "band": "Legión Subterránea 189",
-      "sub": "RITUALES",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "RITUALES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_190",
-      "title": "Sinfonía Abismal #190",
-      "band": "Legión Subterránea 190",
-      "sub": "OCULTISMO",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "OCULTISMO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_191",
-      "title": "Sinfonía Abismal #191",
-      "band": "Legión Subterránea 191",
-      "sub": "OCULTISMO",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "OCULTISMO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_192",
-      "title": "Sinfonía Abismal #192",
-      "band": "Legión Subterránea 192",
-      "sub": "INFIERNO",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "INFIERNO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_193",
-      "title": "Sinfonía Abismal #193",
-      "band": "Legión Subterránea 193",
-      "sub": "LOBOS",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "LOBOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_194",
-      "title": "Sinfonía Abismal #194",
-      "band": "Legión Subterránea 194",
+      "band": "Legion 180",
+      "title": "Sinfonia Abismal #180",
       "sub": "DIABLO",
       "year": 2024,
-      "yt": "s2EJ1AqPIPg",
+      "yt": "AIeVnN9cFmw",
       "themes": [
         "DIABLO",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "s2EJ1AqPIPg_195",
-      "title": "Sinfonía Abismal #195",
-      "band": "Legión Subterránea 195",
-      "sub": "ESPIRITU",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "ESPIRITU",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_196",
-      "title": "Sinfonía Abismal #196",
-      "band": "Legión Subterránea 196",
-      "sub": "PLACER",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "PLACER",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_197",
-      "title": "Sinfonía Abismal #197",
-      "band": "Legión Subterránea 197",
-      "sub": "RITUALES",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "RITUALES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_198",
-      "title": "Sinfonía Abismal #198",
-      "band": "Legión Subterránea 198",
-      "sub": "DEPRESION",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "DEPRESION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_199",
-      "title": "Sinfonía Abismal #199",
-      "band": "Legión Subterránea 199",
-      "sub": "PROFECIAS",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "PROFECIAS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_200",
-      "title": "Sinfonía Abismal #200",
-      "band": "Legión Subterránea 200",
-      "sub": "RITUALES",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "RITUALES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_201",
-      "title": "Sinfonía Abismal #201",
-      "band": "Legión Subterránea 201",
-      "sub": "RELIGION",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "RELIGION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_202",
-      "title": "Sinfonía Abismal #202",
-      "band": "Legión Subterránea 202",
-      "sub": "HISTORIAS",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "HISTORIAS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_203",
-      "title": "Sinfonía Abismal #203",
-      "band": "Legión Subterránea 203",
-      "sub": "DEPRESION",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "DEPRESION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_204",
-      "title": "Sinfonía Abismal #204",
-      "band": "Legión Subterránea 204",
-      "sub": "HISTORIAS",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "HISTORIAS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_205",
-      "title": "Sinfonía Abismal #205",
-      "band": "Legión Subterránea 205",
-      "sub": "MENTIRA",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "MENTIRA",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_206",
-      "title": "Sinfonía Abismal #206",
-      "band": "Legión Subterránea 206",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_207",
-      "title": "Sinfonía Abismal #207",
-      "band": "Legión Subterránea 207",
-      "sub": "ESPIRITU",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "ESPIRITU",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_208",
-      "title": "Sinfonía Abismal #208",
-      "band": "Legión Subterránea 208",
-      "sub": "DEPRESION",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "DEPRESION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_209",
-      "title": "Sinfonía Abismal #209",
-      "band": "Legión Subterránea 209",
-      "sub": "OCULTISMO",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "OCULTISMO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_210",
-      "title": "Sinfonía Abismal #210",
-      "band": "Legión Subterránea 210",
-      "sub": "OCULTISMO",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "OCULTISMO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_211",
-      "title": "Sinfonía Abismal #211",
-      "band": "Legión Subterránea 211",
-      "sub": "CEMENTERIOS",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "CEMENTERIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_212",
-      "title": "Sinfonía Abismal #212",
-      "band": "Legión Subterránea 212",
-      "sub": "MENTIRA",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "MENTIRA",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_213",
-      "title": "Sinfonía Abismal #213",
-      "band": "Legión Subterránea 213",
-      "sub": "ESPIRITU",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "ESPIRITU",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_214",
-      "title": "Sinfonía Abismal #214",
-      "band": "Legión Subterránea 214",
-      "sub": "INFIERNO",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "INFIERNO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_215",
-      "title": "Sinfonía Abismal #215",
-      "band": "Legión Subterránea 215",
-      "sub": "SOCIEDADES",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "SOCIEDADES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_216",
-      "title": "Sinfonía Abismal #216",
-      "band": "Legión Subterránea 216",
-      "sub": "RELIGION",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "RELIGION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_217",
-      "title": "Sinfonía Abismal #217",
-      "band": "Legión Subterránea 217",
-      "sub": "AMOR",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "AMOR",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_218",
-      "title": "Sinfonía Abismal #218",
-      "band": "Legión Subterránea 218",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_219",
-      "title": "Sinfonía Abismal #219",
-      "band": "Legión Subterránea 219",
-      "sub": "SATANISMO",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "SATANISMO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_220",
-      "title": "Sinfonía Abismal #220",
-      "band": "Legión Subterránea 220",
-      "sub": "RITUALES",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "RITUALES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_221",
-      "title": "Sinfonía Abismal #221",
-      "band": "Legión Subterránea 221",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_222",
-      "title": "Sinfonía Abismal #222",
-      "band": "Legión Subterránea 222",
-      "sub": "EPICOS",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "EPICOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_223",
-      "title": "Sinfonía Abismal #223",
-      "band": "Legión Subterránea 223",
-      "sub": "DIOS",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "DIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_224",
-      "title": "Sinfonía Abismal #224",
-      "band": "Legión Subterránea 224",
-      "sub": "DEPRESION",
+      "id": "xgdUlhnuz18_181",
+      "band": "Legion 181",
+      "title": "Sinfonia Abismal #181",
+      "sub": "SANGRE",
       "year": 2024,
       "yt": "xgdUlhnuz18",
       "themes": [
-        "DEPRESION",
+        "SANGRE",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "E6UOwBZKmXg_225",
-      "title": "Sinfonía Abismal #225",
-      "band": "Legión Subterránea 225",
-      "sub": "CONTROL",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "CONTROL",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_226",
-      "title": "Sinfonía Abismal #226",
-      "band": "Legión Subterránea 226",
-      "sub": "CONTROL",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "CONTROL",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_227",
-      "title": "Sinfonía Abismal #227",
-      "band": "Legión Subterránea 227",
-      "sub": "DEPRESION",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "DEPRESION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_228",
-      "title": "Sinfonía Abismal #228",
-      "band": "Legión Subterránea 228",
-      "sub": "MUERTE",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "MUERTE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_229",
-      "title": "Sinfonía Abismal #229",
-      "band": "Legión Subterránea 229",
-      "sub": "EPICOS",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "EPICOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_230",
-      "title": "Sinfonía Abismal #230",
-      "band": "Legión Subterránea 230",
-      "sub": "MUERTE",
-      "year": 2024,
-      "yt": "E6UOwBZKmXg",
-      "themes": [
-        "MUERTE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_231",
-      "title": "Sinfonía Abismal #231",
-      "band": "Legión Subterránea 231",
-      "sub": "LOBOS",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "LOBOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_232",
-      "title": "Sinfonía Abismal #232",
-      "band": "Legión Subterránea 232",
-      "sub": "SATANISMO",
+      "id": "VRUnc0xvSf8_182",
+      "band": "Legion 182",
+      "title": "Sinfonia Abismal #182",
+      "sub": "OCULTISMO",
       "year": 2024,
       "yt": "VRUnc0xvSf8",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_183",
+      "band": "Legion 183",
+      "title": "Sinfonia Abismal #183",
+      "sub": "AMOR",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "AMOR",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_184",
+      "band": "Legion 184",
+      "title": "Sinfonia Abismal #184",
+      "sub": "VIKINGOS",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "VIKINGOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_185",
+      "band": "Legion 185",
+      "title": "Sinfonia Abismal #185",
+      "sub": "ESPIRITU",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "ESPIRITU",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_186",
+      "band": "Legion 186",
+      "title": "Sinfonia Abismal #186",
+      "sub": "SATANISMO",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
       "themes": [
         "SATANISMO",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "VRUnc0xvSf8_233",
-      "title": "Sinfonía Abismal #233",
-      "band": "Legión Subterránea 233",
-      "sub": "RELIGION",
+      "id": "tFSQMtHNE18_187",
+      "band": "Legion 187",
+      "title": "Sinfonia Abismal #187",
+      "sub": "CEMENTERIOS",
       "year": 2024,
-      "yt": "VRUnc0xvSf8",
+      "yt": "tFSQMtHNE18",
       "themes": [
-        "RELIGION",
+        "CEMENTERIOS",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "CODmtogsZSk_234",
-      "title": "Sinfonía Abismal #234",
-      "band": "Legión Subterránea 234",
+      "id": "JGYnx2m09pQ_188",
+      "band": "Legion 188",
+      "title": "Sinfonia Abismal #188",
       "sub": "SANGRE",
       "year": 2024,
-      "yt": "CODmtogsZSk",
+      "yt": "JGYnx2m09pQ",
       "themes": [
         "SANGRE",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "CODmtogsZSk_235",
-      "title": "Sinfonía Abismal #235",
-      "band": "Legión Subterránea 235",
-      "sub": "ASESINOS",
+      "id": "tFSQMtHNE18_189",
+      "band": "Legion 189",
+      "title": "Sinfonia Abismal #189",
+      "sub": "CEMENTERIOS",
       "year": 2024,
-      "yt": "CODmtogsZSk",
+      "yt": "tFSQMtHNE18",
       "themes": [
-        "ASESINOS",
+        "CEMENTERIOS",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "JGYnx2m09pQ_236",
-      "title": "Sinfonía Abismal #236",
-      "band": "Legión Subterránea 236",
+      "id": "J5yta7KG4Rg_190",
+      "band": "Legion 190",
+      "title": "Sinfonia Abismal #190",
+      "sub": "LOBOS",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "LOBOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_191",
+      "band": "Legion 191",
+      "title": "Sinfonia Abismal #191",
+      "sub": "RITUALES",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "RITUALES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_192",
+      "band": "Legion 192",
+      "title": "Sinfonia Abismal #192",
+      "sub": "AMOR",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "AMOR",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_193",
+      "band": "Legion 193",
+      "title": "Sinfonia Abismal #193",
       "sub": "SINFONICO",
       "year": 2024,
-      "yt": "JGYnx2m09pQ",
+      "yt": "AIeVnN9cFmw",
       "themes": [
         "SINFONICO",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "JGYnx2m09pQ_237",
-      "title": "Sinfonía Abismal #237",
-      "band": "Legión Subterránea 237",
-      "sub": "SOCIEDADES",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "SOCIEDADES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_238",
-      "title": "Sinfonía Abismal #238",
-      "band": "Legión Subterránea 238",
-      "sub": "CONTROL",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "CONTROL",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_239",
-      "title": "Sinfonía Abismal #239",
-      "band": "Legión Subterránea 239",
+      "id": "tFSQMtHNE18_194",
+      "band": "Legion 194",
+      "title": "Sinfonia Abismal #194",
       "sub": "MENTALIDAD",
       "year": 2024,
       "yt": "tFSQMtHNE18",
       "themes": [
         "MENTALIDAD",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "s2EJ1AqPIPg_240",
-      "title": "Sinfonía Abismal #240",
-      "band": "Legión Subterránea 240",
-      "sub": "DIABLO",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "DIABLO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_241",
-      "title": "Sinfonía Abismal #241",
-      "band": "Legión Subterránea 241",
-      "sub": "LOBOS",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "LOBOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_242",
-      "title": "Sinfonía Abismal #242",
-      "band": "Legión Subterránea 242",
-      "sub": "EPICOS",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "EPICOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_243",
-      "title": "Sinfonía Abismal #243",
-      "band": "Legión Subterránea 243",
-      "sub": "AMOR",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "AMOR",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_244",
-      "title": "Sinfonía Abismal #244",
-      "band": "Legión Subterránea 244",
-      "sub": "OCULTISMO",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "OCULTISMO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_245",
-      "title": "Sinfonía Abismal #245",
-      "band": "Legión Subterránea 245",
-      "sub": "DIABLO",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "DIABLO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_246",
-      "title": "Sinfonía Abismal #246",
-      "band": "Legión Subterránea 246",
-      "sub": "RITUALES",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "RITUALES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_247",
-      "title": "Sinfonía Abismal #247",
-      "band": "Legión Subterránea 247",
-      "sub": "CEMENTERIOS",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "CEMENTERIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_248",
-      "title": "Sinfonía Abismal #248",
-      "band": "Legión Subterránea 248",
-      "sub": "PLACER",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "PLACER",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_249",
-      "title": "Sinfonía Abismal #249",
-      "band": "Legión Subterránea 249",
-      "sub": "LOBOS",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "LOBOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_250",
-      "title": "Sinfonía Abismal #250",
-      "band": "Legión Subterránea 250",
-      "sub": "RITUALES",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "RITUALES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_251",
-      "title": "Sinfonía Abismal #251",
-      "band": "Legión Subterránea 251",
-      "sub": "RITUALES",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "RITUALES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_252",
-      "title": "Sinfonía Abismal #252",
-      "band": "Legión Subterránea 252",
-      "sub": "PLACER",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "PLACER",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_253",
-      "title": "Sinfonía Abismal #253",
-      "band": "Legión Subterránea 253",
-      "sub": "EPICOS",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "EPICOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_254",
-      "title": "Sinfonía Abismal #254",
-      "band": "Legión Subterránea 254",
-      "sub": "LOBOS",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "LOBOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_255",
-      "title": "Sinfonía Abismal #255",
-      "band": "Legión Subterránea 255",
+      "id": "xgdUlhnuz18_195",
+      "band": "Legion 195",
+      "title": "Sinfonia Abismal #195",
       "sub": "DEPRESION",
       "year": 2024,
-      "yt": "tFSQMtHNE18",
+      "yt": "xgdUlhnuz18",
       "themes": [
         "DEPRESION",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "AIeVnN9cFmw_256",
-      "title": "Sinfonía Abismal #256",
-      "band": "Legión Subterránea 256",
+      "id": "CODmtogsZSk_196",
+      "band": "Legion 196",
+      "title": "Sinfonia Abismal #196",
+      "sub": "MACHIN",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "MACHIN",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "xgdUlhnuz18_197",
+      "band": "Legion 197",
+      "title": "Sinfonia Abismal #197",
+      "sub": "DEPRESION",
+      "year": 2024,
+      "yt": "xgdUlhnuz18",
+      "themes": [
+        "DEPRESION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "xgdUlhnuz18_198",
+      "band": "Legion 198",
+      "title": "Sinfonia Abismal #198",
+      "sub": "PROFECIAS",
+      "year": 2024,
+      "yt": "xgdUlhnuz18",
+      "themes": [
+        "PROFECIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_199",
+      "band": "Legion 199",
+      "title": "Sinfonia Abismal #199",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_200",
+      "band": "Legion 200",
+      "title": "Sinfonia Abismal #200",
+      "sub": "SANGRE",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "SANGRE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_201",
+      "band": "Legion 201",
+      "title": "Sinfonia Abismal #201",
+      "sub": "ESPIRITU",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "ESPIRITU",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_202",
+      "band": "Legion 202",
+      "title": "Sinfonia Abismal #202",
+      "sub": "LOBOS",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "LOBOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_203",
+      "band": "Legion 203",
+      "title": "Sinfonia Abismal #203",
+      "sub": "INFIERNO",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "INFIERNO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_204",
+      "band": "Legion 204",
+      "title": "Sinfonia Abismal #204",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_205",
+      "band": "Legion 205",
+      "title": "Sinfonia Abismal #205",
+      "sub": "OCULTISMO",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_206",
+      "band": "Legion 206",
+      "title": "Sinfonia Abismal #206",
+      "sub": "DIABLO",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "DIABLO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_207",
+      "band": "Legion 207",
+      "title": "Sinfonia Abismal #207",
+      "sub": "MENTALIDAD",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "MENTALIDAD",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_208",
+      "band": "Legion 208",
+      "title": "Sinfonia Abismal #208",
+      "sub": "SINFONICO",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "SINFONICO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_209",
+      "band": "Legion 209",
+      "title": "Sinfonia Abismal #209",
+      "sub": "HISTORIAS",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "HISTORIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_210",
+      "band": "Legion 210",
+      "title": "Sinfonia Abismal #210",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_211",
+      "band": "Legion 211",
+      "title": "Sinfonia Abismal #211",
+      "sub": "EPICOS",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "EPICOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_212",
+      "band": "Legion 212",
+      "title": "Sinfonia Abismal #212",
+      "sub": "MENTALIDAD",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "MENTALIDAD",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_213",
+      "band": "Legion 213",
+      "title": "Sinfonia Abismal #213",
+      "sub": "OCULTISMO",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_214",
+      "band": "Legion 214",
+      "title": "Sinfonia Abismal #214",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_215",
+      "band": "Legion 215",
+      "title": "Sinfonia Abismal #215",
+      "sub": "DIABLO",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "DIABLO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_216",
+      "band": "Legion 216",
+      "title": "Sinfonia Abismal #216",
+      "sub": "MENTIRA",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "MENTIRA",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_217",
+      "band": "Legion 217",
+      "title": "Sinfonia Abismal #217",
+      "sub": "HISTORIAS",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "HISTORIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_218",
+      "band": "Legion 218",
+      "title": "Sinfonia Abismal #218",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_219",
+      "band": "Legion 219",
+      "title": "Sinfonia Abismal #219",
+      "sub": "HISTORIAS",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "HISTORIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_220",
+      "band": "Legion 220",
+      "title": "Sinfonia Abismal #220",
+      "sub": "DEPRESION",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "DEPRESION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_221",
+      "band": "Legion 221",
+      "title": "Sinfonia Abismal #221",
+      "sub": "HISTORIAS",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "HISTORIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "xgdUlhnuz18_222",
+      "band": "Legion 222",
+      "title": "Sinfonia Abismal #222",
+      "sub": "INFIERNO",
+      "year": 2024,
+      "yt": "xgdUlhnuz18",
+      "themes": [
+        "INFIERNO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_223",
+      "band": "Legion 223",
+      "title": "Sinfonia Abismal #223",
+      "sub": "SINFONICO",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "SINFONICO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "xgdUlhnuz18_224",
+      "band": "Legion 224",
+      "title": "Sinfonia Abismal #224",
+      "sub": "SINFONICO",
+      "year": 2024,
+      "yt": "xgdUlhnuz18",
+      "themes": [
+        "SINFONICO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_225",
+      "band": "Legion 225",
+      "title": "Sinfonia Abismal #225",
+      "sub": "DEPRESION",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "DEPRESION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_226",
+      "band": "Legion 226",
+      "title": "Sinfonia Abismal #226",
+      "sub": "RELIGION",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "RELIGION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_227",
+      "band": "Legion 227",
+      "title": "Sinfonia Abismal #227",
+      "sub": "MUERTE",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "MUERTE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_228",
+      "band": "Legion 228",
+      "title": "Sinfonia Abismal #228",
+      "sub": "EPICOS",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "EPICOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_229",
+      "band": "Legion 229",
+      "title": "Sinfonia Abismal #229",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_230",
+      "band": "Legion 230",
+      "title": "Sinfonia Abismal #230",
+      "sub": "SATANISMO",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "SATANISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_231",
+      "band": "Legion 231",
+      "title": "Sinfonia Abismal #231",
+      "sub": "SINFONICO",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "SINFONICO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_232",
+      "band": "Legion 232",
+      "title": "Sinfonia Abismal #232",
+      "sub": "SINFONICO",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "SINFONICO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "xgdUlhnuz18_233",
+      "band": "Legion 233",
+      "title": "Sinfonia Abismal #233",
+      "sub": "AMOR",
+      "year": 2024,
+      "yt": "xgdUlhnuz18",
+      "themes": [
+        "AMOR",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_234",
+      "band": "Legion 234",
+      "title": "Sinfonia Abismal #234",
+      "sub": "DEPRESION",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "DEPRESION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_235",
+      "band": "Legion 235",
+      "title": "Sinfonia Abismal #235",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_236",
+      "band": "Legion 236",
+      "title": "Sinfonia Abismal #236",
+      "sub": "ASESINOS",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "ASESINOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_237",
+      "band": "Legion 237",
+      "title": "Sinfonia Abismal #237",
+      "sub": "EPICOS",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "EPICOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_238",
+      "band": "Legion 238",
+      "title": "Sinfonia Abismal #238",
+      "sub": "DEPRESION",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "DEPRESION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_239",
+      "band": "Legion 239",
+      "title": "Sinfonia Abismal #239",
+      "sub": "PLACER",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "PLACER",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_240",
+      "band": "Legion 240",
+      "title": "Sinfonia Abismal #240",
+      "sub": "MENTALIDAD",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "MENTALIDAD",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_241",
+      "band": "Legion 241",
+      "title": "Sinfonia Abismal #241",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_242",
+      "band": "Legion 242",
+      "title": "Sinfonia Abismal #242",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_243",
+      "band": "Legion 243",
+      "title": "Sinfonia Abismal #243",
+      "sub": "OCULTISMO",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "OCULTISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_244",
+      "band": "Legion 244",
+      "title": "Sinfonia Abismal #244",
+      "sub": "PROFECIAS",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "PROFECIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_245",
+      "band": "Legion 245",
+      "title": "Sinfonia Abismal #245",
+      "sub": "LOBOS",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "LOBOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_246",
+      "band": "Legion 246",
+      "title": "Sinfonia Abismal #246",
+      "sub": "LOBOS",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "LOBOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_247",
+      "band": "Legion 247",
+      "title": "Sinfonia Abismal #247",
+      "sub": "EPICOS",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "EPICOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_248",
+      "band": "Legion 248",
+      "title": "Sinfonia Abismal #248",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_249",
+      "band": "Legion 249",
+      "title": "Sinfonia Abismal #249",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "xgdUlhnuz18_250",
+      "band": "Legion 250",
+      "title": "Sinfonia Abismal #250",
+      "sub": "PROFECIAS",
+      "year": 2024,
+      "yt": "xgdUlhnuz18",
+      "themes": [
+        "PROFECIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "xgdUlhnuz18_251",
+      "band": "Legion 251",
+      "title": "Sinfonia Abismal #251",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "xgdUlhnuz18",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_252",
+      "band": "Legion 252",
+      "title": "Sinfonia Abismal #252",
+      "sub": "ESPIRITU",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "ESPIRITU",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_253",
+      "band": "Legion 253",
+      "title": "Sinfonia Abismal #253",
+      "sub": "VIKINGOS",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "VIKINGOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_254",
+      "band": "Legion 254",
+      "title": "Sinfonia Abismal #254",
+      "sub": "VIKINGOS",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "VIKINGOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_255",
+      "band": "Legion 255",
+      "title": "Sinfonia Abismal #255",
+      "sub": "EPICOS",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "EPICOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_256",
+      "band": "Legion 256",
+      "title": "Sinfonia Abismal #256",
+      "sub": "DIOS",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "DIOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_257",
+      "band": "Legion 257",
+      "title": "Sinfonia Abismal #257",
+      "sub": "RITUALES",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "RITUALES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_258",
+      "band": "Legion 258",
+      "title": "Sinfonia Abismal #258",
+      "sub": "ESPIRITU",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "ESPIRITU",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_259",
+      "band": "Legion 259",
+      "title": "Sinfonia Abismal #259",
+      "sub": "PROFECIAS",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "PROFECIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_260",
+      "band": "Legion 260",
+      "title": "Sinfonia Abismal #260",
+      "sub": "PLACER",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "PLACER",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "s2EJ1AqPIPg_261",
+      "band": "Legion 261",
+      "title": "Sinfonia Abismal #261",
+      "sub": "MENTALIDAD",
+      "year": 2024,
+      "yt": "s2EJ1AqPIPg",
+      "themes": [
+        "MENTALIDAD",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_262",
+      "band": "Legion 262",
+      "title": "Sinfonia Abismal #262",
+      "sub": "DIOS",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "DIOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "xgdUlhnuz18_263",
+      "band": "Legion 263",
+      "title": "Sinfonia Abismal #263",
+      "sub": "DEPRESION",
+      "year": 2024,
+      "yt": "xgdUlhnuz18",
+      "themes": [
+        "DEPRESION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "xgdUlhnuz18_264",
+      "band": "Legion 264",
+      "title": "Sinfonia Abismal #264",
+      "sub": "SATANISMO",
+      "year": 2024,
+      "yt": "xgdUlhnuz18",
+      "themes": [
+        "SATANISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_265",
+      "band": "Legion 265",
+      "title": "Sinfonia Abismal #265",
+      "sub": "MUERTE",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "MUERTE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_266",
+      "band": "Legion 266",
+      "title": "Sinfonia Abismal #266",
+      "sub": "INFIERNO",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "INFIERNO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_267",
+      "band": "Legion 267",
+      "title": "Sinfonia Abismal #267",
+      "sub": "ESPIRITU",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "ESPIRITU",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_268",
+      "band": "Legion 268",
+      "title": "Sinfonia Abismal #268",
+      "sub": "RITUALES",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "RITUALES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_269",
+      "band": "Legion 269",
+      "title": "Sinfonia Abismal #269",
+      "sub": "DIABLO",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "DIABLO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_270",
+      "band": "Legion 270",
+      "title": "Sinfonia Abismal #270",
+      "sub": "HISTORIAS",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "HISTORIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_271",
+      "band": "Legion 271",
+      "title": "Sinfonia Abismal #271",
+      "sub": "HISTORIAS",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "HISTORIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_272",
+      "band": "Legion 272",
+      "title": "Sinfonia Abismal #272",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_273",
+      "band": "Legion 273",
+      "title": "Sinfonia Abismal #273",
+      "sub": "RELIGION",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "RELIGION",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_274",
+      "band": "Legion 274",
+      "title": "Sinfonia Abismal #274",
+      "sub": "SINFONICO",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "SINFONICO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_275",
+      "band": "Legion 275",
+      "title": "Sinfonia Abismal #275",
+      "sub": "PROFECIAS",
+      "year": 2024,
+      "yt": "AIeVnN9cFmw",
+      "themes": [
+        "PROFECIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "CODmtogsZSk_276",
+      "band": "Legion 276",
+      "title": "Sinfonia Abismal #276",
+      "sub": "SANGRE",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "SANGRE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "xgdUlhnuz18_277",
+      "band": "Legion 277",
+      "title": "Sinfonia Abismal #277",
+      "sub": "SINFONICO",
+      "year": 2024,
+      "yt": "xgdUlhnuz18",
+      "themes": [
+        "SINFONICO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_278",
+      "band": "Legion 278",
+      "title": "Sinfonia Abismal #278",
+      "sub": "PLACER",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "PLACER",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_279",
+      "band": "Legion 279",
+      "title": "Sinfonia Abismal #279",
+      "sub": "EPICOS",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "EPICOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_280",
+      "band": "Legion 280",
+      "title": "Sinfonia Abismal #280",
+      "sub": "DIABLO",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "DIABLO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_281",
+      "band": "Legion 281",
+      "title": "Sinfonia Abismal #281",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "E6UOwBZKmXg_282",
+      "band": "Legion 282",
+      "title": "Sinfonia Abismal #282",
+      "sub": "ESPIRITU",
+      "year": 2024,
+      "yt": "E6UOwBZKmXg",
+      "themes": [
+        "ESPIRITU",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_283",
+      "band": "Legion 283",
+      "title": "Sinfonia Abismal #283",
+      "sub": "HISTORIAS",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "HISTORIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_284",
+      "band": "Legion 284",
+      "title": "Sinfonia Abismal #284",
+      "sub": "SATANISMO",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "SATANISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_285",
+      "band": "Legion 285",
+      "title": "Sinfonia Abismal #285",
+      "sub": "MUERTE",
+      "year": 2024,
+      "yt": "VRUnc0xvSf8",
+      "themes": [
+        "MUERTE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_286",
+      "band": "Legion 286",
+      "title": "Sinfonia Abismal #286",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_287",
+      "band": "Legion 287",
+      "title": "Sinfonia Abismal #287",
+      "sub": "MUERTE",
+      "year": 2024,
+      "yt": "J5yta7KG4Rg",
+      "themes": [
+        "MUERTE",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "JGYnx2m09pQ_288",
+      "band": "Legion 288",
+      "title": "Sinfonia Abismal #288",
+      "sub": "SOCIEDADES",
+      "year": 2024,
+      "yt": "JGYnx2m09pQ",
+      "themes": [
+        "SOCIEDADES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "AIeVnN9cFmw_289",
+      "band": "Legion 289",
+      "title": "Sinfonia Abismal #289",
       "sub": "VIKINGOS",
       "year": 2024,
       "yt": "AIeVnN9cFmw",
       "themes": [
         "VIKINGOS",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "J5yta7KG4Rg_257",
-      "title": "Sinfonía Abismal #257",
-      "band": "Legión Subterránea 257",
-      "sub": "LOBOS",
+      "id": "CODmtogsZSk_290",
+      "band": "Legion 290",
+      "title": "Sinfonia Abismal #290",
+      "sub": "CEMENTERIOS",
+      "year": 2024,
+      "yt": "CODmtogsZSk",
+      "themes": [
+        "CEMENTERIOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_291",
+      "band": "Legion 291",
+      "title": "Sinfonia Abismal #291",
+      "sub": "SATANISMO",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "SATANISMO",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "tFSQMtHNE18_292",
+      "band": "Legion 292",
+      "title": "Sinfonia Abismal #292",
+      "sub": "CONTROL",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "CONTROL",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "J5yta7KG4Rg_293",
+      "band": "Legion 293",
+      "title": "Sinfonia Abismal #293",
+      "sub": "PROFECIAS",
       "year": 2024,
       "yt": "J5yta7KG4Rg",
       "themes": [
-        "LOBOS",
+        "PROFECIAS",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "tFSQMtHNE18_258",
-      "title": "Sinfonía Abismal #258",
-      "band": "Legión Subterránea 258",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_259",
-      "title": "Sinfonía Abismal #259",
-      "band": "Legión Subterránea 259",
-      "sub": "RELIGION",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "RELIGION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_260",
-      "title": "Sinfonía Abismal #260",
-      "band": "Legión Subterránea 260",
-      "sub": "MENTALIDAD",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "MENTALIDAD",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "E6UOwBZKmXg_261",
-      "title": "Sinfonía Abismal #261",
-      "band": "Legión Subterránea 261",
+      "id": "E6UOwBZKmXg_294",
+      "band": "Legion 294",
+      "title": "Sinfonia Abismal #294",
       "sub": "SOCIEDADES",
       "year": 2024,
       "yt": "E6UOwBZKmXg",
       "themes": [
         "SOCIEDADES",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "VRUnc0xvSf8_262",
-      "title": "Sinfonía Abismal #262",
-      "band": "Legión Subterránea 262",
-      "sub": "OCULTISMO",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "OCULTISMO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_263",
-      "title": "Sinfonía Abismal #263",
-      "band": "Legión Subterránea 263",
-      "sub": "DIABLO",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "DIABLO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_264",
-      "title": "Sinfonía Abismal #264",
-      "band": "Legión Subterránea 264",
-      "sub": "SINFONICO",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "SINFONICO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_265",
-      "title": "Sinfonía Abismal #265",
-      "band": "Legión Subterránea 265",
-      "sub": "MENTIRA",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "MENTIRA",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_266",
-      "title": "Sinfonía Abismal #266",
-      "band": "Legión Subterránea 266",
-      "sub": "EPICOS",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "EPICOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_267",
-      "title": "Sinfonía Abismal #267",
-      "band": "Legión Subterránea 267",
-      "sub": "AMOR",
+      "id": "J5yta7KG4Rg_295",
+      "band": "Legion 295",
+      "title": "Sinfonia Abismal #295",
+      "sub": "RELIGION",
       "year": 2024,
       "yt": "J5yta7KG4Rg",
       "themes": [
-        "AMOR",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_268",
-      "title": "Sinfonía Abismal #268",
-      "band": "Legión Subterránea 268",
-      "sub": "CEMENTERIOS",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "CEMENTERIOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_269",
-      "title": "Sinfonía Abismal #269",
-      "band": "Legión Subterránea 269",
-      "sub": "ESPIRITU",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "ESPIRITU",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_270",
-      "title": "Sinfonía Abismal #270",
-      "band": "Legión Subterránea 270",
-      "sub": "CONTROL",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "CONTROL",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_271",
-      "title": "Sinfonía Abismal #271",
-      "band": "Legión Subterránea 271",
-      "sub": "MUERTE",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "MUERTE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_272",
-      "title": "Sinfonía Abismal #272",
-      "band": "Legión Subterránea 272",
-      "sub": "CONTROL",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "CONTROL",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_273",
-      "title": "Sinfonía Abismal #273",
-      "band": "Legión Subterránea 273",
-      "sub": "AMOR",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "AMOR",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_274",
-      "title": "Sinfonía Abismal #274",
-      "band": "Legión Subterránea 274",
-      "sub": "HISTORIAS",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "HISTORIAS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_275",
-      "title": "Sinfonía Abismal #275",
-      "band": "Legión Subterránea 275",
-      "sub": "RELIGION",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
         "RELIGION",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "VRUnc0xvSf8_276",
-      "title": "Sinfonía Abismal #276",
-      "band": "Legión Subterránea 276",
+      "id": "tFSQMtHNE18_296",
+      "band": "Legion 296",
+      "title": "Sinfonia Abismal #296",
+      "sub": "ASESINOS",
+      "year": 2024,
+      "yt": "tFSQMtHNE18",
+      "themes": [
+        "ASESINOS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_297",
+      "band": "Legion 297",
+      "title": "Sinfonia Abismal #297",
+      "sub": "RITUALES",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "RITUALES",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "6QGlnm6lIZM_298",
+      "band": "Legion 298",
+      "title": "Sinfonia Abismal #298",
+      "sub": "PROFECIAS",
+      "year": 2024,
+      "yt": "6QGlnm6lIZM",
+      "themes": [
+        "PROFECIAS",
+        "INFIERNO"
+      ],
+      "engine": "AeroCore-X"
+    },
+    {
+      "id": "VRUnc0xvSf8_299",
+      "band": "Legion 299",
+      "title": "Sinfonia Abismal #299",
       "sub": "RITUALES",
       "year": 2024,
       "yt": "VRUnc0xvSf8",
       "themes": [
         "RITUALES",
         "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     },
     {
-      "id": "J5yta7KG4Rg_277",
-      "title": "Sinfonía Abismal #277",
-      "band": "Legión Subterránea 277",
-      "sub": "MENTIRA",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "MENTIRA",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_278",
-      "title": "Sinfonía Abismal #278",
-      "band": "Legión Subterránea 278",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_279",
-      "title": "Sinfonía Abismal #279",
-      "band": "Legión Subterránea 279",
-      "sub": "DEPRESION",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "DEPRESION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_280",
-      "title": "Sinfonía Abismal #280",
-      "band": "Legión Subterránea 280",
-      "sub": "ESPIRITU",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "ESPIRITU",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_281",
-      "title": "Sinfonía Abismal #281",
-      "band": "Legión Subterránea 281",
-      "sub": "SINFONICO",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "SINFONICO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_282",
-      "title": "Sinfonía Abismal #282",
-      "band": "Legión Subterránea 282",
-      "sub": "AMOR",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "AMOR",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_283",
-      "title": "Sinfonía Abismal #283",
-      "band": "Legión Subterránea 283",
-      "sub": "HISTORIAS",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "HISTORIAS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "JGYnx2m09pQ_284",
-      "title": "Sinfonía Abismal #284",
-      "band": "Legión Subterránea 284",
-      "sub": "MENTALIDAD",
-      "year": 2024,
-      "yt": "JGYnx2m09pQ",
-      "themes": [
-        "MENTALIDAD",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_285",
-      "title": "Sinfonía Abismal #285",
-      "band": "Legión Subterránea 285",
-      "sub": "SANGRE",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "SANGRE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "AIeVnN9cFmw_286",
-      "title": "Sinfonía Abismal #286",
-      "band": "Legión Subterránea 286",
-      "sub": "HISTORIAS",
-      "year": 2024,
-      "yt": "AIeVnN9cFmw",
-      "themes": [
-        "HISTORIAS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_287",
-      "title": "Sinfonía Abismal #287",
-      "band": "Legión Subterránea 287",
-      "sub": "MENTIRA",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "MENTIRA",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_288",
-      "title": "Sinfonía Abismal #288",
-      "band": "Legión Subterránea 288",
-      "sub": "PROFECIAS",
+      "id": "xgdUlhnuz18_300",
+      "band": "Legion 300",
+      "title": "Sinfonia Abismal #300",
+      "sub": "CONTROL",
       "year": 2024,
       "yt": "xgdUlhnuz18",
       "themes": [
-        "PROFECIAS",
+        "CONTROL",
         "INFIERNO"
-      ]
-    },
-    {
-      "id": "J5yta7KG4Rg_289",
-      "title": "Sinfonía Abismal #289",
-      "band": "Legión Subterránea 289",
-      "sub": "ASESINOS",
-      "year": 2024,
-      "yt": "J5yta7KG4Rg",
-      "themes": [
-        "ASESINOS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "CODmtogsZSk_290",
-      "title": "Sinfonía Abismal #290",
-      "band": "Legión Subterránea 290",
-      "sub": "SOCIEDADES",
-      "year": 2024,
-      "yt": "CODmtogsZSk",
-      "themes": [
-        "SOCIEDADES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "xgdUlhnuz18_291",
-      "title": "Sinfonía Abismal #291",
-      "band": "Legión Subterránea 291",
-      "sub": "RELIGION",
-      "year": 2024,
-      "yt": "xgdUlhnuz18",
-      "themes": [
-        "RELIGION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_292",
-      "title": "Sinfonía Abismal #292",
-      "band": "Legión Subterránea 292",
-      "sub": "DEPRESION",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "DEPRESION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "tFSQMtHNE18_293",
-      "title": "Sinfonía Abismal #293",
-      "band": "Legión Subterránea 293",
-      "sub": "ESPIRITU",
-      "year": 2024,
-      "yt": "tFSQMtHNE18",
-      "themes": [
-        "ESPIRITU",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_294",
-      "title": "Sinfonía Abismal #294",
-      "band": "Legión Subterránea 294",
-      "sub": "MUERTE",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "MUERTE",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_295",
-      "title": "Sinfonía Abismal #295",
-      "band": "Legión Subterránea 295",
-      "sub": "DEPRESION",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "DEPRESION",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_296",
-      "title": "Sinfonía Abismal #296",
-      "band": "Legión Subterránea 296",
-      "sub": "SOCIEDADES",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "SOCIEDADES",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_297",
-      "title": "Sinfonía Abismal #297",
-      "band": "Legión Subterránea 297",
-      "sub": "HISTORIAS",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "HISTORIAS",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "6QGlnm6lIZM_298",
-      "title": "Sinfonía Abismal #298",
-      "band": "Legión Subterránea 298",
-      "sub": "MENTIRA",
-      "year": 2024,
-      "yt": "6QGlnm6lIZM",
-      "themes": [
-        "MENTIRA",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "s2EJ1AqPIPg_299",
-      "title": "Sinfonía Abismal #299",
-      "band": "Legión Subterránea 299",
-      "sub": "SINFONICO",
-      "year": 2024,
-      "yt": "s2EJ1AqPIPg",
-      "themes": [
-        "SINFONICO",
-        "INFIERNO"
-      ]
-    },
-    {
-      "id": "VRUnc0xvSf8_300",
-      "title": "Sinfonía Abismal #300",
-      "band": "Legión Subterránea 300",
-      "sub": "MACHIN",
-      "year": 2024,
-      "yt": "VRUnc0xvSf8",
-      "themes": [
-        "MACHIN",
-        "INFIERNO"
-      ]
+      ],
+      "engine": "AeroCore-X"
     }
   ]
 }
