@@ -1,2700 +1,4200 @@
 [
   {
     "id": 1,
-    "title": "AeroCore Track #1 - Abyssal Thrash Metal",
+    "title": "Track #1 - Abyssal MUERTE",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/1"
   },
   {
     "id": 2,
-    "title": "AeroCore Track #2 - Abyssal Death Metal",
+    "title": "Track #2 - Abyssal SANGRE",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/2"
   },
   {
     "id": 3,
-    "title": "AeroCore Track #3 - Abyssal Black Metal",
+    "title": "Track #3 - Abyssal DIABLO",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/3"
   },
   {
     "id": 4,
-    "title": "AeroCore Track #4 - Abyssal Doom Metal",
+    "title": "Track #4 - Abyssal DOOM",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/4"
   },
   {
     "id": 5,
-    "title": "AeroCore Track #5 - Abyssal Grindcore",
+    "title": "Track #5 - Abyssal BLACK",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/5"
   },
   {
     "id": 6,
-    "title": "AeroCore Track #6 - Abyssal Deathcore",
+    "title": "Track #6 - Abyssal THRASH",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/6"
   },
   {
     "id": 7,
-    "title": "AeroCore Track #7 - Abyssal Heavy Rock",
+    "title": "Track #7 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/7"
   },
   {
     "id": 8,
-    "title": "AeroCore Track #8 - Abyssal Thrash Metal",
+    "title": "Track #8 - Abyssal MUERTE",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/8"
   },
   {
     "id": 9,
-    "title": "AeroCore Track #9 - Abyssal Death Metal",
+    "title": "Track #9 - Abyssal SANGRE",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/9"
   },
   {
     "id": 10,
-    "title": "AeroCore Track #10 - Abyssal Black Metal",
+    "title": "Track #10 - Abyssal DIABLO",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/10"
   },
   {
     "id": 11,
-    "title": "AeroCore Track #11 - Abyssal Doom Metal",
+    "title": "Track #11 - Abyssal DOOM",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/11"
   },
   {
     "id": 12,
-    "title": "AeroCore Track #12 - Abyssal Grindcore",
+    "title": "Track #12 - Abyssal BLACK",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/12"
   },
   {
     "id": 13,
-    "title": "AeroCore Track #13 - Abyssal Deathcore",
+    "title": "Track #13 - Abyssal THRASH",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/13"
   },
   {
     "id": 14,
-    "title": "AeroCore Track #14 - Abyssal Heavy Rock",
+    "title": "Track #14 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/14"
   },
   {
     "id": 15,
-    "title": "AeroCore Track #15 - Abyssal Thrash Metal",
+    "title": "Track #15 - Abyssal MUERTE",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/15"
   },
   {
     "id": 16,
-    "title": "AeroCore Track #16 - Abyssal Death Metal",
+    "title": "Track #16 - Abyssal SANGRE",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/16"
   },
   {
     "id": 17,
-    "title": "AeroCore Track #17 - Abyssal Black Metal",
+    "title": "Track #17 - Abyssal DIABLO",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/17"
   },
   {
     "id": 18,
-    "title": "AeroCore Track #18 - Abyssal Doom Metal",
+    "title": "Track #18 - Abyssal DOOM",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/18"
   },
   {
     "id": 19,
-    "title": "AeroCore Track #19 - Abyssal Grindcore",
+    "title": "Track #19 - Abyssal BLACK",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/19"
   },
   {
     "id": 20,
-    "title": "AeroCore Track #20 - Abyssal Deathcore",
+    "title": "Track #20 - Abyssal THRASH",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/20"
   },
   {
     "id": 21,
-    "title": "AeroCore Track #21 - Abyssal Heavy Rock",
+    "title": "Track #21 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/21"
   },
   {
     "id": 22,
-    "title": "AeroCore Track #22 - Abyssal Thrash Metal",
+    "title": "Track #22 - Abyssal MUERTE",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/22"
   },
   {
     "id": 23,
-    "title": "AeroCore Track #23 - Abyssal Death Metal",
+    "title": "Track #23 - Abyssal SANGRE",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/23"
   },
   {
     "id": 24,
-    "title": "AeroCore Track #24 - Abyssal Black Metal",
+    "title": "Track #24 - Abyssal DIABLO",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/24"
   },
   {
     "id": 25,
-    "title": "AeroCore Track #25 - Abyssal Doom Metal",
+    "title": "Track #25 - Abyssal DOOM",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/25"
   },
   {
     "id": 26,
-    "title": "AeroCore Track #26 - Abyssal Grindcore",
+    "title": "Track #26 - Abyssal BLACK",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/26"
   },
   {
     "id": 27,
-    "title": "AeroCore Track #27 - Abyssal Deathcore",
+    "title": "Track #27 - Abyssal THRASH",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/27"
   },
   {
     "id": 28,
-    "title": "AeroCore Track #28 - Abyssal Heavy Rock",
+    "title": "Track #28 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/28"
   },
   {
     "id": 29,
-    "title": "AeroCore Track #29 - Abyssal Thrash Metal",
+    "title": "Track #29 - Abyssal MUERTE",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/29"
   },
   {
     "id": 30,
-    "title": "AeroCore Track #30 - Abyssal Death Metal",
+    "title": "Track #30 - Abyssal SANGRE",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/30"
   },
   {
     "id": 31,
-    "title": "AeroCore Track #31 - Abyssal Black Metal",
+    "title": "Track #31 - Abyssal DIABLO",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/31"
   },
   {
     "id": 32,
-    "title": "AeroCore Track #32 - Abyssal Doom Metal",
+    "title": "Track #32 - Abyssal DOOM",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/32"
   },
   {
     "id": 33,
-    "title": "AeroCore Track #33 - Abyssal Grindcore",
+    "title": "Track #33 - Abyssal BLACK",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/33"
   },
   {
     "id": 34,
-    "title": "AeroCore Track #34 - Abyssal Deathcore",
+    "title": "Track #34 - Abyssal THRASH",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/34"
   },
   {
     "id": 35,
-    "title": "AeroCore Track #35 - Abyssal Heavy Rock",
+    "title": "Track #35 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/35"
   },
   {
     "id": 36,
-    "title": "AeroCore Track #36 - Abyssal Thrash Metal",
+    "title": "Track #36 - Abyssal MUERTE",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/36"
   },
   {
     "id": 37,
-    "title": "AeroCore Track #37 - Abyssal Death Metal",
+    "title": "Track #37 - Abyssal SANGRE",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/37"
   },
   {
     "id": 38,
-    "title": "AeroCore Track #38 - Abyssal Black Metal",
+    "title": "Track #38 - Abyssal DIABLO",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/38"
   },
   {
     "id": 39,
-    "title": "AeroCore Track #39 - Abyssal Doom Metal",
+    "title": "Track #39 - Abyssal DOOM",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/39"
   },
   {
     "id": 40,
-    "title": "AeroCore Track #40 - Abyssal Grindcore",
+    "title": "Track #40 - Abyssal BLACK",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/40"
   },
   {
     "id": 41,
-    "title": "AeroCore Track #41 - Abyssal Deathcore",
+    "title": "Track #41 - Abyssal THRASH",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/41"
   },
   {
     "id": 42,
-    "title": "AeroCore Track #42 - Abyssal Heavy Rock",
+    "title": "Track #42 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/42"
   },
   {
     "id": 43,
-    "title": "AeroCore Track #43 - Abyssal Thrash Metal",
+    "title": "Track #43 - Abyssal MUERTE",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/43"
   },
   {
     "id": 44,
-    "title": "AeroCore Track #44 - Abyssal Death Metal",
+    "title": "Track #44 - Abyssal SANGRE",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/44"
   },
   {
     "id": 45,
-    "title": "AeroCore Track #45 - Abyssal Black Metal",
+    "title": "Track #45 - Abyssal DIABLO",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/45"
   },
   {
     "id": 46,
-    "title": "AeroCore Track #46 - Abyssal Doom Metal",
+    "title": "Track #46 - Abyssal DOOM",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/46"
   },
   {
     "id": 47,
-    "title": "AeroCore Track #47 - Abyssal Grindcore",
+    "title": "Track #47 - Abyssal BLACK",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/47"
   },
   {
     "id": 48,
-    "title": "AeroCore Track #48 - Abyssal Deathcore",
+    "title": "Track #48 - Abyssal THRASH",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/48"
   },
   {
     "id": 49,
-    "title": "AeroCore Track #49 - Abyssal Heavy Rock",
+    "title": "Track #49 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/49"
   },
   {
     "id": 50,
-    "title": "AeroCore Track #50 - Abyssal Thrash Metal",
+    "title": "Track #50 - Abyssal MUERTE",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "free",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/50"
   },
   {
     "id": 51,
-    "title": "AeroCore Track #51 - Abyssal Death Metal",
+    "title": "Track #51 - Abyssal SANGRE",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/51"
   },
   {
     "id": 52,
-    "title": "AeroCore Track #52 - Abyssal Black Metal",
+    "title": "Track #52 - Abyssal DIABLO",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/52"
   },
   {
     "id": 53,
-    "title": "AeroCore Track #53 - Abyssal Doom Metal",
+    "title": "Track #53 - Abyssal DOOM",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/53"
   },
   {
     "id": 54,
-    "title": "AeroCore Track #54 - Abyssal Grindcore",
+    "title": "Track #54 - Abyssal BLACK",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/54"
   },
   {
     "id": 55,
-    "title": "AeroCore Track #55 - Abyssal Deathcore",
+    "title": "Track #55 - Abyssal THRASH",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/55"
   },
   {
     "id": 56,
-    "title": "AeroCore Track #56 - Abyssal Heavy Rock",
+    "title": "Track #56 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/56"
   },
   {
     "id": 57,
-    "title": "AeroCore Track #57 - Abyssal Thrash Metal",
+    "title": "Track #57 - Abyssal MUERTE",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/57"
   },
   {
     "id": 58,
-    "title": "AeroCore Track #58 - Abyssal Death Metal",
+    "title": "Track #58 - Abyssal SANGRE",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/58"
   },
   {
     "id": 59,
-    "title": "AeroCore Track #59 - Abyssal Black Metal",
+    "title": "Track #59 - Abyssal DIABLO",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/59"
   },
   {
     "id": 60,
-    "title": "AeroCore Track #60 - Abyssal Doom Metal",
+    "title": "Track #60 - Abyssal DOOM",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/60"
   },
   {
     "id": 61,
-    "title": "AeroCore Track #61 - Abyssal Grindcore",
+    "title": "Track #61 - Abyssal BLACK",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/61"
   },
   {
     "id": 62,
-    "title": "AeroCore Track #62 - Abyssal Deathcore",
+    "title": "Track #62 - Abyssal THRASH",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/62"
   },
   {
     "id": 63,
-    "title": "AeroCore Track #63 - Abyssal Heavy Rock",
+    "title": "Track #63 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/63"
   },
   {
     "id": 64,
-    "title": "AeroCore Track #64 - Abyssal Thrash Metal",
+    "title": "Track #64 - Abyssal MUERTE",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/64"
   },
   {
     "id": 65,
-    "title": "AeroCore Track #65 - Abyssal Death Metal",
+    "title": "Track #65 - Abyssal SANGRE",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/65"
   },
   {
     "id": 66,
-    "title": "AeroCore Track #66 - Abyssal Black Metal",
+    "title": "Track #66 - Abyssal DIABLO",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/66"
   },
   {
     "id": 67,
-    "title": "AeroCore Track #67 - Abyssal Doom Metal",
+    "title": "Track #67 - Abyssal DOOM",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/67"
   },
   {
     "id": 68,
-    "title": "AeroCore Track #68 - Abyssal Grindcore",
+    "title": "Track #68 - Abyssal BLACK",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/68"
   },
   {
     "id": 69,
-    "title": "AeroCore Track #69 - Abyssal Deathcore",
+    "title": "Track #69 - Abyssal THRASH",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/69"
   },
   {
     "id": 70,
-    "title": "AeroCore Track #70 - Abyssal Heavy Rock",
+    "title": "Track #70 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/70"
   },
   {
     "id": 71,
-    "title": "AeroCore Track #71 - Abyssal Thrash Metal",
+    "title": "Track #71 - Abyssal MUERTE",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/71"
   },
   {
     "id": 72,
-    "title": "AeroCore Track #72 - Abyssal Death Metal",
+    "title": "Track #72 - Abyssal SANGRE",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/72"
   },
   {
     "id": 73,
-    "title": "AeroCore Track #73 - Abyssal Black Metal",
+    "title": "Track #73 - Abyssal DIABLO",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/73"
   },
   {
     "id": 74,
-    "title": "AeroCore Track #74 - Abyssal Doom Metal",
+    "title": "Track #74 - Abyssal DOOM",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/74"
   },
   {
     "id": 75,
-    "title": "AeroCore Track #75 - Abyssal Grindcore",
+    "title": "Track #75 - Abyssal BLACK",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/75"
   },
   {
     "id": 76,
-    "title": "AeroCore Track #76 - Abyssal Deathcore",
+    "title": "Track #76 - Abyssal THRASH",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/76"
   },
   {
     "id": 77,
-    "title": "AeroCore Track #77 - Abyssal Heavy Rock",
+    "title": "Track #77 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/77"
   },
   {
     "id": 78,
-    "title": "AeroCore Track #78 - Abyssal Thrash Metal",
+    "title": "Track #78 - Abyssal MUERTE",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/78"
   },
   {
     "id": 79,
-    "title": "AeroCore Track #79 - Abyssal Death Metal",
+    "title": "Track #79 - Abyssal SANGRE",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/79"
   },
   {
     "id": 80,
-    "title": "AeroCore Track #80 - Abyssal Black Metal",
+    "title": "Track #80 - Abyssal DIABLO",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/80"
   },
   {
     "id": 81,
-    "title": "AeroCore Track #81 - Abyssal Doom Metal",
+    "title": "Track #81 - Abyssal DOOM",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/81"
   },
   {
     "id": 82,
-    "title": "AeroCore Track #82 - Abyssal Grindcore",
+    "title": "Track #82 - Abyssal BLACK",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/82"
   },
   {
     "id": 83,
-    "title": "AeroCore Track #83 - Abyssal Deathcore",
+    "title": "Track #83 - Abyssal THRASH",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/83"
   },
   {
     "id": 84,
-    "title": "AeroCore Track #84 - Abyssal Heavy Rock",
+    "title": "Track #84 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/84"
   },
   {
     "id": 85,
-    "title": "AeroCore Track #85 - Abyssal Thrash Metal",
+    "title": "Track #85 - Abyssal MUERTE",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/85"
   },
   {
     "id": 86,
-    "title": "AeroCore Track #86 - Abyssal Death Metal",
+    "title": "Track #86 - Abyssal SANGRE",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/86"
   },
   {
     "id": 87,
-    "title": "AeroCore Track #87 - Abyssal Black Metal",
+    "title": "Track #87 - Abyssal DIABLO",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/87"
   },
   {
     "id": 88,
-    "title": "AeroCore Track #88 - Abyssal Doom Metal",
+    "title": "Track #88 - Abyssal DOOM",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/88"
   },
   {
     "id": 89,
-    "title": "AeroCore Track #89 - Abyssal Grindcore",
+    "title": "Track #89 - Abyssal BLACK",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/89"
   },
   {
     "id": 90,
-    "title": "AeroCore Track #90 - Abyssal Deathcore",
+    "title": "Track #90 - Abyssal THRASH",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/90"
   },
   {
     "id": 91,
-    "title": "AeroCore Track #91 - Abyssal Heavy Rock",
+    "title": "Track #91 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/91"
   },
   {
     "id": 92,
-    "title": "AeroCore Track #92 - Abyssal Thrash Metal",
+    "title": "Track #92 - Abyssal MUERTE",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/92"
   },
   {
     "id": 93,
-    "title": "AeroCore Track #93 - Abyssal Death Metal",
+    "title": "Track #93 - Abyssal SANGRE",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/93"
   },
   {
     "id": 94,
-    "title": "AeroCore Track #94 - Abyssal Black Metal",
+    "title": "Track #94 - Abyssal DIABLO",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/94"
   },
   {
     "id": 95,
-    "title": "AeroCore Track #95 - Abyssal Doom Metal",
+    "title": "Track #95 - Abyssal DOOM",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/95"
   },
   {
     "id": 96,
-    "title": "AeroCore Track #96 - Abyssal Grindcore",
+    "title": "Track #96 - Abyssal BLACK",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/96"
   },
   {
     "id": 97,
-    "title": "AeroCore Track #97 - Abyssal Deathcore",
+    "title": "Track #97 - Abyssal THRASH",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/97"
   },
   {
     "id": 98,
-    "title": "AeroCore Track #98 - Abyssal Heavy Rock",
+    "title": "Track #98 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/98"
   },
   {
     "id": 99,
-    "title": "AeroCore Track #99 - Abyssal Thrash Metal",
+    "title": "Track #99 - Abyssal MUERTE",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/99"
   },
   {
     "id": 100,
-    "title": "AeroCore Track #100 - Abyssal Death Metal",
+    "title": "Track #100 - Abyssal SANGRE",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/100"
   },
   {
     "id": 101,
-    "title": "AeroCore Track #101 - Abyssal Black Metal",
+    "title": "Track #101 - Abyssal DIABLO",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/101"
   },
   {
     "id": 102,
-    "title": "AeroCore Track #102 - Abyssal Doom Metal",
+    "title": "Track #102 - Abyssal DOOM",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/102"
   },
   {
     "id": 103,
-    "title": "AeroCore Track #103 - Abyssal Grindcore",
+    "title": "Track #103 - Abyssal BLACK",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/103"
   },
   {
     "id": 104,
-    "title": "AeroCore Track #104 - Abyssal Deathcore",
+    "title": "Track #104 - Abyssal THRASH",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/104"
   },
   {
     "id": 105,
-    "title": "AeroCore Track #105 - Abyssal Heavy Rock",
+    "title": "Track #105 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/105"
   },
   {
     "id": 106,
-    "title": "AeroCore Track #106 - Abyssal Thrash Metal",
+    "title": "Track #106 - Abyssal MUERTE",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/106"
   },
   {
     "id": 107,
-    "title": "AeroCore Track #107 - Abyssal Death Metal",
+    "title": "Track #107 - Abyssal SANGRE",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/107"
   },
   {
     "id": 108,
-    "title": "AeroCore Track #108 - Abyssal Black Metal",
+    "title": "Track #108 - Abyssal DIABLO",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/108"
   },
   {
     "id": 109,
-    "title": "AeroCore Track #109 - Abyssal Doom Metal",
+    "title": "Track #109 - Abyssal DOOM",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/109"
   },
   {
     "id": 110,
-    "title": "AeroCore Track #110 - Abyssal Grindcore",
+    "title": "Track #110 - Abyssal BLACK",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/110"
   },
   {
     "id": 111,
-    "title": "AeroCore Track #111 - Abyssal Deathcore",
+    "title": "Track #111 - Abyssal THRASH",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/111"
   },
   {
     "id": 112,
-    "title": "AeroCore Track #112 - Abyssal Heavy Rock",
+    "title": "Track #112 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/112"
   },
   {
     "id": 113,
-    "title": "AeroCore Track #113 - Abyssal Thrash Metal",
+    "title": "Track #113 - Abyssal MUERTE",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/113"
   },
   {
     "id": 114,
-    "title": "AeroCore Track #114 - Abyssal Death Metal",
+    "title": "Track #114 - Abyssal SANGRE",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/114"
   },
   {
     "id": 115,
-    "title": "AeroCore Track #115 - Abyssal Black Metal",
+    "title": "Track #115 - Abyssal DIABLO",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/115"
   },
   {
     "id": 116,
-    "title": "AeroCore Track #116 - Abyssal Doom Metal",
+    "title": "Track #116 - Abyssal DOOM",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/116"
   },
   {
     "id": 117,
-    "title": "AeroCore Track #117 - Abyssal Grindcore",
+    "title": "Track #117 - Abyssal BLACK",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/117"
   },
   {
     "id": 118,
-    "title": "AeroCore Track #118 - Abyssal Deathcore",
+    "title": "Track #118 - Abyssal THRASH",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/118"
   },
   {
     "id": 119,
-    "title": "AeroCore Track #119 - Abyssal Heavy Rock",
+    "title": "Track #119 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/119"
   },
   {
     "id": 120,
-    "title": "AeroCore Track #120 - Abyssal Thrash Metal",
+    "title": "Track #120 - Abyssal MUERTE",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/120"
   },
   {
     "id": 121,
-    "title": "AeroCore Track #121 - Abyssal Death Metal",
+    "title": "Track #121 - Abyssal SANGRE",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/121"
   },
   {
     "id": 122,
-    "title": "AeroCore Track #122 - Abyssal Black Metal",
+    "title": "Track #122 - Abyssal DIABLO",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/122"
   },
   {
     "id": 123,
-    "title": "AeroCore Track #123 - Abyssal Doom Metal",
+    "title": "Track #123 - Abyssal DOOM",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/123"
   },
   {
     "id": 124,
-    "title": "AeroCore Track #124 - Abyssal Grindcore",
+    "title": "Track #124 - Abyssal BLACK",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/124"
   },
   {
     "id": 125,
-    "title": "AeroCore Track #125 - Abyssal Deathcore",
+    "title": "Track #125 - Abyssal THRASH",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/125"
   },
   {
     "id": 126,
-    "title": "AeroCore Track #126 - Abyssal Heavy Rock",
+    "title": "Track #126 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/126"
   },
   {
     "id": 127,
-    "title": "AeroCore Track #127 - Abyssal Thrash Metal",
+    "title": "Track #127 - Abyssal MUERTE",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/127"
   },
   {
     "id": 128,
-    "title": "AeroCore Track #128 - Abyssal Death Metal",
+    "title": "Track #128 - Abyssal SANGRE",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/128"
   },
   {
     "id": 129,
-    "title": "AeroCore Track #129 - Abyssal Black Metal",
+    "title": "Track #129 - Abyssal DIABLO",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/129"
   },
   {
     "id": 130,
-    "title": "AeroCore Track #130 - Abyssal Doom Metal",
+    "title": "Track #130 - Abyssal DOOM",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/130"
   },
   {
     "id": 131,
-    "title": "AeroCore Track #131 - Abyssal Grindcore",
+    "title": "Track #131 - Abyssal BLACK",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/131"
   },
   {
     "id": 132,
-    "title": "AeroCore Track #132 - Abyssal Deathcore",
+    "title": "Track #132 - Abyssal THRASH",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/132"
   },
   {
     "id": 133,
-    "title": "AeroCore Track #133 - Abyssal Heavy Rock",
+    "title": "Track #133 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/133"
   },
   {
     "id": 134,
-    "title": "AeroCore Track #134 - Abyssal Thrash Metal",
+    "title": "Track #134 - Abyssal MUERTE",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/134"
   },
   {
     "id": 135,
-    "title": "AeroCore Track #135 - Abyssal Death Metal",
+    "title": "Track #135 - Abyssal SANGRE",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/135"
   },
   {
     "id": 136,
-    "title": "AeroCore Track #136 - Abyssal Black Metal",
+    "title": "Track #136 - Abyssal DIABLO",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/136"
   },
   {
     "id": 137,
-    "title": "AeroCore Track #137 - Abyssal Doom Metal",
+    "title": "Track #137 - Abyssal DOOM",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/137"
   },
   {
     "id": 138,
-    "title": "AeroCore Track #138 - Abyssal Grindcore",
+    "title": "Track #138 - Abyssal BLACK",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/138"
   },
   {
     "id": 139,
-    "title": "AeroCore Track #139 - Abyssal Deathcore",
+    "title": "Track #139 - Abyssal THRASH",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/139"
   },
   {
     "id": 140,
-    "title": "AeroCore Track #140 - Abyssal Heavy Rock",
+    "title": "Track #140 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/140"
   },
   {
     "id": 141,
-    "title": "AeroCore Track #141 - Abyssal Thrash Metal",
+    "title": "Track #141 - Abyssal MUERTE",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/141"
   },
   {
     "id": 142,
-    "title": "AeroCore Track #142 - Abyssal Death Metal",
+    "title": "Track #142 - Abyssal SANGRE",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/142"
   },
   {
     "id": 143,
-    "title": "AeroCore Track #143 - Abyssal Black Metal",
+    "title": "Track #143 - Abyssal DIABLO",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/143"
   },
   {
     "id": 144,
-    "title": "AeroCore Track #144 - Abyssal Doom Metal",
+    "title": "Track #144 - Abyssal DOOM",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/144"
   },
   {
     "id": 145,
-    "title": "AeroCore Track #145 - Abyssal Grindcore",
+    "title": "Track #145 - Abyssal BLACK",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/145"
   },
   {
     "id": 146,
-    "title": "AeroCore Track #146 - Abyssal Deathcore",
+    "title": "Track #146 - Abyssal THRASH",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/146"
   },
   {
     "id": 147,
-    "title": "AeroCore Track #147 - Abyssal Heavy Rock",
+    "title": "Track #147 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/147"
   },
   {
     "id": 148,
-    "title": "AeroCore Track #148 - Abyssal Thrash Metal",
+    "title": "Track #148 - Abyssal MUERTE",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/148"
   },
   {
     "id": 149,
-    "title": "AeroCore Track #149 - Abyssal Death Metal",
+    "title": "Track #149 - Abyssal SANGRE",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/149"
   },
   {
     "id": 150,
-    "title": "AeroCore Track #150 - Abyssal Black Metal",
+    "title": "Track #150 - Abyssal DIABLO",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/150"
   },
   {
     "id": 151,
-    "title": "AeroCore Track #151 - Abyssal Doom Metal",
+    "title": "Track #151 - Abyssal DOOM",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/151"
   },
   {
     "id": 152,
-    "title": "AeroCore Track #152 - Abyssal Grindcore",
+    "title": "Track #152 - Abyssal BLACK",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/152"
   },
   {
     "id": 153,
-    "title": "AeroCore Track #153 - Abyssal Deathcore",
+    "title": "Track #153 - Abyssal THRASH",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/153"
   },
   {
     "id": 154,
-    "title": "AeroCore Track #154 - Abyssal Heavy Rock",
+    "title": "Track #154 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/154"
   },
   {
     "id": 155,
-    "title": "AeroCore Track #155 - Abyssal Thrash Metal",
+    "title": "Track #155 - Abyssal MUERTE",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/155"
   },
   {
     "id": 156,
-    "title": "AeroCore Track #156 - Abyssal Death Metal",
+    "title": "Track #156 - Abyssal SANGRE",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/156"
   },
   {
     "id": 157,
-    "title": "AeroCore Track #157 - Abyssal Black Metal",
+    "title": "Track #157 - Abyssal DIABLO",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/157"
   },
   {
     "id": 158,
-    "title": "AeroCore Track #158 - Abyssal Doom Metal",
+    "title": "Track #158 - Abyssal DOOM",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/158"
   },
   {
     "id": 159,
-    "title": "AeroCore Track #159 - Abyssal Grindcore",
+    "title": "Track #159 - Abyssal BLACK",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/159"
   },
   {
     "id": 160,
-    "title": "AeroCore Track #160 - Abyssal Deathcore",
+    "title": "Track #160 - Abyssal THRASH",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/160"
   },
   {
     "id": 161,
-    "title": "AeroCore Track #161 - Abyssal Heavy Rock",
+    "title": "Track #161 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/161"
   },
   {
     "id": 162,
-    "title": "AeroCore Track #162 - Abyssal Thrash Metal",
+    "title": "Track #162 - Abyssal MUERTE",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/162"
   },
   {
     "id": 163,
-    "title": "AeroCore Track #163 - Abyssal Death Metal",
+    "title": "Track #163 - Abyssal SANGRE",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/163"
   },
   {
     "id": 164,
-    "title": "AeroCore Track #164 - Abyssal Black Metal",
+    "title": "Track #164 - Abyssal DIABLO",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/164"
   },
   {
     "id": 165,
-    "title": "AeroCore Track #165 - Abyssal Doom Metal",
+    "title": "Track #165 - Abyssal DOOM",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/165"
   },
   {
     "id": 166,
-    "title": "AeroCore Track #166 - Abyssal Grindcore",
+    "title": "Track #166 - Abyssal BLACK",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/166"
   },
   {
     "id": 167,
-    "title": "AeroCore Track #167 - Abyssal Deathcore",
+    "title": "Track #167 - Abyssal THRASH",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/167"
   },
   {
     "id": 168,
-    "title": "AeroCore Track #168 - Abyssal Heavy Rock",
+    "title": "Track #168 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/168"
   },
   {
     "id": 169,
-    "title": "AeroCore Track #169 - Abyssal Thrash Metal",
+    "title": "Track #169 - Abyssal MUERTE",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/169"
   },
   {
     "id": 170,
-    "title": "AeroCore Track #170 - Abyssal Death Metal",
+    "title": "Track #170 - Abyssal SANGRE",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/170"
   },
   {
     "id": 171,
-    "title": "AeroCore Track #171 - Abyssal Black Metal",
+    "title": "Track #171 - Abyssal DIABLO",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/171"
   },
   {
     "id": 172,
-    "title": "AeroCore Track #172 - Abyssal Doom Metal",
+    "title": "Track #172 - Abyssal DOOM",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/172"
   },
   {
     "id": 173,
-    "title": "AeroCore Track #173 - Abyssal Grindcore",
+    "title": "Track #173 - Abyssal BLACK",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/173"
   },
   {
     "id": 174,
-    "title": "AeroCore Track #174 - Abyssal Deathcore",
+    "title": "Track #174 - Abyssal THRASH",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/174"
   },
   {
     "id": 175,
-    "title": "AeroCore Track #175 - Abyssal Heavy Rock",
+    "title": "Track #175 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/175"
   },
   {
     "id": 176,
-    "title": "AeroCore Track #176 - Abyssal Thrash Metal",
+    "title": "Track #176 - Abyssal MUERTE",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/176"
   },
   {
     "id": 177,
-    "title": "AeroCore Track #177 - Abyssal Death Metal",
+    "title": "Track #177 - Abyssal SANGRE",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/177"
   },
   {
     "id": 178,
-    "title": "AeroCore Track #178 - Abyssal Black Metal",
+    "title": "Track #178 - Abyssal DIABLO",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/178"
   },
   {
     "id": 179,
-    "title": "AeroCore Track #179 - Abyssal Doom Metal",
+    "title": "Track #179 - Abyssal DOOM",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/179"
   },
   {
     "id": 180,
-    "title": "AeroCore Track #180 - Abyssal Grindcore",
+    "title": "Track #180 - Abyssal BLACK",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/180"
   },
   {
     "id": 181,
-    "title": "AeroCore Track #181 - Abyssal Deathcore",
+    "title": "Track #181 - Abyssal THRASH",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/181"
   },
   {
     "id": 182,
-    "title": "AeroCore Track #182 - Abyssal Heavy Rock",
+    "title": "Track #182 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/182"
   },
   {
     "id": 183,
-    "title": "AeroCore Track #183 - Abyssal Thrash Metal",
+    "title": "Track #183 - Abyssal MUERTE",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/183"
   },
   {
     "id": 184,
-    "title": "AeroCore Track #184 - Abyssal Death Metal",
+    "title": "Track #184 - Abyssal SANGRE",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/184"
   },
   {
     "id": 185,
-    "title": "AeroCore Track #185 - Abyssal Black Metal",
+    "title": "Track #185 - Abyssal DIABLO",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/185"
   },
   {
     "id": 186,
-    "title": "AeroCore Track #186 - Abyssal Doom Metal",
+    "title": "Track #186 - Abyssal DOOM",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/186"
   },
   {
     "id": 187,
-    "title": "AeroCore Track #187 - Abyssal Grindcore",
+    "title": "Track #187 - Abyssal BLACK",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/187"
   },
   {
     "id": 188,
-    "title": "AeroCore Track #188 - Abyssal Deathcore",
+    "title": "Track #188 - Abyssal THRASH",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/188"
   },
   {
     "id": 189,
-    "title": "AeroCore Track #189 - Abyssal Heavy Rock",
+    "title": "Track #189 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/189"
   },
   {
     "id": 190,
-    "title": "AeroCore Track #190 - Abyssal Thrash Metal",
+    "title": "Track #190 - Abyssal MUERTE",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/190"
   },
   {
     "id": 191,
-    "title": "AeroCore Track #191 - Abyssal Death Metal",
+    "title": "Track #191 - Abyssal SANGRE",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/191"
   },
   {
     "id": 192,
-    "title": "AeroCore Track #192 - Abyssal Black Metal",
+    "title": "Track #192 - Abyssal DIABLO",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/192"
   },
   {
     "id": 193,
-    "title": "AeroCore Track #193 - Abyssal Doom Metal",
+    "title": "Track #193 - Abyssal DOOM",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/193"
   },
   {
     "id": 194,
-    "title": "AeroCore Track #194 - Abyssal Grindcore",
+    "title": "Track #194 - Abyssal BLACK",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/194"
   },
   {
     "id": 195,
-    "title": "AeroCore Track #195 - Abyssal Deathcore",
+    "title": "Track #195 - Abyssal THRASH",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/195"
   },
   {
     "id": 196,
-    "title": "AeroCore Track #196 - Abyssal Heavy Rock",
+    "title": "Track #196 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/196"
   },
   {
     "id": 197,
-    "title": "AeroCore Track #197 - Abyssal Thrash Metal",
+    "title": "Track #197 - Abyssal MUERTE",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/197"
   },
   {
     "id": 198,
-    "title": "AeroCore Track #198 - Abyssal Death Metal",
+    "title": "Track #198 - Abyssal SANGRE",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/198"
   },
   {
     "id": 199,
-    "title": "AeroCore Track #199 - Abyssal Black Metal",
+    "title": "Track #199 - Abyssal DIABLO",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/199"
   },
   {
     "id": 200,
-    "title": "AeroCore Track #200 - Abyssal Doom Metal",
+    "title": "Track #200 - Abyssal DOOM",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/200"
   },
   {
     "id": 201,
-    "title": "AeroCore Track #201 - Abyssal Grindcore",
+    "title": "Track #201 - Abyssal BLACK",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/201"
   },
   {
     "id": 202,
-    "title": "AeroCore Track #202 - Abyssal Deathcore",
+    "title": "Track #202 - Abyssal THRASH",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/202"
   },
   {
     "id": 203,
-    "title": "AeroCore Track #203 - Abyssal Heavy Rock",
+    "title": "Track #203 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/203"
   },
   {
     "id": 204,
-    "title": "AeroCore Track #204 - Abyssal Thrash Metal",
+    "title": "Track #204 - Abyssal MUERTE",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/204"
   },
   {
     "id": 205,
-    "title": "AeroCore Track #205 - Abyssal Death Metal",
+    "title": "Track #205 - Abyssal SANGRE",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/205"
   },
   {
     "id": 206,
-    "title": "AeroCore Track #206 - Abyssal Black Metal",
+    "title": "Track #206 - Abyssal DIABLO",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/206"
   },
   {
     "id": 207,
-    "title": "AeroCore Track #207 - Abyssal Doom Metal",
+    "title": "Track #207 - Abyssal DOOM",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/207"
   },
   {
     "id": 208,
-    "title": "AeroCore Track #208 - Abyssal Grindcore",
+    "title": "Track #208 - Abyssal BLACK",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/208"
   },
   {
     "id": 209,
-    "title": "AeroCore Track #209 - Abyssal Deathcore",
+    "title": "Track #209 - Abyssal THRASH",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/209"
   },
   {
     "id": 210,
-    "title": "AeroCore Track #210 - Abyssal Heavy Rock",
+    "title": "Track #210 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/210"
   },
   {
     "id": 211,
-    "title": "AeroCore Track #211 - Abyssal Thrash Metal",
+    "title": "Track #211 - Abyssal MUERTE",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/211"
   },
   {
     "id": 212,
-    "title": "AeroCore Track #212 - Abyssal Death Metal",
+    "title": "Track #212 - Abyssal SANGRE",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/212"
   },
   {
     "id": 213,
-    "title": "AeroCore Track #213 - Abyssal Black Metal",
+    "title": "Track #213 - Abyssal DIABLO",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/213"
   },
   {
     "id": 214,
-    "title": "AeroCore Track #214 - Abyssal Doom Metal",
+    "title": "Track #214 - Abyssal DOOM",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/214"
   },
   {
     "id": 215,
-    "title": "AeroCore Track #215 - Abyssal Grindcore",
+    "title": "Track #215 - Abyssal BLACK",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/215"
   },
   {
     "id": 216,
-    "title": "AeroCore Track #216 - Abyssal Deathcore",
+    "title": "Track #216 - Abyssal THRASH",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/216"
   },
   {
     "id": 217,
-    "title": "AeroCore Track #217 - Abyssal Heavy Rock",
+    "title": "Track #217 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/217"
   },
   {
     "id": 218,
-    "title": "AeroCore Track #218 - Abyssal Thrash Metal",
+    "title": "Track #218 - Abyssal MUERTE",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/218"
   },
   {
     "id": 219,
-    "title": "AeroCore Track #219 - Abyssal Death Metal",
+    "title": "Track #219 - Abyssal SANGRE",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/219"
   },
   {
     "id": 220,
-    "title": "AeroCore Track #220 - Abyssal Black Metal",
+    "title": "Track #220 - Abyssal DIABLO",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/220"
   },
   {
     "id": 221,
-    "title": "AeroCore Track #221 - Abyssal Doom Metal",
+    "title": "Track #221 - Abyssal DOOM",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/221"
   },
   {
     "id": 222,
-    "title": "AeroCore Track #222 - Abyssal Grindcore",
+    "title": "Track #222 - Abyssal BLACK",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/222"
   },
   {
     "id": 223,
-    "title": "AeroCore Track #223 - Abyssal Deathcore",
+    "title": "Track #223 - Abyssal THRASH",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/223"
   },
   {
     "id": 224,
-    "title": "AeroCore Track #224 - Abyssal Heavy Rock",
+    "title": "Track #224 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/224"
   },
   {
     "id": 225,
-    "title": "AeroCore Track #225 - Abyssal Thrash Metal",
+    "title": "Track #225 - Abyssal MUERTE",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/225"
   },
   {
     "id": 226,
-    "title": "AeroCore Track #226 - Abyssal Death Metal",
+    "title": "Track #226 - Abyssal SANGRE",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/226"
   },
   {
     "id": 227,
-    "title": "AeroCore Track #227 - Abyssal Black Metal",
+    "title": "Track #227 - Abyssal DIABLO",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/227"
   },
   {
     "id": 228,
-    "title": "AeroCore Track #228 - Abyssal Doom Metal",
+    "title": "Track #228 - Abyssal DOOM",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/228"
   },
   {
     "id": 229,
-    "title": "AeroCore Track #229 - Abyssal Grindcore",
+    "title": "Track #229 - Abyssal BLACK",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/229"
   },
   {
     "id": 230,
-    "title": "AeroCore Track #230 - Abyssal Deathcore",
+    "title": "Track #230 - Abyssal THRASH",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/230"
   },
   {
     "id": 231,
-    "title": "AeroCore Track #231 - Abyssal Heavy Rock",
+    "title": "Track #231 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/231"
   },
   {
     "id": 232,
-    "title": "AeroCore Track #232 - Abyssal Thrash Metal",
+    "title": "Track #232 - Abyssal MUERTE",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/232"
   },
   {
     "id": 233,
-    "title": "AeroCore Track #233 - Abyssal Death Metal",
+    "title": "Track #233 - Abyssal SANGRE",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/233"
   },
   {
     "id": 234,
-    "title": "AeroCore Track #234 - Abyssal Black Metal",
+    "title": "Track #234 - Abyssal DIABLO",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/234"
   },
   {
     "id": 235,
-    "title": "AeroCore Track #235 - Abyssal Doom Metal",
+    "title": "Track #235 - Abyssal DOOM",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/235"
   },
   {
     "id": 236,
-    "title": "AeroCore Track #236 - Abyssal Grindcore",
+    "title": "Track #236 - Abyssal BLACK",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/236"
   },
   {
     "id": 237,
-    "title": "AeroCore Track #237 - Abyssal Deathcore",
+    "title": "Track #237 - Abyssal THRASH",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/237"
   },
   {
     "id": 238,
-    "title": "AeroCore Track #238 - Abyssal Heavy Rock",
+    "title": "Track #238 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/238"
   },
   {
     "id": 239,
-    "title": "AeroCore Track #239 - Abyssal Thrash Metal",
+    "title": "Track #239 - Abyssal MUERTE",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/239"
   },
   {
     "id": 240,
-    "title": "AeroCore Track #240 - Abyssal Death Metal",
+    "title": "Track #240 - Abyssal SANGRE",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/240"
   },
   {
     "id": 241,
-    "title": "AeroCore Track #241 - Abyssal Black Metal",
+    "title": "Track #241 - Abyssal DIABLO",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/241"
   },
   {
     "id": 242,
-    "title": "AeroCore Track #242 - Abyssal Doom Metal",
+    "title": "Track #242 - Abyssal DOOM",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/242"
   },
   {
     "id": 243,
-    "title": "AeroCore Track #243 - Abyssal Grindcore",
+    "title": "Track #243 - Abyssal BLACK",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/243"
   },
   {
     "id": 244,
-    "title": "AeroCore Track #244 - Abyssal Deathcore",
+    "title": "Track #244 - Abyssal THRASH",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/244"
   },
   {
     "id": 245,
-    "title": "AeroCore Track #245 - Abyssal Heavy Rock",
+    "title": "Track #245 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/245"
   },
   {
     "id": 246,
-    "title": "AeroCore Track #246 - Abyssal Thrash Metal",
+    "title": "Track #246 - Abyssal MUERTE",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/246"
   },
   {
     "id": 247,
-    "title": "AeroCore Track #247 - Abyssal Death Metal",
+    "title": "Track #247 - Abyssal SANGRE",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/247"
   },
   {
     "id": 248,
-    "title": "AeroCore Track #248 - Abyssal Black Metal",
+    "title": "Track #248 - Abyssal DIABLO",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/248"
   },
   {
     "id": 249,
-    "title": "AeroCore Track #249 - Abyssal Doom Metal",
+    "title": "Track #249 - Abyssal DOOM",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/249"
   },
   {
     "id": 250,
-    "title": "AeroCore Track #250 - Abyssal Grindcore",
+    "title": "Track #250 - Abyssal BLACK",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/250"
   },
   {
     "id": 251,
-    "title": "AeroCore Track #251 - Abyssal Deathcore",
+    "title": "Track #251 - Abyssal THRASH",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/251"
   },
   {
     "id": 252,
-    "title": "AeroCore Track #252 - Abyssal Heavy Rock",
+    "title": "Track #252 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/252"
   },
   {
     "id": 253,
-    "title": "AeroCore Track #253 - Abyssal Thrash Metal",
+    "title": "Track #253 - Abyssal MUERTE",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/253"
   },
   {
     "id": 254,
-    "title": "AeroCore Track #254 - Abyssal Death Metal",
+    "title": "Track #254 - Abyssal SANGRE",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/254"
   },
   {
     "id": 255,
-    "title": "AeroCore Track #255 - Abyssal Black Metal",
+    "title": "Track #255 - Abyssal DIABLO",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/255"
   },
   {
     "id": 256,
-    "title": "AeroCore Track #256 - Abyssal Doom Metal",
+    "title": "Track #256 - Abyssal DOOM",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/256"
   },
   {
     "id": 257,
-    "title": "AeroCore Track #257 - Abyssal Grindcore",
+    "title": "Track #257 - Abyssal BLACK",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/257"
   },
   {
     "id": 258,
-    "title": "AeroCore Track #258 - Abyssal Deathcore",
+    "title": "Track #258 - Abyssal THRASH",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/258"
   },
   {
     "id": 259,
-    "title": "AeroCore Track #259 - Abyssal Heavy Rock",
+    "title": "Track #259 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/259"
   },
   {
     "id": 260,
-    "title": "AeroCore Track #260 - Abyssal Thrash Metal",
+    "title": "Track #260 - Abyssal MUERTE",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/260"
   },
   {
     "id": 261,
-    "title": "AeroCore Track #261 - Abyssal Death Metal",
+    "title": "Track #261 - Abyssal SANGRE",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/261"
   },
   {
     "id": 262,
-    "title": "AeroCore Track #262 - Abyssal Black Metal",
+    "title": "Track #262 - Abyssal DIABLO",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/262"
   },
   {
     "id": 263,
-    "title": "AeroCore Track #263 - Abyssal Doom Metal",
+    "title": "Track #263 - Abyssal DOOM",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/263"
   },
   {
     "id": 264,
-    "title": "AeroCore Track #264 - Abyssal Grindcore",
+    "title": "Track #264 - Abyssal BLACK",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/264"
   },
   {
     "id": 265,
-    "title": "AeroCore Track #265 - Abyssal Deathcore",
+    "title": "Track #265 - Abyssal THRASH",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/265"
   },
   {
     "id": 266,
-    "title": "AeroCore Track #266 - Abyssal Heavy Rock",
+    "title": "Track #266 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/266"
   },
   {
     "id": 267,
-    "title": "AeroCore Track #267 - Abyssal Thrash Metal",
+    "title": "Track #267 - Abyssal MUERTE",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/267"
   },
   {
     "id": 268,
-    "title": "AeroCore Track #268 - Abyssal Death Metal",
+    "title": "Track #268 - Abyssal SANGRE",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/268"
   },
   {
     "id": 269,
-    "title": "AeroCore Track #269 - Abyssal Black Metal",
+    "title": "Track #269 - Abyssal DIABLO",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/269"
   },
   {
     "id": 270,
-    "title": "AeroCore Track #270 - Abyssal Doom Metal",
+    "title": "Track #270 - Abyssal DOOM",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/270"
   },
   {
     "id": 271,
-    "title": "AeroCore Track #271 - Abyssal Grindcore",
+    "title": "Track #271 - Abyssal BLACK",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/271"
   },
   {
     "id": 272,
-    "title": "AeroCore Track #272 - Abyssal Deathcore",
+    "title": "Track #272 - Abyssal THRASH",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/272"
   },
   {
     "id": 273,
-    "title": "AeroCore Track #273 - Abyssal Heavy Rock",
+    "title": "Track #273 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/273"
   },
   {
     "id": 274,
-    "title": "AeroCore Track #274 - Abyssal Thrash Metal",
+    "title": "Track #274 - Abyssal MUERTE",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/274"
   },
   {
     "id": 275,
-    "title": "AeroCore Track #275 - Abyssal Death Metal",
+    "title": "Track #275 - Abyssal SANGRE",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/275"
   },
   {
     "id": 276,
-    "title": "AeroCore Track #276 - Abyssal Black Metal",
+    "title": "Track #276 - Abyssal DIABLO",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/276"
   },
   {
     "id": 277,
-    "title": "AeroCore Track #277 - Abyssal Doom Metal",
+    "title": "Track #277 - Abyssal DOOM",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/277"
   },
   {
     "id": 278,
-    "title": "AeroCore Track #278 - Abyssal Grindcore",
+    "title": "Track #278 - Abyssal BLACK",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/278"
   },
   {
     "id": 279,
-    "title": "AeroCore Track #279 - Abyssal Deathcore",
+    "title": "Track #279 - Abyssal THRASH",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/279"
   },
   {
     "id": 280,
-    "title": "AeroCore Track #280 - Abyssal Heavy Rock",
+    "title": "Track #280 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/280"
   },
   {
     "id": 281,
-    "title": "AeroCore Track #281 - Abyssal Thrash Metal",
+    "title": "Track #281 - Abyssal MUERTE",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/281"
   },
   {
     "id": 282,
-    "title": "AeroCore Track #282 - Abyssal Death Metal",
+    "title": "Track #282 - Abyssal SANGRE",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/282"
   },
   {
     "id": 283,
-    "title": "AeroCore Track #283 - Abyssal Black Metal",
+    "title": "Track #283 - Abyssal DIABLO",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/283"
   },
   {
     "id": 284,
-    "title": "AeroCore Track #284 - Abyssal Doom Metal",
+    "title": "Track #284 - Abyssal DOOM",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/284"
   },
   {
     "id": 285,
-    "title": "AeroCore Track #285 - Abyssal Grindcore",
+    "title": "Track #285 - Abyssal BLACK",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/285"
   },
   {
     "id": 286,
-    "title": "AeroCore Track #286 - Abyssal Deathcore",
+    "title": "Track #286 - Abyssal THRASH",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/286"
   },
   {
     "id": 287,
-    "title": "AeroCore Track #287 - Abyssal Heavy Rock",
+    "title": "Track #287 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/287"
   },
   {
     "id": 288,
-    "title": "AeroCore Track #288 - Abyssal Thrash Metal",
+    "title": "Track #288 - Abyssal MUERTE",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/288"
   },
   {
     "id": 289,
-    "title": "AeroCore Track #289 - Abyssal Death Metal",
+    "title": "Track #289 - Abyssal SANGRE",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/289"
   },
   {
     "id": 290,
-    "title": "AeroCore Track #290 - Abyssal Black Metal",
+    "title": "Track #290 - Abyssal DIABLO",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/290"
   },
   {
     "id": 291,
-    "title": "AeroCore Track #291 - Abyssal Doom Metal",
+    "title": "Track #291 - Abyssal DOOM",
     "artist": "Hellfire Unit 2",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/291"
   },
   {
     "id": 292,
-    "title": "AeroCore Track #292 - Abyssal Grindcore",
+    "title": "Track #292 - Abyssal BLACK",
     "artist": "Hellfire Unit 3",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/292"
   },
   {
     "id": 293,
-    "title": "AeroCore Track #293 - Abyssal Deathcore",
+    "title": "Track #293 - Abyssal THRASH",
     "artist": "Hellfire Unit 4",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/293"
   },
   {
     "id": 294,
-    "title": "AeroCore Track #294 - Abyssal Heavy Rock",
+    "title": "Track #294 - Abyssal GRINDCORE",
     "artist": "Hellfire Unit 5",
-    "subgenre": "Heavy Rock",
+    "subgenre": "GRINDCORE",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/294"
   },
   {
     "id": 295,
-    "title": "AeroCore Track #295 - Abyssal Thrash Metal",
+    "title": "Track #295 - Abyssal MUERTE",
     "artist": "Hellfire Unit 6",
-    "subgenre": "Thrash Metal",
+    "subgenre": "MUERTE",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/295"
   },
   {
     "id": 296,
-    "title": "AeroCore Track #296 - Abyssal Death Metal",
+    "title": "Track #296 - Abyssal SANGRE",
     "artist": "Hellfire Unit 7",
-    "subgenre": "Death Metal",
+    "subgenre": "SANGRE",
+    "tags": [
+      "VIKINGOS",
+      "RITUALES",
+      "INFIERNO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/296"
   },
   {
     "id": 297,
-    "title": "AeroCore Track #297 - Abyssal Black Metal",
+    "title": "Track #297 - Abyssal DIABLO",
     "artist": "Hellfire Unit 8",
-    "subgenre": "Black Metal",
+    "subgenre": "DIABLO",
+    "tags": [
+      "OSCURIDAD",
+      "BLASFEMIA",
+      "TORTURA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/297"
   },
   {
     "id": 298,
-    "title": "AeroCore Track #298 - Abyssal Doom Metal",
+    "title": "Track #298 - Abyssal DOOM",
     "artist": "Hellfire Unit 9",
-    "subgenre": "Doom Metal",
+    "subgenre": "DOOM",
+    "tags": [
+      "CAOS",
+      "DEMONIOS",
+      "PROFANO"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/298"
   },
   {
     "id": 299,
-    "title": "AeroCore Track #299 - Abyssal Grindcore",
+    "title": "Track #299 - Abyssal BLACK",
     "artist": "Hellfire Unit 10",
-    "subgenre": "Grindcore",
+    "subgenre": "BLACK",
+    "tags": [
+      "ABISMO",
+      "RUINA",
+      "DOLOR"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/299"
   },
   {
     "id": 300,
-    "title": "AeroCore Track #300 - Abyssal Deathcore",
+    "title": "Track #300 - Abyssal THRASH",
     "artist": "Hellfire Unit 1",
-    "subgenre": "Deathcore",
+    "subgenre": "THRASH",
+    "tags": [
+      "NECROSIS",
+      "SANGRE",
+      "GUERRA"
+    ],
     "tier": "premium",
     "duration": "3:45",
     "audioUrl": "https://0d9b24e474477a.lhr.life/stream/300"
