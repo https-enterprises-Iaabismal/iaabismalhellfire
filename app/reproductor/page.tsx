@@ -1,39 +1,35 @@
 'use client';
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef } from 'react';
 
 export default function ReproductorPage() {
-  const audioRef = useRef<HTMLAudioElement>(null);
-  const [preset, setPreset] = useState('abismal');
+  const audioRef = useRef<HTMLAudioElement | null>(null);
 
   useEffect(() => {
-    const script = document.createElement('script');
-    script.src = '/abyssal-processor.js';
-    script.onload = () => {
-      if (!audioRef.current) return;
-      const ctx = new (window.AudioContext || (window as any).webkitAudioContext)();
-      const source = ctx.createMediaElementSource(audioRef.current);
-      // @ts-ignore
-      const engine = new window.AbyssalMetalEngine(ctx);
-      engine.setPreset(preset);
-      source.connect(engine.getInput());
-      engine.connect(ctx.destination);
-    };
-    document.body.appendChild(script);
-  }, [preset]);
+    if (!audioRef.current) return;
+    try {
+      const audioCtx = new (window.AudioContext || (window as any).webkitAudioContext)();
+      const source = audioCtx.createMediaElementSource(audioRef.current);
+      
+      const bqLow = audioCtx.createBiquadFilter();
+      bqLow.type = 'lowshelf';
+      bqLow.frequency.value = 250;
+      bqLow.gain.value = 6;
+
+      source.connect(bqLow);
+      bqLow.connect(audioCtx.destination);
+    } catch (e) {
+      console.log('AudioContext initialized on interaction');
+    }
+  }, []);
 
   return (
-    <main style={{ background: '#000', color: '#fff', minHeight: '100vh', padding: '2rem', textAlign: 'center' }}>
-      <h1 style={{ color: '#FF2A2A', fontSize: '2rem' }}>IAABISMAL HELLFIRE - METAL MODE</h1>
-      <p style={{ color: '#00FF88' }}>Motor: {preset.toUpperCase()} | Sub 60Hz + Scoop 800Hz + Presence 3kHz</p>
-      <div style={{ margin: '2rem auto', maxWidth: '500px', background: '#111', padding: '1rem', borderRadius: '12px', border: '1px solid #222' }}>
-        <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1rem', justifyContent: 'center' }}>
-          {['metal','doom','thrash','abismal'].map(p => (
-            <button key={p} onClick={() => setPreset(p)} style={{ padding: '0.5rem 1rem', background: preset===p?'#FF2A2A':'#222', color: '#fff', border: 'none', borderRadius: '4px', cursor: 'pointer' }}>{p}</button>
-          ))}
-        </div>
-        <audio ref={audioRef} controls style={{ width: '100%' }} src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" />
+    <div style={{ background: '#000', color: '#fff', minHeight: '100vh', padding: '2rem', textAlign: 'center', fontFamily: 'sans-serif' }}>
+      <h1>Abyssal Player Engine</h1>
+      <p style={{ color: '#666' }}>Motor DSP activo para ecualización extrema.</p>
+      
+      <div style={{ margin: '3rem auto', maxWidth: '400px', background: '#111', padding: '2rem', borderRadius: '8px', border: '1px solid #222' }}>
+        <audio ref={audioRef} controls style={{ width: '100%' }} src="" />
       </div>
-      <p style={{ color: '#666', fontSize: '0.8rem' }}>Nicho: Metal Poderoso - Sin algoritmo, solo riffs abismales</p>
-    </main>
+    </div>
   );
 }
