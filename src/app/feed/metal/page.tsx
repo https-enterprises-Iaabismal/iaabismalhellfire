@@ -7,7 +7,7 @@ export default function MetalFeed() {
   const [search, setSearch] = useState('');
   const [current, setCurrent] = useState(0);
 
-  useEffect(()=>{fetch("/data/metal-tracks.json").then(r=>r.json()).then(d=>setTracks(d.tracks||[]))},[]);
+  useEffect(()=>{fetch("/data/metal-tracks.json").then(r=>r.json()).then(d=>setTracks(d.tracks||[])).catch(()=>setTracks([]))},[]);
 
   const filtered = useMemo(()=> tracks.filter(t=>{
     const f = filter==='TODO' || t.sub===filter || t.themes?.includes(filter);
@@ -15,128 +15,50 @@ export default function MetalFeed() {
     return f && (!q || `${t.band} ${t.title}`.toLowerCase().includes(q));
   }), [tracks, filter, search]);
 
-  const t = filtered[current] || tracks[0];
+  const t = filtered[current];
 
-  if(!tracks.length) return <div className="bg-zinc-950 text-red-500 min-h-screen flex items-center justify-center font-mono text-sm tracking-widest animate-pulse">INVOCANDO LEGIÓN ABISMAL...</div>;
+  if(!tracks.length) return <div style={{background:'#000',color:'#fff',minHeight:'100vh',padding:'20px'}}>Invocando 1000 del abismo...</div>;
 
   return (
-    <div className="bg-zinc-950 text-zinc-100 min-h-screen p-3 md:p-6 font-mono selection:bg-red-600 selection:text-white max-w-4xl mx-auto">
-      {/* HEADER */}
-      <div className="mb-4 border-b border-red-900/40 pb-3">
-        <h1 className="text-xl md:text-3xl font-black tracking-wider bg-gradient-to-r from-red-500 via-rose-600 to-red-700 bg-clip-text text-transparent uppercase">
-          IAABISMAL HELLFIRE ENGINE
-        </h1>
-        <p className="text-[10px] text-red-400/80 tracking-widest mt-1">AUDIO EXTREMO • 1000 TRACKS CORE-X</p>
-      </div>
-
-      {/* FILTROS */}
-      <div className="flex gap-2 overflow-x-auto pb-2 scrollbar-hide text-xs">
-        {['TODO','DEATH','THRASH','BLACK','POWER','VIKINGOS','DOOM','SANGRE','INFIERNO'].map(f=>(
-          <button 
-            key={f} 
-            onClick={()=>{setFilter(f); setCurrent(0)}} 
-            className={`px-3 py-1.5 font-bold uppercase tracking-wider border transition-all whitespace-nowrap shrink-0 ${
-              filter===f 
-                ? 'bg-red-600 text-zinc-950 border-red-500 shadow-[0_0_10px_rgba(220,38,38,0.5)]' 
-                : 'bg-zinc-900 border-zinc-800 text-zinc-400 hover:border-red-800'
-            }`}
-          >
-            {f}
-          </button>
+    <div style={{background:'#000',color:'#fff',minHeight:'100vh',padding:'16px',fontFamily:'monospace'}}>
+      <div style={{display:'flex',gap:'6px',flexWrap:'wrap'}}>
+        {['TODO','MUERTE','SANGRE','DIABLO','BLACK','DEATH','THRASH','POWER','VIKINGOS','DOOM'].map(f=>(
+          <button key={f} onClick={()=>{setFilter(f); setCurrent(0)}} style={{padding:'8px 12px',fontSize:'12px',fontWeight:900,border:'1px solid',background:filter===f?'#dc2626':'#111',color:filter===f?'#000':'#888',borderColor:filter===f?'#dc2626':'#222'}}>{f} {f==='TODO'?`(${filtered.length})`:''}</button>
         ))}
       </div>
 
-      {/* BUSCADOR */}
-      <input 
-        value={search} 
-        onChange={e=>setSearch(e.target.value)} 
-        placeholder="Buscar banda o rola..." 
-        className="w-full mt-3 bg-zinc-900 border border-zinc-800 p-2.5 text-xs text-red-100 placeholder-zinc-600 outline-none focus:border-red-600" 
-      />
+      <input value={search} onChange={e=>setSearch(e.target.value)} placeholder="Buscar muerte sangre diablo..." style={{width:'100%',marginTop:'16px',background:'#0a0a0a',border:'1px solid #222',padding:'12px',color:'#fff',outline:'none'}} />
+      <div style={{marginTop:'8px',fontSize:'10px',color:'#7f1d1d',letterSpacing:'2px'}}>• LIVE • {filtered.length} EN COLA • CLICK PLAY</div>
 
-      {/* TARJETA DE REPRODUCCIÓN / LANZADOR NATIVO */}
       {t && (
-        <div className="mt-4 border border-red-900/50 bg-zinc-900/90 p-4 shadow-xl">
-          <div className="flex justify-between items-center mb-2">
-            <span className="text-[10px] bg-red-600 text-zinc-950 px-2 py-0.5 font-black uppercase">{t.sub}</span>
-            <span className="text-[10px] text-zinc-400 font-mono">#{current + 1} / {filtered.length}</span>
+        <div style={{marginTop:'24px',border:'1px solid #7f1d1d33',background:'#080808',padding:'24px',display:'flex',gap:'24px',flexWrap:'wrap'}}>
+          <div style={{width:'192px',height:'192px',background:'#111',border:'1px solid #222',overflow:'hidden'}}>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src={`https://img.youtube.com/vi/${t.yt}/hqdefault.jpg`} alt="" style={{width:'100%',height:'100%',objectFit:'cover'}} onError={(e:any)=>e.target.src='https://via.placeholder.com/192?text=ABISMAL'} />
           </div>
-
-          <h2 className="text-lg md:text-xl font-black text-white truncate">{t.band}</h2>
-          <p className="text-sm text-red-400 font-bold truncate">{t.title}</p>
-          <div className="flex gap-1 mt-1 text-[9px] text-zinc-400">
-            {t.themes?.map((th:string)=>(<span key={th} className="bg-zinc-950 px-1.5 py-0.5 border border-zinc-800">{th}</span>))}
-          </div>
-
-          {/* BANNER CLICKEABLE CON THUMBNAIL (EVITA BLOQUEOS DE EMBED) */}
-          <div 
-            onClick={()=>window.open(`https://www.youtube.com/watch?v=${t.yt}`,'_blank')}
-            className="mt-3 aspect-video w-full bg-black border border-red-900/60 relative cursor-pointer group overflow-hidden flex items-center justify-center shadow-[0_0_20px_rgba(220,38,38,0.15)]"
-          >
-            <img 
-              src={`https://i.ytimg.com/vi/${t.yt}/hqdefault.jpg`} 
-              alt={t.title} 
-              className="w-full h-full object-cover opacity-80 group-hover:scale-105 group-hover:opacity-100 transition-all duration-300" 
-            />
-            <div className="absolute inset-0 bg-red-950/40 flex items-center justify-center group-hover:bg-red-950/20 transition-all">
-              <div className="bg-red-600 text-zinc-950 px-5 py-3 font-black text-xs md:text-sm uppercase tracking-widest shadow-[0_0_25px_rgba(220,38,38,0.9)] group-hover:scale-110 transition-transform flex items-center gap-2 border border-red-400">
-                ▶ DESATAR EN YOUTUBE
-              </div>
+          <div style={{flex:1,minWidth:'260px'}}>
+            <h2 style={{fontSize:'22px',fontWeight:900}}>{t.band} - {t.title}</h2>
+            <p style={{fontSize:'11px',color:'#991b1b',marginTop:'4px',textTransform:'uppercase'}}>{t.band} • {(t.themes||[]).join(', ')}</p>
+            <div style={{display:'flex',flexDirection:'column',gap:'8px',marginTop:'20px',maxWidth:'220px'}}>
+              <button onClick={()=>setCurrent(p=>Math.max(0,p-1))} style={{background:'#111',border:'1px solid #333',padding:'8px'}}>◀ ATRÁS</button>
+              <button onClick={()=>window.open(`https://www.youtube.com/watch?v=${t.yt}`,'_blank')} style={{background:'#dc2626',color:'#000',fontWeight:900,padding:'12px',letterSpacing:'1px'}}>▶ DESATAR EN YT</button>
+              <button onClick={()=>setCurrent(p=>Math.min(filtered.length-1,p+1))} style={{background:'#111',border:'1px solid #333',padding:'8px'}}>ADELANTE ▶</button>
+              <button onClick={()=>setCurrent(Math.floor(Math.random()*filtered.length))} style={{border:'1px solid #7f1d1d33',color:'#7f1d1d',padding:'8px'}}>🔀 DISRUPCIÓN</button>
             </div>
-          </div>
-
-          {/* BOTONES DE CONTROL */}
-          <div className="grid grid-cols-4 gap-1.5 mt-3">
-            <button 
-              onClick={()=>setCurrent(p=>Math.max(0,p-1))} 
-              className="bg-zinc-800 py-2 text-[10px] font-bold text-zinc-200 hover:bg-red-900 transition-all"
-            >
-              ◀ ANTES
-            </button>
-            <button 
-              onClick={()=>window.open(`https://www.youtube.com/watch?v=${t.yt}`,'_blank')} 
-              className="bg-red-600 text-zinc-950 font-black py-2 text-[10px] hover:bg-red-500 transition-all flex items-center justify-center"
-            >
-              ▶ ABRIR
-            </button>
-            <button 
-              onClick={()=>setCurrent(p=>Math.min(filtered.length-1,p+1))} 
-              className="bg-zinc-800 py-2 text-[10px] font-bold text-zinc-200 hover:bg-red-900 transition-all"
-            >
-              SIGUE ▶
-            </button>
-            <button 
-              onClick={()=>setCurrent(Math.floor(Math.random()*filtered.length))} 
-              className="bg-zinc-950 border border-red-900 text-red-400 py-2 text-[10px] font-bold hover:bg-red-950"
-            >
-              🔀 RANDOM
-            </button>
+            {/* Player embebido que no da "no disponible" */}
+            <div style={{marginTop:'20px',border:'1px solid #222'}}>
+              <iframe width="100%" height="200" src={`https://www.youtube-nocookie.com/embed/${t.yt}?rel=0`} title="player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+            </div>
           </div>
         </div>
       )}
 
-      {/* LISTA DE ROLAS */}
-      <div className="mt-6 text-xs text-red-500 font-bold border-b border-zinc-900 pb-1 flex justify-between">
-        <span>COLA ACTIVA</span>
-        <span>{filtered.length} ROLAS</span>
-      </div>
-
-      <div className="mt-2 space-y-1 max-h-96 overflow-y-auto pr-1">
-        {filtered.slice(0, 200).map((tr:any, i:number)=>(
-          <div 
-            key={tr.id} 
-            onClick={()=>setCurrent(i)} 
-            className={`p-2.5 cursor-pointer flex justify-between items-center text-xs transition-all border ${
-              i===current 
-                ? 'bg-red-950/50 border-red-600 text-white' 
-                : 'bg-zinc-900/40 border-zinc-900 text-zinc-300 hover:bg-zinc-900'
-            }`}
-          >
-            <div className="truncate pr-2">
-              <span className="text-red-500 font-bold mr-1">#{i+1}</span>
-              <span className="font-bold text-white">{tr.band}</span> - <span className="text-zinc-400">{tr.title}</span>
-            </div>
-            <span className="text-[9px] bg-zinc-900 px-1.5 py-0.5 border border-zinc-800 shrink-0 text-red-400">{tr.sub}</span>
+      <div style={{marginTop:'24px',fontSize:'11px',color:'#7f1d1d',letterSpacing:'2px'}}>BLOQUE: {filter} • {filtered.length} ROLAS</div>
+      <div style={{borderTop:'1px solid #111',marginTop:'8px'}}>
+        {filtered.slice(0,200).map((tr:any,i:number)=>(
+          <div key={tr.id} onClick={()=>setCurrent(i)} style={{padding:'10px',cursor:'pointer',display:'flex',justifyContent:'space-between',background:i===current?'#7f1d1d22':'transparent',borderLeft:i===current?'2px solid #dc2626':'2px solid transparent'}}>
+            <div><div style={{color:'#f87171',fontSize:'14px'}}>{tr.band} - {tr.title}</div><div style={{fontSize:'10px',color:'#555',textTransform:'uppercase'}}>{tr.sub} • RITUALES • INFIERNO</div></div>
+            <div style={{fontSize:'10px',color:'#333'}}>{tr.sub}</div>
           </div>
         ))}
       </div>
