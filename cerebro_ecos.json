@@ -1,0 +1,26 @@
+[
+  {
+    "video_id": "_RSmH8Nzffo",
+    "fecha": "2026-10-06",
+    "hilos": "error",
+    "nodos": "type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'",
+    "oportunidad": "",
+    "transcript_corto": ""
+  },
+  {
+    "video_id": "rWccwNW4JC0",
+    "fecha": "2026-10-06",
+    "hilos": "error",
+    "nodos": "type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'",
+    "oportunidad": "",
+    "transcript_corto": ""
+  },
+  {
+    "video_id": "AUiqaFIONPQ",
+    "fecha": "2026-10-06",
+    "hilos": "error",
+    "nodos": "type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'",
+    "oportunidad": "",
+    "transcript_corto": ""
+  }
+]
