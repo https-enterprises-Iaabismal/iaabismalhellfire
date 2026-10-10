@@ -1,3 +1,5 @@
 /feed/metal
   Content-Type: application/rss+xml
   Access-Control-Allow-Origin: *
+/sw.js
+  Cache-Control: no-cache

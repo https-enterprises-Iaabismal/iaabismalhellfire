@@ -1,16 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-<channel>
-<title>IA ABISMAL HELLFIRE - DEPTHS 11000M</title>
-<link>https://abismal.pages.dev/feed/metal</link>
-<description>Death Metal Industrial - 11000M - https-enterprises-Iaabismal</description>
-<language>es-mx</language>
-<item>
-<title>DEPTHS 11000M - THE CORE BREACH</title>
-<description>LANZAMIENTO OFICIAL - https-enterprises-Iaabismal</description>
-<link>https://abismal.pages.dev/</link>
-<guid>core-breach-2026</guid>
-<pubDate>Thu, 09 Oct 2026 00:00:00 GMT</pubDate>
-</item>
-</channel>
-</rss>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>IA ABISMAL HELLFIRE</title><link>https://abismal.pages.dev/feed/metal</link><description>11,000M - https-enterprises-Iaabismal</description><item><title>DEPTHS 11000M - THE CORE BREACH</title><link>https://abismal.pages.dev/</link><guid>core-breach-2026</guid><pubDate>Thu, 09 Oct 2026 00:00:00 GMT</pubDate></item></channel></rss>
