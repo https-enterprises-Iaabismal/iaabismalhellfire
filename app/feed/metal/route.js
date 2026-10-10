@@ -7,14 +7,14 @@ export async function GET() {
   <link>${baseUrl}/feed/metal</link>
   <description>Reactor C++ a 11,000M - Death Metal Industrial</description>
   <language>es-mx</language>
-  <pubDate>Sat, 10 Oct 2026 00:51:11 +0000</pubDate>
+  <pubDate>Sat, 10 Oct 2026 00:53:32 +0000</pubDate>
   <itunes:explicit>true</itunes:explicit>
   <item>
     <title>DEPTHS 11000M - THE CORE BREACH</title>
     <description><![CDATA[LANZAMIENTO OFICIAL DEATH METAL - https-enterprises-Iaabismal]]></description>
     <link>${baseUrl}/releases/core-breach</link>
     <guid>core-breach-2026</guid>
-    <pubDate>Sat, 10 Oct 2026 00:51:11 +0000</pubDate>
+    <pubDate>Sat, 10 Oct 2026 00:53:32 +0000</pubDate>
     <enclosure url="${baseUrl}/covers/ia_abismal_hellfire_album_cover.webp" type="image/webp" />
     <media:content url="${baseUrl}/covers/ia_abismal_hellfire_vertical.webp" medium="image" />
   </item>
