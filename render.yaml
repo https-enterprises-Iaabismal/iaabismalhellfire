@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: hellfire
+    runtime: node
+    plan: free
+    branch: main
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 22
+      - key: STRIPE_SECRET_KEY
+        sync: false
+      - key: MP_ACCESS_TOKEN
+        sync: false
+      - key: NEXT_PUBLIC_URL
+        sync: false
