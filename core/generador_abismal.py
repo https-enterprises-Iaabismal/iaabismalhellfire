@@ -38,4 +38,4 @@ pathlib.Path("public/data/metal-tracks.json").write_text(
     json.dumps({"version": "5.0", "engine": "AeroCore-X", "total": len(tracks), "tracks": tracks}, ensure_ascii=False, indent=2),
     encoding="utf-8"
 )
-print(f"🔥 {len(tracks)} Rolas generadas exitosamente en public/data/metal-tracks.json")
+print(f"🔥 {len(tracks)} Rolas generadas exitosamente.")
